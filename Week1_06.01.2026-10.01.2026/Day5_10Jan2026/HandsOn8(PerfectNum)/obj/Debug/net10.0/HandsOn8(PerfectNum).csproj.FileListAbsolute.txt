@@ -1,0 +1,15 @@
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/HandsOn8(PerfectNum)/bin/Debug/net10.0/HandsOn8(PerfectNum)
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/HandsOn8(PerfectNum)/bin/Debug/net10.0/HandsOn8(PerfectNum).deps.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/HandsOn8(PerfectNum)/bin/Debug/net10.0/HandsOn8(PerfectNum).runtimeconfig.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/HandsOn8(PerfectNum)/bin/Debug/net10.0/HandsOn8(PerfectNum).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/HandsOn8(PerfectNum)/bin/Debug/net10.0/HandsOn8(PerfectNum).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/HandsOn8(PerfectNum)/obj/Debug/net10.0/HandsOn8(PerfectNum).GeneratedMSBuildEditorConfig.editorconfig
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/HandsOn8(PerfectNum)/obj/Debug/net10.0/HandsOn8(PerfectNum).AssemblyInfoInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/HandsOn8(PerfectNum)/obj/Debug/net10.0/HandsOn8(PerfectNum).AssemblyInfo.cs
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/HandsOn8(PerfectNum)/obj/Debug/net10.0/HandsOn8(PerfectNum).csproj.CoreCompileInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/HandsOn8(PerfectNum)/obj/Debug/net10.0/HandsOn8(PerfectNum).sourcelink.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/HandsOn8(PerfectNum)/obj/Debug/net10.0/HandsOn8(PerfectNum).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/HandsOn8(PerfectNum)/obj/Debug/net10.0/refint/HandsOn8(PerfectNum).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/HandsOn8(PerfectNum)/obj/Debug/net10.0/HandsOn8(PerfectNum).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/HandsOn8(PerfectNum)/obj/Debug/net10.0/HandsOn8(PerfectNum).genruntimeconfig.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/HandsOn8(PerfectNum)/obj/Debug/net10.0/ref/HandsOn8(PerfectNum).dll

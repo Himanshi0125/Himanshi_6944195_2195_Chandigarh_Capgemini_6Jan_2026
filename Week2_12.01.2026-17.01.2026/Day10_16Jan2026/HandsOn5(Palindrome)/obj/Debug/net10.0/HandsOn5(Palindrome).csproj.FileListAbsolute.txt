@@ -1,0 +1,15 @@
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day10_16Jan2026/HandsOn5(Palindrome)/bin/Debug/net10.0/HandsOn5(Palindrome)
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day10_16Jan2026/HandsOn5(Palindrome)/bin/Debug/net10.0/HandsOn5(Palindrome).deps.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day10_16Jan2026/HandsOn5(Palindrome)/bin/Debug/net10.0/HandsOn5(Palindrome).runtimeconfig.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day10_16Jan2026/HandsOn5(Palindrome)/bin/Debug/net10.0/HandsOn5(Palindrome).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day10_16Jan2026/HandsOn5(Palindrome)/bin/Debug/net10.0/HandsOn5(Palindrome).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day10_16Jan2026/HandsOn5(Palindrome)/obj/Debug/net10.0/HandsOn5(Palindrome).GeneratedMSBuildEditorConfig.editorconfig
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day10_16Jan2026/HandsOn5(Palindrome)/obj/Debug/net10.0/HandsOn5(Palindrome).AssemblyInfoInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day10_16Jan2026/HandsOn5(Palindrome)/obj/Debug/net10.0/HandsOn5(Palindrome).AssemblyInfo.cs
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day10_16Jan2026/HandsOn5(Palindrome)/obj/Debug/net10.0/HandsOn5(Palindrome).csproj.CoreCompileInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day10_16Jan2026/HandsOn5(Palindrome)/obj/Debug/net10.0/HandsOn5(Palindrome).sourcelink.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day10_16Jan2026/HandsOn5(Palindrome)/obj/Debug/net10.0/HandsOn5(Palindrome).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day10_16Jan2026/HandsOn5(Palindrome)/obj/Debug/net10.0/refint/HandsOn5(Palindrome).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day10_16Jan2026/HandsOn5(Palindrome)/obj/Debug/net10.0/HandsOn5(Palindrome).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day10_16Jan2026/HandsOn5(Palindrome)/obj/Debug/net10.0/HandsOn5(Palindrome).genruntimeconfig.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day10_16Jan2026/HandsOn5(Palindrome)/obj/Debug/net10.0/ref/HandsOn5(Palindrome).dll

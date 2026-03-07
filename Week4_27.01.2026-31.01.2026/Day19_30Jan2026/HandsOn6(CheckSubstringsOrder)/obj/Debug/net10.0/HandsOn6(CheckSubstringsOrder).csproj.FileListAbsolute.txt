@@ -1,0 +1,15 @@
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day19_30Jan2026/HandsOn6(CheckSubstringsOrder)/bin/Debug/net10.0/HandsOn6(CheckSubstringsOrder)
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day19_30Jan2026/HandsOn6(CheckSubstringsOrder)/bin/Debug/net10.0/HandsOn6(CheckSubstringsOrder).deps.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day19_30Jan2026/HandsOn6(CheckSubstringsOrder)/bin/Debug/net10.0/HandsOn6(CheckSubstringsOrder).runtimeconfig.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day19_30Jan2026/HandsOn6(CheckSubstringsOrder)/bin/Debug/net10.0/HandsOn6(CheckSubstringsOrder).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day19_30Jan2026/HandsOn6(CheckSubstringsOrder)/bin/Debug/net10.0/HandsOn6(CheckSubstringsOrder).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day19_30Jan2026/HandsOn6(CheckSubstringsOrder)/obj/Debug/net10.0/HandsOn6(CheckSubstringsOrder).GeneratedMSBuildEditorConfig.editorconfig
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day19_30Jan2026/HandsOn6(CheckSubstringsOrder)/obj/Debug/net10.0/HandsOn6(CheckSubstringsOrder).AssemblyInfoInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day19_30Jan2026/HandsOn6(CheckSubstringsOrder)/obj/Debug/net10.0/HandsOn6(CheckSubstringsOrder).AssemblyInfo.cs
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day19_30Jan2026/HandsOn6(CheckSubstringsOrder)/obj/Debug/net10.0/HandsOn6(CheckSubstringsOrder).csproj.CoreCompileInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day19_30Jan2026/HandsOn6(CheckSubstringsOrder)/obj/Debug/net10.0/HandsOn6(CheckSubstringsOrder).sourcelink.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day19_30Jan2026/HandsOn6(CheckSubstringsOrder)/obj/Debug/net10.0/HandsOn6(CheckSubstringsOrder).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day19_30Jan2026/HandsOn6(CheckSubstringsOrder)/obj/Debug/net10.0/refint/HandsOn6(CheckSubstringsOrder).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day19_30Jan2026/HandsOn6(CheckSubstringsOrder)/obj/Debug/net10.0/HandsOn6(CheckSubstringsOrder).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day19_30Jan2026/HandsOn6(CheckSubstringsOrder)/obj/Debug/net10.0/HandsOn6(CheckSubstringsOrder).genruntimeconfig.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day19_30Jan2026/HandsOn6(CheckSubstringsOrder)/obj/Debug/net10.0/ref/HandsOn6(CheckSubstringsOrder).dll

@@ -1,0 +1,15 @@
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day10_16Jan2026/HandsOn1(GrossSalaryCalculator)/bin/Debug/net10.0/HandsOn1(GrossSalaryCalculator)
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day10_16Jan2026/HandsOn1(GrossSalaryCalculator)/bin/Debug/net10.0/HandsOn1(GrossSalaryCalculator).deps.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day10_16Jan2026/HandsOn1(GrossSalaryCalculator)/bin/Debug/net10.0/HandsOn1(GrossSalaryCalculator).runtimeconfig.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day10_16Jan2026/HandsOn1(GrossSalaryCalculator)/bin/Debug/net10.0/HandsOn1(GrossSalaryCalculator).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day10_16Jan2026/HandsOn1(GrossSalaryCalculator)/bin/Debug/net10.0/HandsOn1(GrossSalaryCalculator).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day10_16Jan2026/HandsOn1(GrossSalaryCalculator)/obj/Debug/net10.0/HandsOn1(GrossSalaryCalculator).GeneratedMSBuildEditorConfig.editorconfig
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day10_16Jan2026/HandsOn1(GrossSalaryCalculator)/obj/Debug/net10.0/HandsOn1(GrossSalaryCalculator).AssemblyInfoInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day10_16Jan2026/HandsOn1(GrossSalaryCalculator)/obj/Debug/net10.0/HandsOn1(GrossSalaryCalculator).AssemblyInfo.cs
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day10_16Jan2026/HandsOn1(GrossSalaryCalculator)/obj/Debug/net10.0/HandsOn1(GrossSalaryCalculator).csproj.CoreCompileInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day10_16Jan2026/HandsOn1(GrossSalaryCalculator)/obj/Debug/net10.0/HandsOn1(GrossSalaryCalculator).sourcelink.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day10_16Jan2026/HandsOn1(GrossSalaryCalculator)/obj/Debug/net10.0/HandsOn1(GrossSalaryCalculator).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day10_16Jan2026/HandsOn1(GrossSalaryCalculator)/obj/Debug/net10.0/refint/HandsOn1(GrossSalaryCalculator).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day10_16Jan2026/HandsOn1(GrossSalaryCalculator)/obj/Debug/net10.0/HandsOn1(GrossSalaryCalculator).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day10_16Jan2026/HandsOn1(GrossSalaryCalculator)/obj/Debug/net10.0/HandsOn1(GrossSalaryCalculator).genruntimeconfig.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day10_16Jan2026/HandsOn1(GrossSalaryCalculator)/obj/Debug/net10.0/ref/HandsOn1(GrossSalaryCalculator).dll

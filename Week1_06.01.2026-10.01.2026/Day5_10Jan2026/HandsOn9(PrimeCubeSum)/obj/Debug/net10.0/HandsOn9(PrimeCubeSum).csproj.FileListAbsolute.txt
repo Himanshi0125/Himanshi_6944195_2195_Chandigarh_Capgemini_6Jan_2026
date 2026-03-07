@@ -1,0 +1,15 @@
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/HandsOn9(PrimeCubeSum)/bin/Debug/net10.0/HandsOn9(PrimeCubeSum)
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/HandsOn9(PrimeCubeSum)/bin/Debug/net10.0/HandsOn9(PrimeCubeSum).deps.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/HandsOn9(PrimeCubeSum)/bin/Debug/net10.0/HandsOn9(PrimeCubeSum).runtimeconfig.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/HandsOn9(PrimeCubeSum)/bin/Debug/net10.0/HandsOn9(PrimeCubeSum).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/HandsOn9(PrimeCubeSum)/bin/Debug/net10.0/HandsOn9(PrimeCubeSum).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/HandsOn9(PrimeCubeSum)/obj/Debug/net10.0/HandsOn9(PrimeCubeSum).GeneratedMSBuildEditorConfig.editorconfig
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/HandsOn9(PrimeCubeSum)/obj/Debug/net10.0/HandsOn9(PrimeCubeSum).AssemblyInfoInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/HandsOn9(PrimeCubeSum)/obj/Debug/net10.0/HandsOn9(PrimeCubeSum).AssemblyInfo.cs
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/HandsOn9(PrimeCubeSum)/obj/Debug/net10.0/HandsOn9(PrimeCubeSum).csproj.CoreCompileInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/HandsOn9(PrimeCubeSum)/obj/Debug/net10.0/HandsOn9(PrimeCubeSum).sourcelink.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/HandsOn9(PrimeCubeSum)/obj/Debug/net10.0/HandsOn9(PrimeCubeSum).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/HandsOn9(PrimeCubeSum)/obj/Debug/net10.0/refint/HandsOn9(PrimeCubeSum).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/HandsOn9(PrimeCubeSum)/obj/Debug/net10.0/HandsOn9(PrimeCubeSum).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/HandsOn9(PrimeCubeSum)/obj/Debug/net10.0/HandsOn9(PrimeCubeSum).genruntimeconfig.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/HandsOn9(PrimeCubeSum)/obj/Debug/net10.0/ref/HandsOn9(PrimeCubeSum).dll

@@ -1,0 +1,15 @@
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day3_14Jan2026/ProjectManagement(AbstractInterface)/obj/Debug/net10.0/ProjectManagement(AbstractInterface).GeneratedMSBuildEditorConfig.editorconfig
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day3_14Jan2026/ProjectManagement(AbstractInterface)/obj/Debug/net10.0/ProjectManagement(AbstractInterface).AssemblyInfoInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day3_14Jan2026/ProjectManagement(AbstractInterface)/obj/Debug/net10.0/ProjectManagement(AbstractInterface).AssemblyInfo.cs
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day3_14Jan2026/ProjectManagement(AbstractInterface)/obj/Debug/net10.0/ProjectManagement(AbstractInterface).csproj.CoreCompileInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day3_14Jan2026/ProjectManagement(AbstractInterface)/obj/Debug/net10.0/ProjectManagement(AbstractInterface).sourcelink.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day3_14Jan2026/ProjectManagement(AbstractInterface)/bin/Debug/net10.0/ProjectManagement(AbstractInterface)
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day3_14Jan2026/ProjectManagement(AbstractInterface)/bin/Debug/net10.0/ProjectManagement(AbstractInterface).deps.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day3_14Jan2026/ProjectManagement(AbstractInterface)/bin/Debug/net10.0/ProjectManagement(AbstractInterface).runtimeconfig.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day3_14Jan2026/ProjectManagement(AbstractInterface)/bin/Debug/net10.0/ProjectManagement(AbstractInterface).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day3_14Jan2026/ProjectManagement(AbstractInterface)/bin/Debug/net10.0/ProjectManagement(AbstractInterface).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day3_14Jan2026/ProjectManagement(AbstractInterface)/obj/Debug/net10.0/ProjectManagement(AbstractInterface).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day3_14Jan2026/ProjectManagement(AbstractInterface)/obj/Debug/net10.0/refint/ProjectManagement(AbstractInterface).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day3_14Jan2026/ProjectManagement(AbstractInterface)/obj/Debug/net10.0/ProjectManagement(AbstractInterface).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day3_14Jan2026/ProjectManagement(AbstractInterface)/obj/Debug/net10.0/ProjectManagement(AbstractInterface).genruntimeconfig.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day3_14Jan2026/ProjectManagement(AbstractInterface)/obj/Debug/net10.0/ref/ProjectManagement(AbstractInterface).dll

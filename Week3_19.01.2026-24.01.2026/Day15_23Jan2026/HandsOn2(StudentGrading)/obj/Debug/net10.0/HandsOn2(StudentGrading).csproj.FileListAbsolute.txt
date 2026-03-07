@@ -1,0 +1,15 @@
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day15_23Jan2026/HandsOn2(StudentGrading)/bin/Debug/net10.0/HandsOn2(StudentGrading)
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day15_23Jan2026/HandsOn2(StudentGrading)/bin/Debug/net10.0/HandsOn2(StudentGrading).deps.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day15_23Jan2026/HandsOn2(StudentGrading)/bin/Debug/net10.0/HandsOn2(StudentGrading).runtimeconfig.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day15_23Jan2026/HandsOn2(StudentGrading)/bin/Debug/net10.0/HandsOn2(StudentGrading).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day15_23Jan2026/HandsOn2(StudentGrading)/bin/Debug/net10.0/HandsOn2(StudentGrading).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day15_23Jan2026/HandsOn2(StudentGrading)/obj/Debug/net10.0/HandsOn2(StudentGrading).GeneratedMSBuildEditorConfig.editorconfig
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day15_23Jan2026/HandsOn2(StudentGrading)/obj/Debug/net10.0/HandsOn2(StudentGrading).AssemblyInfoInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day15_23Jan2026/HandsOn2(StudentGrading)/obj/Debug/net10.0/HandsOn2(StudentGrading).AssemblyInfo.cs
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day15_23Jan2026/HandsOn2(StudentGrading)/obj/Debug/net10.0/HandsOn2(StudentGrading).csproj.CoreCompileInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day15_23Jan2026/HandsOn2(StudentGrading)/obj/Debug/net10.0/HandsOn2(StudentGrading).sourcelink.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day15_23Jan2026/HandsOn2(StudentGrading)/obj/Debug/net10.0/HandsOn2(StudentGrading).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day15_23Jan2026/HandsOn2(StudentGrading)/obj/Debug/net10.0/refint/HandsOn2(StudentGrading).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day15_23Jan2026/HandsOn2(StudentGrading)/obj/Debug/net10.0/HandsOn2(StudentGrading).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day15_23Jan2026/HandsOn2(StudentGrading)/obj/Debug/net10.0/HandsOn2(StudentGrading).genruntimeconfig.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day15_23Jan2026/HandsOn2(StudentGrading)/obj/Debug/net10.0/ref/HandsOn2(StudentGrading).dll

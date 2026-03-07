@@ -1,0 +1,15 @@
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day4_09Jan2026/HandsOn9(SearchElement)/obj/Debug/net10.0/HandsOn9(SearchElement).GeneratedMSBuildEditorConfig.editorconfig
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day4_09Jan2026/HandsOn9(SearchElement)/obj/Debug/net10.0/HandsOn9(SearchElement).AssemblyInfoInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day4_09Jan2026/HandsOn9(SearchElement)/obj/Debug/net10.0/HandsOn9(SearchElement).AssemblyInfo.cs
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day4_09Jan2026/HandsOn9(SearchElement)/obj/Debug/net10.0/HandsOn9(SearchElement).csproj.CoreCompileInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day4_09Jan2026/HandsOn9(SearchElement)/obj/Debug/net10.0/HandsOn9(SearchElement).sourcelink.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day4_09Jan2026/HandsOn9(SearchElement)/bin/Debug/net10.0/HandsOn9(SearchElement)
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day4_09Jan2026/HandsOn9(SearchElement)/bin/Debug/net10.0/HandsOn9(SearchElement).deps.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day4_09Jan2026/HandsOn9(SearchElement)/bin/Debug/net10.0/HandsOn9(SearchElement).runtimeconfig.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day4_09Jan2026/HandsOn9(SearchElement)/bin/Debug/net10.0/HandsOn9(SearchElement).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day4_09Jan2026/HandsOn9(SearchElement)/bin/Debug/net10.0/HandsOn9(SearchElement).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day4_09Jan2026/HandsOn9(SearchElement)/obj/Debug/net10.0/HandsOn9(SearchElement).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day4_09Jan2026/HandsOn9(SearchElement)/obj/Debug/net10.0/refint/HandsOn9(SearchElement).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day4_09Jan2026/HandsOn9(SearchElement)/obj/Debug/net10.0/HandsOn9(SearchElement).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day4_09Jan2026/HandsOn9(SearchElement)/obj/Debug/net10.0/HandsOn9(SearchElement).genruntimeconfig.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day4_09Jan2026/HandsOn9(SearchElement)/obj/Debug/net10.0/ref/HandsOn9(SearchElement).dll

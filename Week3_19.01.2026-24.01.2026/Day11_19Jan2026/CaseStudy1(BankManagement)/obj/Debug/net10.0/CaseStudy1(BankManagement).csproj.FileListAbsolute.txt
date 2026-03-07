@@ -1,0 +1,15 @@
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day11_19Jan2026/CaseStudy1(BankManagement)/obj/Debug/net10.0/CaseStudy1(BankManagement).GeneratedMSBuildEditorConfig.editorconfig
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day11_19Jan2026/CaseStudy1(BankManagement)/obj/Debug/net10.0/CaseStudy1(BankManagement).AssemblyInfoInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day11_19Jan2026/CaseStudy1(BankManagement)/obj/Debug/net10.0/CaseStudy1(BankManagement).AssemblyInfo.cs
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day11_19Jan2026/CaseStudy1(BankManagement)/obj/Debug/net10.0/CaseStudy1(BankManagement).csproj.CoreCompileInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day11_19Jan2026/CaseStudy1(BankManagement)/obj/Debug/net10.0/CaseStudy1(BankManagement).sourcelink.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day11_19Jan2026/CaseStudy1(BankManagement)/bin/Debug/net10.0/CaseStudy1(BankManagement)
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day11_19Jan2026/CaseStudy1(BankManagement)/bin/Debug/net10.0/CaseStudy1(BankManagement).deps.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day11_19Jan2026/CaseStudy1(BankManagement)/bin/Debug/net10.0/CaseStudy1(BankManagement).runtimeconfig.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day11_19Jan2026/CaseStudy1(BankManagement)/bin/Debug/net10.0/CaseStudy1(BankManagement).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day11_19Jan2026/CaseStudy1(BankManagement)/bin/Debug/net10.0/CaseStudy1(BankManagement).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day11_19Jan2026/CaseStudy1(BankManagement)/obj/Debug/net10.0/CaseStudy1(BankManagement).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day11_19Jan2026/CaseStudy1(BankManagement)/obj/Debug/net10.0/refint/CaseStudy1(BankManagement).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day11_19Jan2026/CaseStudy1(BankManagement)/obj/Debug/net10.0/CaseStudy1(BankManagement).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day11_19Jan2026/CaseStudy1(BankManagement)/obj/Debug/net10.0/CaseStudy1(BankManagement).genruntimeconfig.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day11_19Jan2026/CaseStudy1(BankManagement)/obj/Debug/net10.0/ref/CaseStudy1(BankManagement).dll

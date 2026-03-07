@@ -1,0 +1,15 @@
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day3_14Jan2026/HandsOn2(OddDigitSquareSum)/bin/Debug/net10.0/HandsOn2(OddDigitSquareSum)
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day3_14Jan2026/HandsOn2(OddDigitSquareSum)/bin/Debug/net10.0/HandsOn2(OddDigitSquareSum).deps.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day3_14Jan2026/HandsOn2(OddDigitSquareSum)/bin/Debug/net10.0/HandsOn2(OddDigitSquareSum).runtimeconfig.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day3_14Jan2026/HandsOn2(OddDigitSquareSum)/bin/Debug/net10.0/HandsOn2(OddDigitSquareSum).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day3_14Jan2026/HandsOn2(OddDigitSquareSum)/bin/Debug/net10.0/HandsOn2(OddDigitSquareSum).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day3_14Jan2026/HandsOn2(OddDigitSquareSum)/obj/Debug/net10.0/HandsOn2(OddDigitSquareSum).GeneratedMSBuildEditorConfig.editorconfig
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day3_14Jan2026/HandsOn2(OddDigitSquareSum)/obj/Debug/net10.0/HandsOn2(OddDigitSquareSum).AssemblyInfoInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day3_14Jan2026/HandsOn2(OddDigitSquareSum)/obj/Debug/net10.0/HandsOn2(OddDigitSquareSum).AssemblyInfo.cs
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day3_14Jan2026/HandsOn2(OddDigitSquareSum)/obj/Debug/net10.0/HandsOn2(OddDigitSquareSum).csproj.CoreCompileInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day3_14Jan2026/HandsOn2(OddDigitSquareSum)/obj/Debug/net10.0/HandsOn2(OddDigitSquareSum).sourcelink.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day3_14Jan2026/HandsOn2(OddDigitSquareSum)/obj/Debug/net10.0/HandsOn2(OddDigitSquareSum).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day3_14Jan2026/HandsOn2(OddDigitSquareSum)/obj/Debug/net10.0/refint/HandsOn2(OddDigitSquareSum).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day3_14Jan2026/HandsOn2(OddDigitSquareSum)/obj/Debug/net10.0/HandsOn2(OddDigitSquareSum).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day3_14Jan2026/HandsOn2(OddDigitSquareSum)/obj/Debug/net10.0/HandsOn2(OddDigitSquareSum).genruntimeconfig.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day3_14Jan2026/HandsOn2(OddDigitSquareSum)/obj/Debug/net10.0/ref/HandsOn2(OddDigitSquareSum).dll

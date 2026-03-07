@@ -1,0 +1,15 @@
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day1_6Jan2026/HelloWorld/bin/Debug/net10.0/HelloWorld
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day1_6Jan2026/HelloWorld/bin/Debug/net10.0/HelloWorld.deps.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day1_6Jan2026/HelloWorld/bin/Debug/net10.0/HelloWorld.runtimeconfig.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day1_6Jan2026/HelloWorld/bin/Debug/net10.0/HelloWorld.dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day1_6Jan2026/HelloWorld/bin/Debug/net10.0/HelloWorld.pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day1_6Jan2026/HelloWorld/obj/Debug/net10.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day1_6Jan2026/HelloWorld/obj/Debug/net10.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day1_6Jan2026/HelloWorld/obj/Debug/net10.0/HelloWorld.AssemblyInfo.cs
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day1_6Jan2026/HelloWorld/obj/Debug/net10.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day1_6Jan2026/HelloWorld/obj/Debug/net10.0/HelloWorld.sourcelink.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day1_6Jan2026/HelloWorld/obj/Debug/net10.0/HelloWorld.dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day1_6Jan2026/HelloWorld/obj/Debug/net10.0/refint/HelloWorld.dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day1_6Jan2026/HelloWorld/obj/Debug/net10.0/HelloWorld.pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day1_6Jan2026/HelloWorld/obj/Debug/net10.0/HelloWorld.genruntimeconfig.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day1_6Jan2026/HelloWorld/obj/Debug/net10.0/ref/HelloWorld.dll

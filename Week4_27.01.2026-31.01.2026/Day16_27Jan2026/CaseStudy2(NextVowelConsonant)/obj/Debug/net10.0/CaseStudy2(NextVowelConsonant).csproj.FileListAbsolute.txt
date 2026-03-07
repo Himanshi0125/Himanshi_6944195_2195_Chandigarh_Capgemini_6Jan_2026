@@ -1,0 +1,15 @@
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/CaseStudy2(NextVowelConsonant)/bin/Debug/net10.0/CaseStudy2(NextVowelConsonant)
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/CaseStudy2(NextVowelConsonant)/bin/Debug/net10.0/CaseStudy2(NextVowelConsonant).deps.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/CaseStudy2(NextVowelConsonant)/bin/Debug/net10.0/CaseStudy2(NextVowelConsonant).runtimeconfig.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/CaseStudy2(NextVowelConsonant)/bin/Debug/net10.0/CaseStudy2(NextVowelConsonant).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/CaseStudy2(NextVowelConsonant)/bin/Debug/net10.0/CaseStudy2(NextVowelConsonant).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/CaseStudy2(NextVowelConsonant)/obj/Debug/net10.0/CaseStudy2(NextVowelConsonant).GeneratedMSBuildEditorConfig.editorconfig
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/CaseStudy2(NextVowelConsonant)/obj/Debug/net10.0/CaseStudy2(NextVowelConsonant).AssemblyInfoInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/CaseStudy2(NextVowelConsonant)/obj/Debug/net10.0/CaseStudy2(NextVowelConsonant).AssemblyInfo.cs
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/CaseStudy2(NextVowelConsonant)/obj/Debug/net10.0/CaseStudy2(NextVowelConsonant).csproj.CoreCompileInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/CaseStudy2(NextVowelConsonant)/obj/Debug/net10.0/CaseStudy2(NextVowelConsonant).sourcelink.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/CaseStudy2(NextVowelConsonant)/obj/Debug/net10.0/CaseStudy2(NextVowelConsonant).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/CaseStudy2(NextVowelConsonant)/obj/Debug/net10.0/refint/CaseStudy2(NextVowelConsonant).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/CaseStudy2(NextVowelConsonant)/obj/Debug/net10.0/CaseStudy2(NextVowelConsonant).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/CaseStudy2(NextVowelConsonant)/obj/Debug/net10.0/CaseStudy2(NextVowelConsonant).genruntimeconfig.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/CaseStudy2(NextVowelConsonant)/obj/Debug/net10.0/ref/CaseStudy2(NextVowelConsonant).dll

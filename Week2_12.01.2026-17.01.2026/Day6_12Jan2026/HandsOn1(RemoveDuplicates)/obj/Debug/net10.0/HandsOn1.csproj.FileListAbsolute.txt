@@ -1,0 +1,15 @@
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day1_12Jan2026/HandsOn1/bin/Debug/net10.0/HandsOn1
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day1_12Jan2026/HandsOn1/bin/Debug/net10.0/HandsOn1.deps.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day1_12Jan2026/HandsOn1/bin/Debug/net10.0/HandsOn1.runtimeconfig.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day1_12Jan2026/HandsOn1/bin/Debug/net10.0/HandsOn1.dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day1_12Jan2026/HandsOn1/bin/Debug/net10.0/HandsOn1.pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day1_12Jan2026/HandsOn1/obj/Debug/net10.0/HandsOn1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day1_12Jan2026/HandsOn1/obj/Debug/net10.0/HandsOn1.AssemblyInfoInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day1_12Jan2026/HandsOn1/obj/Debug/net10.0/HandsOn1.AssemblyInfo.cs
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day1_12Jan2026/HandsOn1/obj/Debug/net10.0/HandsOn1.csproj.CoreCompileInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day1_12Jan2026/HandsOn1/obj/Debug/net10.0/HandsOn1.sourcelink.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day1_12Jan2026/HandsOn1/obj/Debug/net10.0/HandsOn1.dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day1_12Jan2026/HandsOn1/obj/Debug/net10.0/refint/HandsOn1.dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day1_12Jan2026/HandsOn1/obj/Debug/net10.0/HandsOn1.pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day1_12Jan2026/HandsOn1/obj/Debug/net10.0/HandsOn1.genruntimeconfig.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day1_12Jan2026/HandsOn1/obj/Debug/net10.0/ref/HandsOn1.dll

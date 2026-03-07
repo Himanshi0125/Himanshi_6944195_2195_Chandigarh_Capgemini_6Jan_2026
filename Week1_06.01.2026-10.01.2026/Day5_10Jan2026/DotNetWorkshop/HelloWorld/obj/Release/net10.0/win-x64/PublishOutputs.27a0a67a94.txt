@@ -1,0 +1,10 @@
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/DotNetWorkshop/HelloWorld/bin/Release/net10.0/win-x64/publish/HelloWorld.exe
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/DotNetWorkshop/HelloWorld/bin/Release/net10.0/win-x64/publish/HelloWorld.dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/DotNetWorkshop/HelloWorld/bin/Release/net10.0/win-x64/publish/HelloWorld.deps.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/DotNetWorkshop/HelloWorld/bin/Release/net10.0/win-x64/publish/HelloWorld.runtimeconfig.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/DotNetWorkshop/HelloWorld/bin/Release/net10.0/win-x64/publish/HelloWorld.pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/DotNetWorkshop/HelloWorld/bin/Release/net10.0/win-x64/publish/Microsoft.Extensions.DependencyInjection.dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/DotNetWorkshop/HelloWorld/bin/Release/net10.0/win-x64/publish/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/DotNetWorkshop/HelloWorld/bin/Release/net10.0/win-x64/publish/Newtonsoft.Json.dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/DotNetWorkshop/HelloWorld/bin/Release/net10.0/win-x64/publish/GreeterLib.dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/DotNetWorkshop/HelloWorld/bin/Release/net10.0/win-x64/publish/GreeterLib.pdb

@@ -1,0 +1,15 @@
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/HandsOn4(MiddleReverse)/bin/Debug/net10.0/HandsOn4(MiddleReverse)
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/HandsOn4(MiddleReverse)/bin/Debug/net10.0/HandsOn4(MiddleReverse).deps.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/HandsOn4(MiddleReverse)/bin/Debug/net10.0/HandsOn4(MiddleReverse).runtimeconfig.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/HandsOn4(MiddleReverse)/bin/Debug/net10.0/HandsOn4(MiddleReverse).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/HandsOn4(MiddleReverse)/bin/Debug/net10.0/HandsOn4(MiddleReverse).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/HandsOn4(MiddleReverse)/obj/Debug/net10.0/HandsOn4(MiddleReverse).GeneratedMSBuildEditorConfig.editorconfig
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/HandsOn4(MiddleReverse)/obj/Debug/net10.0/HandsOn4(MiddleReverse).AssemblyInfoInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/HandsOn4(MiddleReverse)/obj/Debug/net10.0/HandsOn4(MiddleReverse).AssemblyInfo.cs
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/HandsOn4(MiddleReverse)/obj/Debug/net10.0/HandsOn4(MiddleReverse).csproj.CoreCompileInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/HandsOn4(MiddleReverse)/obj/Debug/net10.0/HandsOn4(MiddleReverse).sourcelink.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/HandsOn4(MiddleReverse)/obj/Debug/net10.0/HandsOn4(MiddleReverse).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/HandsOn4(MiddleReverse)/obj/Debug/net10.0/refint/HandsOn4(MiddleReverse).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/HandsOn4(MiddleReverse)/obj/Debug/net10.0/HandsOn4(MiddleReverse).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/HandsOn4(MiddleReverse)/obj/Debug/net10.0/HandsOn4(MiddleReverse).genruntimeconfig.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/HandsOn4(MiddleReverse)/obj/Debug/net10.0/ref/HandsOn4(MiddleReverse).dll

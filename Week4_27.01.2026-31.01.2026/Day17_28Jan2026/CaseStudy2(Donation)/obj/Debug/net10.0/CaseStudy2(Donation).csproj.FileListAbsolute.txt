@@ -1,0 +1,15 @@
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day17_28Jan2026/CaseStudy2(Donation)/bin/Debug/net10.0/CaseStudy2(Donation)
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day17_28Jan2026/CaseStudy2(Donation)/bin/Debug/net10.0/CaseStudy2(Donation).deps.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day17_28Jan2026/CaseStudy2(Donation)/bin/Debug/net10.0/CaseStudy2(Donation).runtimeconfig.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day17_28Jan2026/CaseStudy2(Donation)/bin/Debug/net10.0/CaseStudy2(Donation).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day17_28Jan2026/CaseStudy2(Donation)/bin/Debug/net10.0/CaseStudy2(Donation).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day17_28Jan2026/CaseStudy2(Donation)/obj/Debug/net10.0/CaseStudy2(Donation).GeneratedMSBuildEditorConfig.editorconfig
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day17_28Jan2026/CaseStudy2(Donation)/obj/Debug/net10.0/CaseStudy2(Donation).AssemblyInfoInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day17_28Jan2026/CaseStudy2(Donation)/obj/Debug/net10.0/CaseStudy2(Donation).AssemblyInfo.cs
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day17_28Jan2026/CaseStudy2(Donation)/obj/Debug/net10.0/CaseStudy2(Donation).csproj.CoreCompileInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day17_28Jan2026/CaseStudy2(Donation)/obj/Debug/net10.0/CaseStudy2(Donation).sourcelink.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day17_28Jan2026/CaseStudy2(Donation)/obj/Debug/net10.0/CaseStudy2(Donation).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day17_28Jan2026/CaseStudy2(Donation)/obj/Debug/net10.0/refint/CaseStudy2(Donation).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day17_28Jan2026/CaseStudy2(Donation)/obj/Debug/net10.0/CaseStudy2(Donation).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day17_28Jan2026/CaseStudy2(Donation)/obj/Debug/net10.0/CaseStudy2(Donation).genruntimeconfig.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day17_28Jan2026/CaseStudy2(Donation)/obj/Debug/net10.0/ref/CaseStudy2(Donation).dll

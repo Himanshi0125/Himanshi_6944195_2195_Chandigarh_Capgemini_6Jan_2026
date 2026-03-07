@@ -1,0 +1,86 @@
+Complete Steps with Exact Commands for LMS Database Setup
+==========================================================
+
+This file contains the exact sequence of commands and steps executed to set up the LMS database in Docker SQL Server, convert Oracle SQL files, and run the queries. All commands were run in the terminal.
+
+1. Check if SQL Server container is running:
+   docker ps
+   Explanation: This command lists all running Docker containers. We need to ensure the SQL Server container named 'sqlserver' is up and running before proceeding with database operations. If it's not running, we would need to start it using the instructions from steps.txt.
+
+2. Convert LMS_DDL.sql to SQL Server syntax and create LMS_DDL_SQLServer.sql:
+   (Manual conversion: Varchar2->VARCHAR, Number->INT/DECIMAL, Date->DATETIME, Constraints->CONSTRAINT)
+   Explanation: The original DDL file uses Oracle-specific syntax that is incompatible with SQL Server. This step involves manually editing the file to replace Oracle data types and keywords with their SQL Server equivalents to ensure the CREATE TABLE statements will execute successfully.
+
+3. Copy DDL file to container:
+   docker cp LMS_DDL_SQLServer.sql sqlserver:/tmp/
+   Explanation: This copies the converted DDL file from the local machine to the /tmp directory inside the SQL Server container. The /tmp directory is used as a temporary location for SQL files that will be executed by sqlcmd.
+
+4. Execute DDL to create tables:
+   docker exec sqlserver /opt/mssql-tools18/bin/sqlcmd -S localhost -U SA -P StrongPassword@123 -C -i /tmp/LMS_DDL_SQLServer.sql
+   Explanation: This runs the DDL script inside the container using sqlcmd. The -S localhost connects to the local SQL Server instance, -U SA uses the system administrator account, -P provides the password, -C trusts the server certificate (important for self-signed certificates in containers), and -i specifies the input file. This creates all the LMS tables with their columns, data types, and constraints.
+
+5. Convert LMS_DML.sql to SQL Server syntax and create LMS_DML_SQLServer.sql:
+   (Manual conversion: to_date('dd-mm-yyyy','dd-mm-yyyy') -> 'yyyy-mm-dd')
+   Explanation: Similar to the DDL conversion, the DML file contains Oracle-specific date functions that need to be changed to SQL Server's string literal date format. This ensures the INSERT statements will work correctly.
+
+6. Attempt to execute DML (failed due to CONTACT overflow):
+   docker cp LMS_DML_SQLServer.sql sqlserver:/tmp/
+   docker exec sqlserver /opt/mssql-tools18/bin/sqlcmd -S localhost -U SA -P StrongPassword@123 -C -i /tmp/LMS_DML_SQLServer.sql
+   Explanation: This was the initial attempt to insert all the sample data. It failed because the CONTACT column was defined as INT but some phone numbers exceeded the INT range (2^31-1). This revealed a data type issue that needed to be fixed before proceeding.
+
+7. Fix CONTACT column data type:
+   docker exec sqlserver /opt/mssql-tools18/bin/sqlcmd -S localhost -U SA -P StrongPassword@123 -C -Q "ALTER TABLE LMS_SUPPLIERS_DETAILS ALTER COLUMN CONTACT BIGINT;"
+   Explanation: BIGINT can hold much larger integer values (up to 9 quintillion) compared to INT (2 billion). This ALTER TABLE command changes the CONTACT column to BIGINT to accommodate the large phone numbers in the data.
+
+8. Create and execute partial DML files:
+   - Create suppliers.sql with supplier INSERTs
+     Explanation: Since the full DML failed, we broke it down into smaller files. This file contains only the INSERT statements for the LMS_SUPPLIERS_DETAILS table.
+   - docker cp suppliers.sql sqlserver:/tmp/
+     Explanation: Copies the suppliers data file to the container.
+   - docker exec sqlserver /opt/mssql-tools18/bin/sqlcmd -S localhost -U SA -P StrongPassword@123 -C -i /tmp/suppliers.sql
+     Explanation: Executes the supplier INSERTs now that the CONTACT column can handle the data.
+
+   - Create books.sql with book INSERTs
+     Explanation: Contains INSERT statements for LMS_BOOK_DETAILS table.
+   - docker cp books.sql sqlserver:/tmp/
+     Explanation: Copies the books data file.
+   - docker exec sqlserver /opt/mssql-tools18/bin/sqlcmd -S localhost -U SA -P StrongPassword@123 -C -i /tmp/books.sql
+     Explanation: Inserts the book records.
+
+   - Create issues.sql with issue INSERTs
+     Explanation: Contains INSERT statements for LMS_BOOK_ISSUE table.
+   - docker cp issues.sql sqlserver:/tmp/
+     Explanation: Copies the issues data file.
+   - docker exec sqlserver /opt/mssql-tools18/bin/sqlcmd -S localhost -U SA -P StrongPassword@123 -C -i /tmp/issues.sql
+     Explanation: Inserts the book issue records.
+
+9. Verify data insertion:
+   docker exec sqlserver /opt/mssql-tools18/bin/sqlcmd -S localhost -U SA -P StrongPassword@123 -C -Q "SELECT 'MEMBERS' AS TableName, COUNT(*) AS Count FROM LMS_MEMBERS UNION ALL SELECT 'SUPPLIERS', COUNT(*) FROM LMS_SUPPLIERS_DETAILS UNION ALL SELECT 'FINES', COUNT(*) FROM LMS_FINE_DETAILS UNION ALL SELECT 'BOOKS', COUNT(*) FROM LMS_BOOK_DETAILS UNION ALL SELECT 'ISSUES', COUNT(*) FROM LMS_BOOK_ISSUE;"
+   Explanation: This query checks the row count in each table to confirm that all data was inserted successfully. It uses UNION ALL to combine results from all tables into a single result set showing table names and their record counts.
+
+10. Convert Oracle_QB_Library_Mgmt_Practise_Lab_Questions.txt queries to SQL Server syntax and create LMS_Queries_SQLServer.sql:
+    (Manual conversion: NVL2->IIF, date formats, TOP instead of ROWNUM, CTE for complex queries)
+    Explanation: The query problems file contains Oracle-specific functions and syntax. This conversion step changes them to SQL Server equivalents: NVL2 becomes IIF for conditional logic, date formats are adjusted, TOP replaces ROWNUM for limiting results, and Common Table Expressions (CTEs) are used for complex subqueries.
+
+11. Fix syntax error in Problem #9:
+    (Replaced HAVING subquery with CTE)
+    Explanation: SQL Server doesn't allow certain subqueries in HAVING clauses. Problem #9's query for finding the date with maximum book issues was rewritten using a CTE (WITH clause) to compute the counts first, then find the maximum.
+
+12. Execute all queries:
+    docker cp LMS_Queries_SQLServer.sql sqlserver:/tmp/
+    docker exec sqlserver /opt/mssql-tools18/bin/sqlcmd -S localhost -U SA -P StrongPassword@123 -C -i /tmp/LMS_Queries_SQLServer.sql
+    Explanation: This runs all 33 converted queries in sequence. The output will show results for each query, demonstrating that all problems from the questions file have been solved.
+
+13. Test individual query (e.g., Problem #1):
+    docker exec sqlserver /opt/mssql-tools18/bin/sqlcmd -S localhost -U SA -P StrongPassword@123 -C -Q "SELECT MEMBER_ID, MEMBER_NAME, CITY, MEMBERSHIP_STATUS FROM LMS_MEMBERS WHERE MEMBERSHIP_STATUS = 'Permanent';"
+    Explanation: This demonstrates running a single query directly. The -Q flag executes the query string instead of reading from a file. This was used to test and verify individual query results.
+
+14. Create summary.txt with detailed explanation of all actions.
+    Explanation: This final step creates a comprehensive summary document explaining what was done for each file and the overall process, providing documentation of the entire workflow.
+
+Notes:
+- All docker exec commands use the container name 'sqlserver'.
+- SA password is 'StrongPassword@123' (retrieved from container environment).
+- Files were created using create_file tool, not terminal commands.
+- SQL Server version: 2022-latest in Docker.
+- All operations completed successfully with database containing sample data and query results.

@@ -1,0 +1,15 @@
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day15_23Jan2026/HandsOn1(InventoryManagement)/bin/Debug/net10.0/HandsOn1(InventoryManagement)
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day15_23Jan2026/HandsOn1(InventoryManagement)/bin/Debug/net10.0/HandsOn1(InventoryManagement).deps.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day15_23Jan2026/HandsOn1(InventoryManagement)/bin/Debug/net10.0/HandsOn1(InventoryManagement).runtimeconfig.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day15_23Jan2026/HandsOn1(InventoryManagement)/bin/Debug/net10.0/HandsOn1(InventoryManagement).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day15_23Jan2026/HandsOn1(InventoryManagement)/bin/Debug/net10.0/HandsOn1(InventoryManagement).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day15_23Jan2026/HandsOn1(InventoryManagement)/obj/Debug/net10.0/HandsOn1(InventoryManagement).GeneratedMSBuildEditorConfig.editorconfig
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day15_23Jan2026/HandsOn1(InventoryManagement)/obj/Debug/net10.0/HandsOn1(InventoryManagement).AssemblyInfoInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day15_23Jan2026/HandsOn1(InventoryManagement)/obj/Debug/net10.0/HandsOn1(InventoryManagement).AssemblyInfo.cs
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day15_23Jan2026/HandsOn1(InventoryManagement)/obj/Debug/net10.0/HandsOn1(InventoryManagement).csproj.CoreCompileInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day15_23Jan2026/HandsOn1(InventoryManagement)/obj/Debug/net10.0/HandsOn1(InventoryManagement).sourcelink.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day15_23Jan2026/HandsOn1(InventoryManagement)/obj/Debug/net10.0/HandsOn1(InventoryManagement).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day15_23Jan2026/HandsOn1(InventoryManagement)/obj/Debug/net10.0/refint/HandsOn1(InventoryManagement).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day15_23Jan2026/HandsOn1(InventoryManagement)/obj/Debug/net10.0/HandsOn1(InventoryManagement).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day15_23Jan2026/HandsOn1(InventoryManagement)/obj/Debug/net10.0/HandsOn1(InventoryManagement).genruntimeconfig.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day15_23Jan2026/HandsOn1(InventoryManagement)/obj/Debug/net10.0/ref/HandsOn1(InventoryManagement).dll

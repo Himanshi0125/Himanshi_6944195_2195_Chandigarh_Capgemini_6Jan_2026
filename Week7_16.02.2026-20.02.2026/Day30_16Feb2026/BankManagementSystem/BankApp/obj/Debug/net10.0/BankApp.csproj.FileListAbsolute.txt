@@ -1,0 +1,15 @@
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week7_16.02.2026-20.02.2026/Day30_16Feb2026/BankManagementSystem/BankApp/bin/Debug/net10.0/BankApp
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week7_16.02.2026-20.02.2026/Day30_16Feb2026/BankManagementSystem/BankApp/bin/Debug/net10.0/BankApp.deps.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week7_16.02.2026-20.02.2026/Day30_16Feb2026/BankManagementSystem/BankApp/bin/Debug/net10.0/BankApp.runtimeconfig.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week7_16.02.2026-20.02.2026/Day30_16Feb2026/BankManagementSystem/BankApp/bin/Debug/net10.0/BankApp.dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week7_16.02.2026-20.02.2026/Day30_16Feb2026/BankManagementSystem/BankApp/bin/Debug/net10.0/BankApp.pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week7_16.02.2026-20.02.2026/Day30_16Feb2026/BankManagementSystem/BankApp/obj/Debug/net10.0/BankApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week7_16.02.2026-20.02.2026/Day30_16Feb2026/BankManagementSystem/BankApp/obj/Debug/net10.0/BankApp.AssemblyInfoInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week7_16.02.2026-20.02.2026/Day30_16Feb2026/BankManagementSystem/BankApp/obj/Debug/net10.0/BankApp.AssemblyInfo.cs
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week7_16.02.2026-20.02.2026/Day30_16Feb2026/BankManagementSystem/BankApp/obj/Debug/net10.0/BankApp.csproj.CoreCompileInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week7_16.02.2026-20.02.2026/Day30_16Feb2026/BankManagementSystem/BankApp/obj/Debug/net10.0/BankApp.sourcelink.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week7_16.02.2026-20.02.2026/Day30_16Feb2026/BankManagementSystem/BankApp/obj/Debug/net10.0/BankApp.dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week7_16.02.2026-20.02.2026/Day30_16Feb2026/BankManagementSystem/BankApp/obj/Debug/net10.0/refint/BankApp.dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week7_16.02.2026-20.02.2026/Day30_16Feb2026/BankManagementSystem/BankApp/obj/Debug/net10.0/BankApp.pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week7_16.02.2026-20.02.2026/Day30_16Feb2026/BankManagementSystem/BankApp/obj/Debug/net10.0/BankApp.genruntimeconfig.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week7_16.02.2026-20.02.2026/Day30_16Feb2026/BankManagementSystem/BankApp/obj/Debug/net10.0/ref/BankApp.dll

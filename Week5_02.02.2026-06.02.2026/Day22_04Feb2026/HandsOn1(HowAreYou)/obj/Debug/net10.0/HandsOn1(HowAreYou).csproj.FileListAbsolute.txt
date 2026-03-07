@@ -1,0 +1,15 @@
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day22_04Feb2026/HandsOn1(HowAreYou)/bin/Debug/net10.0/HandsOn1(HowAreYou)
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day22_04Feb2026/HandsOn1(HowAreYou)/bin/Debug/net10.0/HandsOn1(HowAreYou).deps.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day22_04Feb2026/HandsOn1(HowAreYou)/bin/Debug/net10.0/HandsOn1(HowAreYou).runtimeconfig.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day22_04Feb2026/HandsOn1(HowAreYou)/bin/Debug/net10.0/HandsOn1(HowAreYou).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day22_04Feb2026/HandsOn1(HowAreYou)/bin/Debug/net10.0/HandsOn1(HowAreYou).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day22_04Feb2026/HandsOn1(HowAreYou)/obj/Debug/net10.0/HandsOn1(HowAreYou).GeneratedMSBuildEditorConfig.editorconfig
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day22_04Feb2026/HandsOn1(HowAreYou)/obj/Debug/net10.0/HandsOn1(HowAreYou).AssemblyInfoInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day22_04Feb2026/HandsOn1(HowAreYou)/obj/Debug/net10.0/HandsOn1(HowAreYou).AssemblyInfo.cs
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day22_04Feb2026/HandsOn1(HowAreYou)/obj/Debug/net10.0/HandsOn1(HowAreYou).csproj.CoreCompileInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day22_04Feb2026/HandsOn1(HowAreYou)/obj/Debug/net10.0/HandsOn1(HowAreYou).sourcelink.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day22_04Feb2026/HandsOn1(HowAreYou)/obj/Debug/net10.0/HandsOn1(HowAreYou).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day22_04Feb2026/HandsOn1(HowAreYou)/obj/Debug/net10.0/refint/HandsOn1(HowAreYou).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day22_04Feb2026/HandsOn1(HowAreYou)/obj/Debug/net10.0/HandsOn1(HowAreYou).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day22_04Feb2026/HandsOn1(HowAreYou)/obj/Debug/net10.0/HandsOn1(HowAreYou).genruntimeconfig.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day22_04Feb2026/HandsOn1(HowAreYou)/obj/Debug/net10.0/ref/HandsOn1(HowAreYou).dll

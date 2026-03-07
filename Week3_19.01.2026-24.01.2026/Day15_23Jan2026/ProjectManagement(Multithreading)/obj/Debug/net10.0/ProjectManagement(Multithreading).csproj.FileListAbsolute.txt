@@ -1,0 +1,15 @@
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day15_23Jan2026/ProjectManagement(Multithreading)/bin/Debug/net10.0/ProjectManagement(Multithreading)
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day15_23Jan2026/ProjectManagement(Multithreading)/bin/Debug/net10.0/ProjectManagement(Multithreading).deps.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day15_23Jan2026/ProjectManagement(Multithreading)/bin/Debug/net10.0/ProjectManagement(Multithreading).runtimeconfig.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day15_23Jan2026/ProjectManagement(Multithreading)/bin/Debug/net10.0/ProjectManagement(Multithreading).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day15_23Jan2026/ProjectManagement(Multithreading)/bin/Debug/net10.0/ProjectManagement(Multithreading).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day15_23Jan2026/ProjectManagement(Multithreading)/obj/Debug/net10.0/ProjectManagement(Multithreading).GeneratedMSBuildEditorConfig.editorconfig
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day15_23Jan2026/ProjectManagement(Multithreading)/obj/Debug/net10.0/ProjectManagement(Multithreading).AssemblyInfoInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day15_23Jan2026/ProjectManagement(Multithreading)/obj/Debug/net10.0/ProjectManagement(Multithreading).AssemblyInfo.cs
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day15_23Jan2026/ProjectManagement(Multithreading)/obj/Debug/net10.0/ProjectManagement(Multithreading).csproj.CoreCompileInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day15_23Jan2026/ProjectManagement(Multithreading)/obj/Debug/net10.0/ProjectManagement(Multithreading).sourcelink.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day15_23Jan2026/ProjectManagement(Multithreading)/obj/Debug/net10.0/ProjectManagement(Multithreading).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day15_23Jan2026/ProjectManagement(Multithreading)/obj/Debug/net10.0/refint/ProjectManagement(Multithreading).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day15_23Jan2026/ProjectManagement(Multithreading)/obj/Debug/net10.0/ProjectManagement(Multithreading).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day15_23Jan2026/ProjectManagement(Multithreading)/obj/Debug/net10.0/ProjectManagement(Multithreading).genruntimeconfig.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day15_23Jan2026/ProjectManagement(Multithreading)/obj/Debug/net10.0/ref/ProjectManagement(Multithreading).dll

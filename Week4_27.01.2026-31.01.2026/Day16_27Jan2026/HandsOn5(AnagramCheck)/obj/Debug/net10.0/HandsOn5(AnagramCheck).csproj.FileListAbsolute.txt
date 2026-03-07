@@ -1,0 +1,15 @@
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/HandsOn5(AnagramCheck)/bin/Debug/net10.0/HandsOn5(AnagramCheck)
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/HandsOn5(AnagramCheck)/bin/Debug/net10.0/HandsOn5(AnagramCheck).deps.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/HandsOn5(AnagramCheck)/bin/Debug/net10.0/HandsOn5(AnagramCheck).runtimeconfig.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/HandsOn5(AnagramCheck)/bin/Debug/net10.0/HandsOn5(AnagramCheck).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/HandsOn5(AnagramCheck)/bin/Debug/net10.0/HandsOn5(AnagramCheck).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/HandsOn5(AnagramCheck)/obj/Debug/net10.0/HandsOn5(AnagramCheck).GeneratedMSBuildEditorConfig.editorconfig
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/HandsOn5(AnagramCheck)/obj/Debug/net10.0/HandsOn5(AnagramCheck).AssemblyInfoInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/HandsOn5(AnagramCheck)/obj/Debug/net10.0/HandsOn5(AnagramCheck).AssemblyInfo.cs
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/HandsOn5(AnagramCheck)/obj/Debug/net10.0/HandsOn5(AnagramCheck).csproj.CoreCompileInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/HandsOn5(AnagramCheck)/obj/Debug/net10.0/HandsOn5(AnagramCheck).sourcelink.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/HandsOn5(AnagramCheck)/obj/Debug/net10.0/HandsOn5(AnagramCheck).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/HandsOn5(AnagramCheck)/obj/Debug/net10.0/refint/HandsOn5(AnagramCheck).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/HandsOn5(AnagramCheck)/obj/Debug/net10.0/HandsOn5(AnagramCheck).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/HandsOn5(AnagramCheck)/obj/Debug/net10.0/HandsOn5(AnagramCheck).genruntimeconfig.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/HandsOn5(AnagramCheck)/obj/Debug/net10.0/ref/HandsOn5(AnagramCheck).dll

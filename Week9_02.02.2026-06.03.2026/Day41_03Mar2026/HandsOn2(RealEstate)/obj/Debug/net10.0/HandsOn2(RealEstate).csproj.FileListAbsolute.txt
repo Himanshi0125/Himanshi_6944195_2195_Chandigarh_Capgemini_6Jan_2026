@@ -1,0 +1,15 @@
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week9_02.02.2026-06.03.2026/Day41_03Mar2026/HandsOn2(RealEstate)/bin/Debug/net10.0/HandsOn2(RealEstate)
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week9_02.02.2026-06.03.2026/Day41_03Mar2026/HandsOn2(RealEstate)/bin/Debug/net10.0/HandsOn2(RealEstate).deps.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week9_02.02.2026-06.03.2026/Day41_03Mar2026/HandsOn2(RealEstate)/bin/Debug/net10.0/HandsOn2(RealEstate).runtimeconfig.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week9_02.02.2026-06.03.2026/Day41_03Mar2026/HandsOn2(RealEstate)/bin/Debug/net10.0/HandsOn2(RealEstate).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week9_02.02.2026-06.03.2026/Day41_03Mar2026/HandsOn2(RealEstate)/bin/Debug/net10.0/HandsOn2(RealEstate).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week9_02.02.2026-06.03.2026/Day41_03Mar2026/HandsOn2(RealEstate)/obj/Debug/net10.0/HandsOn2(RealEstate).GeneratedMSBuildEditorConfig.editorconfig
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week9_02.02.2026-06.03.2026/Day41_03Mar2026/HandsOn2(RealEstate)/obj/Debug/net10.0/HandsOn2(RealEstate).AssemblyInfoInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week9_02.02.2026-06.03.2026/Day41_03Mar2026/HandsOn2(RealEstate)/obj/Debug/net10.0/HandsOn2(RealEstate).AssemblyInfo.cs
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week9_02.02.2026-06.03.2026/Day41_03Mar2026/HandsOn2(RealEstate)/obj/Debug/net10.0/HandsOn2(RealEstate).csproj.CoreCompileInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week9_02.02.2026-06.03.2026/Day41_03Mar2026/HandsOn2(RealEstate)/obj/Debug/net10.0/HandsOn2(RealEstate).sourcelink.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week9_02.02.2026-06.03.2026/Day41_03Mar2026/HandsOn2(RealEstate)/obj/Debug/net10.0/HandsOn2(RealEstate).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week9_02.02.2026-06.03.2026/Day41_03Mar2026/HandsOn2(RealEstate)/obj/Debug/net10.0/refint/HandsOn2(RealEstate).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week9_02.02.2026-06.03.2026/Day41_03Mar2026/HandsOn2(RealEstate)/obj/Debug/net10.0/HandsOn2(RealEstate).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week9_02.02.2026-06.03.2026/Day41_03Mar2026/HandsOn2(RealEstate)/obj/Debug/net10.0/HandsOn2(RealEstate).genruntimeconfig.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week9_02.02.2026-06.03.2026/Day41_03Mar2026/HandsOn2(RealEstate)/obj/Debug/net10.0/ref/HandsOn2(RealEstate).dll

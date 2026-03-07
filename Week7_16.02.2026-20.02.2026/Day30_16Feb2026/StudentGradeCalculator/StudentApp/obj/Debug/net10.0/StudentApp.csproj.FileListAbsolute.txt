@@ -1,0 +1,15 @@
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week7_16.02.2026-20.02.2026/Day30_16Feb2026/StudentGradeCalculator/StudentApp/bin/Debug/net10.0/StudentApp
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week7_16.02.2026-20.02.2026/Day30_16Feb2026/StudentGradeCalculator/StudentApp/bin/Debug/net10.0/StudentApp.deps.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week7_16.02.2026-20.02.2026/Day30_16Feb2026/StudentGradeCalculator/StudentApp/bin/Debug/net10.0/StudentApp.runtimeconfig.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week7_16.02.2026-20.02.2026/Day30_16Feb2026/StudentGradeCalculator/StudentApp/bin/Debug/net10.0/StudentApp.dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week7_16.02.2026-20.02.2026/Day30_16Feb2026/StudentGradeCalculator/StudentApp/bin/Debug/net10.0/StudentApp.pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week7_16.02.2026-20.02.2026/Day30_16Feb2026/StudentGradeCalculator/StudentApp/obj/Debug/net10.0/StudentApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week7_16.02.2026-20.02.2026/Day30_16Feb2026/StudentGradeCalculator/StudentApp/obj/Debug/net10.0/StudentApp.AssemblyInfoInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week7_16.02.2026-20.02.2026/Day30_16Feb2026/StudentGradeCalculator/StudentApp/obj/Debug/net10.0/StudentApp.AssemblyInfo.cs
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week7_16.02.2026-20.02.2026/Day30_16Feb2026/StudentGradeCalculator/StudentApp/obj/Debug/net10.0/StudentApp.csproj.CoreCompileInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week7_16.02.2026-20.02.2026/Day30_16Feb2026/StudentGradeCalculator/StudentApp/obj/Debug/net10.0/StudentApp.sourcelink.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week7_16.02.2026-20.02.2026/Day30_16Feb2026/StudentGradeCalculator/StudentApp/obj/Debug/net10.0/StudentApp.dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week7_16.02.2026-20.02.2026/Day30_16Feb2026/StudentGradeCalculator/StudentApp/obj/Debug/net10.0/refint/StudentApp.dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week7_16.02.2026-20.02.2026/Day30_16Feb2026/StudentGradeCalculator/StudentApp/obj/Debug/net10.0/StudentApp.pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week7_16.02.2026-20.02.2026/Day30_16Feb2026/StudentGradeCalculator/StudentApp/obj/Debug/net10.0/StudentApp.genruntimeconfig.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week7_16.02.2026-20.02.2026/Day30_16Feb2026/StudentGradeCalculator/StudentApp/obj/Debug/net10.0/ref/StudentApp.dll

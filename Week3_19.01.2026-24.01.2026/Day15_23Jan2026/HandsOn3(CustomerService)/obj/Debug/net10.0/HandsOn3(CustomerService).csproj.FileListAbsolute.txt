@@ -1,0 +1,15 @@
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day15_23Jan2026/HandsOn3(CustomerService)/bin/Debug/net10.0/HandsOn3(CustomerService)
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day15_23Jan2026/HandsOn3(CustomerService)/bin/Debug/net10.0/HandsOn3(CustomerService).deps.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day15_23Jan2026/HandsOn3(CustomerService)/bin/Debug/net10.0/HandsOn3(CustomerService).runtimeconfig.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day15_23Jan2026/HandsOn3(CustomerService)/bin/Debug/net10.0/HandsOn3(CustomerService).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day15_23Jan2026/HandsOn3(CustomerService)/bin/Debug/net10.0/HandsOn3(CustomerService).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day15_23Jan2026/HandsOn3(CustomerService)/obj/Debug/net10.0/HandsOn3(CustomerService).GeneratedMSBuildEditorConfig.editorconfig
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day15_23Jan2026/HandsOn3(CustomerService)/obj/Debug/net10.0/HandsOn3(CustomerService).AssemblyInfoInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day15_23Jan2026/HandsOn3(CustomerService)/obj/Debug/net10.0/HandsOn3(CustomerService).AssemblyInfo.cs
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day15_23Jan2026/HandsOn3(CustomerService)/obj/Debug/net10.0/HandsOn3(CustomerService).csproj.CoreCompileInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day15_23Jan2026/HandsOn3(CustomerService)/obj/Debug/net10.0/HandsOn3(CustomerService).sourcelink.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day15_23Jan2026/HandsOn3(CustomerService)/obj/Debug/net10.0/HandsOn3(CustomerService).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day15_23Jan2026/HandsOn3(CustomerService)/obj/Debug/net10.0/refint/HandsOn3(CustomerService).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day15_23Jan2026/HandsOn3(CustomerService)/obj/Debug/net10.0/HandsOn3(CustomerService).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day15_23Jan2026/HandsOn3(CustomerService)/obj/Debug/net10.0/HandsOn3(CustomerService).genruntimeconfig.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day15_23Jan2026/HandsOn3(CustomerService)/obj/Debug/net10.0/ref/HandsOn3(CustomerService).dll

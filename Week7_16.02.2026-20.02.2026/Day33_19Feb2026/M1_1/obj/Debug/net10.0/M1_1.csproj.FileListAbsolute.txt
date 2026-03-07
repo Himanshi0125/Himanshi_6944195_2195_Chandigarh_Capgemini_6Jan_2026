@@ -1,0 +1,15 @@
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week7_16.02.2026-20.02.2026/Day33_19Feb2026/M1_1/bin/Debug/net10.0/M1_1
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week7_16.02.2026-20.02.2026/Day33_19Feb2026/M1_1/bin/Debug/net10.0/M1_1.deps.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week7_16.02.2026-20.02.2026/Day33_19Feb2026/M1_1/bin/Debug/net10.0/M1_1.runtimeconfig.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week7_16.02.2026-20.02.2026/Day33_19Feb2026/M1_1/bin/Debug/net10.0/M1_1.dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week7_16.02.2026-20.02.2026/Day33_19Feb2026/M1_1/bin/Debug/net10.0/M1_1.pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week7_16.02.2026-20.02.2026/Day33_19Feb2026/M1_1/obj/Debug/net10.0/M1_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week7_16.02.2026-20.02.2026/Day33_19Feb2026/M1_1/obj/Debug/net10.0/M1_1.AssemblyInfoInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week7_16.02.2026-20.02.2026/Day33_19Feb2026/M1_1/obj/Debug/net10.0/M1_1.AssemblyInfo.cs
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week7_16.02.2026-20.02.2026/Day33_19Feb2026/M1_1/obj/Debug/net10.0/M1_1.csproj.CoreCompileInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week7_16.02.2026-20.02.2026/Day33_19Feb2026/M1_1/obj/Debug/net10.0/M1_1.sourcelink.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week7_16.02.2026-20.02.2026/Day33_19Feb2026/M1_1/obj/Debug/net10.0/M1_1.dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week7_16.02.2026-20.02.2026/Day33_19Feb2026/M1_1/obj/Debug/net10.0/refint/M1_1.dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week7_16.02.2026-20.02.2026/Day33_19Feb2026/M1_1/obj/Debug/net10.0/M1_1.pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week7_16.02.2026-20.02.2026/Day33_19Feb2026/M1_1/obj/Debug/net10.0/M1_1.genruntimeconfig.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week7_16.02.2026-20.02.2026/Day33_19Feb2026/M1_1/obj/Debug/net10.0/ref/M1_1.dll

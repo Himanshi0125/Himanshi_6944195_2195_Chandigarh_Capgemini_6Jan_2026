@@ -1,0 +1,15 @@
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day3_14Jan2026/HandsOn3(AvgMultiplesOf5)/bin/Debug/net10.0/HandsOn3(AvgMultiplesOf5)
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day3_14Jan2026/HandsOn3(AvgMultiplesOf5)/bin/Debug/net10.0/HandsOn3(AvgMultiplesOf5).deps.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day3_14Jan2026/HandsOn3(AvgMultiplesOf5)/bin/Debug/net10.0/HandsOn3(AvgMultiplesOf5).runtimeconfig.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day3_14Jan2026/HandsOn3(AvgMultiplesOf5)/bin/Debug/net10.0/HandsOn3(AvgMultiplesOf5).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day3_14Jan2026/HandsOn3(AvgMultiplesOf5)/bin/Debug/net10.0/HandsOn3(AvgMultiplesOf5).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day3_14Jan2026/HandsOn3(AvgMultiplesOf5)/obj/Debug/net10.0/HandsOn3(AvgMultiplesOf5).GeneratedMSBuildEditorConfig.editorconfig
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day3_14Jan2026/HandsOn3(AvgMultiplesOf5)/obj/Debug/net10.0/HandsOn3(AvgMultiplesOf5).AssemblyInfoInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day3_14Jan2026/HandsOn3(AvgMultiplesOf5)/obj/Debug/net10.0/HandsOn3(AvgMultiplesOf5).AssemblyInfo.cs
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day3_14Jan2026/HandsOn3(AvgMultiplesOf5)/obj/Debug/net10.0/HandsOn3(AvgMultiplesOf5).csproj.CoreCompileInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day3_14Jan2026/HandsOn3(AvgMultiplesOf5)/obj/Debug/net10.0/HandsOn3(AvgMultiplesOf5).sourcelink.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day3_14Jan2026/HandsOn3(AvgMultiplesOf5)/obj/Debug/net10.0/HandsOn3(AvgMultiplesOf5).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day3_14Jan2026/HandsOn3(AvgMultiplesOf5)/obj/Debug/net10.0/refint/HandsOn3(AvgMultiplesOf5).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day3_14Jan2026/HandsOn3(AvgMultiplesOf5)/obj/Debug/net10.0/HandsOn3(AvgMultiplesOf5).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day3_14Jan2026/HandsOn3(AvgMultiplesOf5)/obj/Debug/net10.0/HandsOn3(AvgMultiplesOf5).genruntimeconfig.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day3_14Jan2026/HandsOn3(AvgMultiplesOf5)/obj/Debug/net10.0/ref/HandsOn3(AvgMultiplesOf5).dll

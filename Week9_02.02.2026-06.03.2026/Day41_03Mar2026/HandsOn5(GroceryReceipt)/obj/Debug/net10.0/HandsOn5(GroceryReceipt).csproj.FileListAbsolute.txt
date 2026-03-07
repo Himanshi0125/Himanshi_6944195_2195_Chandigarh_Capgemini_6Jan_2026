@@ -1,0 +1,15 @@
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week9_02.02.2026-06.03.2026/Day41_03Mar2026/HandsOn5(GroceryReceipt)/bin/Debug/net10.0/HandsOn5(GroceryReceipt)
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week9_02.02.2026-06.03.2026/Day41_03Mar2026/HandsOn5(GroceryReceipt)/bin/Debug/net10.0/HandsOn5(GroceryReceipt).deps.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week9_02.02.2026-06.03.2026/Day41_03Mar2026/HandsOn5(GroceryReceipt)/bin/Debug/net10.0/HandsOn5(GroceryReceipt).runtimeconfig.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week9_02.02.2026-06.03.2026/Day41_03Mar2026/HandsOn5(GroceryReceipt)/bin/Debug/net10.0/HandsOn5(GroceryReceipt).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week9_02.02.2026-06.03.2026/Day41_03Mar2026/HandsOn5(GroceryReceipt)/bin/Debug/net10.0/HandsOn5(GroceryReceipt).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week9_02.02.2026-06.03.2026/Day41_03Mar2026/HandsOn5(GroceryReceipt)/obj/Debug/net10.0/HandsOn5(GroceryReceipt).GeneratedMSBuildEditorConfig.editorconfig
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week9_02.02.2026-06.03.2026/Day41_03Mar2026/HandsOn5(GroceryReceipt)/obj/Debug/net10.0/HandsOn5(GroceryReceipt).AssemblyInfoInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week9_02.02.2026-06.03.2026/Day41_03Mar2026/HandsOn5(GroceryReceipt)/obj/Debug/net10.0/HandsOn5(GroceryReceipt).AssemblyInfo.cs
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week9_02.02.2026-06.03.2026/Day41_03Mar2026/HandsOn5(GroceryReceipt)/obj/Debug/net10.0/HandsOn5(GroceryReceipt).csproj.CoreCompileInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week9_02.02.2026-06.03.2026/Day41_03Mar2026/HandsOn5(GroceryReceipt)/obj/Debug/net10.0/HandsOn5(GroceryReceipt).sourcelink.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week9_02.02.2026-06.03.2026/Day41_03Mar2026/HandsOn5(GroceryReceipt)/obj/Debug/net10.0/HandsOn5(GroceryReceipt).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week9_02.02.2026-06.03.2026/Day41_03Mar2026/HandsOn5(GroceryReceipt)/obj/Debug/net10.0/refint/HandsOn5(GroceryReceipt).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week9_02.02.2026-06.03.2026/Day41_03Mar2026/HandsOn5(GroceryReceipt)/obj/Debug/net10.0/HandsOn5(GroceryReceipt).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week9_02.02.2026-06.03.2026/Day41_03Mar2026/HandsOn5(GroceryReceipt)/obj/Debug/net10.0/HandsOn5(GroceryReceipt).genruntimeconfig.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week9_02.02.2026-06.03.2026/Day41_03Mar2026/HandsOn5(GroceryReceipt)/obj/Debug/net10.0/ref/HandsOn5(GroceryReceipt).dll

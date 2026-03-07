@@ -1,0 +1,15 @@
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day4_09Jan2026/HandsOn5(MultiplyArrays)/bin/Debug/net10.0/HandsOn5(MultiplyArrays)
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day4_09Jan2026/HandsOn5(MultiplyArrays)/bin/Debug/net10.0/HandsOn5(MultiplyArrays).deps.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day4_09Jan2026/HandsOn5(MultiplyArrays)/bin/Debug/net10.0/HandsOn5(MultiplyArrays).runtimeconfig.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day4_09Jan2026/HandsOn5(MultiplyArrays)/bin/Debug/net10.0/HandsOn5(MultiplyArrays).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day4_09Jan2026/HandsOn5(MultiplyArrays)/bin/Debug/net10.0/HandsOn5(MultiplyArrays).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day4_09Jan2026/HandsOn5(MultiplyArrays)/obj/Debug/net10.0/HandsOn5(MultiplyArrays).GeneratedMSBuildEditorConfig.editorconfig
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day4_09Jan2026/HandsOn5(MultiplyArrays)/obj/Debug/net10.0/HandsOn5(MultiplyArrays).AssemblyInfoInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day4_09Jan2026/HandsOn5(MultiplyArrays)/obj/Debug/net10.0/HandsOn5(MultiplyArrays).AssemblyInfo.cs
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day4_09Jan2026/HandsOn5(MultiplyArrays)/obj/Debug/net10.0/HandsOn5(MultiplyArrays).csproj.CoreCompileInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day4_09Jan2026/HandsOn5(MultiplyArrays)/obj/Debug/net10.0/HandsOn5(MultiplyArrays).sourcelink.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day4_09Jan2026/HandsOn5(MultiplyArrays)/obj/Debug/net10.0/HandsOn5(MultiplyArrays).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day4_09Jan2026/HandsOn5(MultiplyArrays)/obj/Debug/net10.0/refint/HandsOn5(MultiplyArrays).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day4_09Jan2026/HandsOn5(MultiplyArrays)/obj/Debug/net10.0/HandsOn5(MultiplyArrays).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day4_09Jan2026/HandsOn5(MultiplyArrays)/obj/Debug/net10.0/HandsOn5(MultiplyArrays).genruntimeconfig.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day4_09Jan2026/HandsOn5(MultiplyArrays)/obj/Debug/net10.0/ref/HandsOn5(MultiplyArrays).dll

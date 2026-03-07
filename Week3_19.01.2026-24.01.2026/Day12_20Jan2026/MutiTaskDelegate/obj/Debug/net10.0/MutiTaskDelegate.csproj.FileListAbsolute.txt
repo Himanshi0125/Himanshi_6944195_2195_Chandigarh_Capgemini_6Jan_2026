@@ -1,0 +1,15 @@
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day12_20Jan2026/MutiTaskDelegate/obj/Debug/net10.0/MutiTaskDelegate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day12_20Jan2026/MutiTaskDelegate/obj/Debug/net10.0/MutiTaskDelegate.AssemblyInfoInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day12_20Jan2026/MutiTaskDelegate/obj/Debug/net10.0/MutiTaskDelegate.AssemblyInfo.cs
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day12_20Jan2026/MutiTaskDelegate/obj/Debug/net10.0/MutiTaskDelegate.csproj.CoreCompileInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day12_20Jan2026/MutiTaskDelegate/obj/Debug/net10.0/MutiTaskDelegate.sourcelink.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day12_20Jan2026/MutiTaskDelegate/bin/Debug/net10.0/MutiTaskDelegate
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day12_20Jan2026/MutiTaskDelegate/bin/Debug/net10.0/MutiTaskDelegate.deps.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day12_20Jan2026/MutiTaskDelegate/bin/Debug/net10.0/MutiTaskDelegate.runtimeconfig.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day12_20Jan2026/MutiTaskDelegate/bin/Debug/net10.0/MutiTaskDelegate.dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day12_20Jan2026/MutiTaskDelegate/bin/Debug/net10.0/MutiTaskDelegate.pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day12_20Jan2026/MutiTaskDelegate/obj/Debug/net10.0/MutiTaskDelegate.dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day12_20Jan2026/MutiTaskDelegate/obj/Debug/net10.0/refint/MutiTaskDelegate.dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day12_20Jan2026/MutiTaskDelegate/obj/Debug/net10.0/MutiTaskDelegate.pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day12_20Jan2026/MutiTaskDelegate/obj/Debug/net10.0/MutiTaskDelegate.genruntimeconfig.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day12_20Jan2026/MutiTaskDelegate/obj/Debug/net10.0/ref/MutiTaskDelegate.dll

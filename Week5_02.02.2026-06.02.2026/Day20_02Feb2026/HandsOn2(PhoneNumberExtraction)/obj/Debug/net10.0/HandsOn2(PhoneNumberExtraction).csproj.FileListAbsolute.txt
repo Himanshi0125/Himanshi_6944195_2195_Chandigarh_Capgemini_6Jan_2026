@@ -1,0 +1,15 @@
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day20_02Feb2026/HandsOn2(PhoneNumberExtraction)/bin/Debug/net10.0/HandsOn2(PhoneNumberExtraction)
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day20_02Feb2026/HandsOn2(PhoneNumberExtraction)/bin/Debug/net10.0/HandsOn2(PhoneNumberExtraction).deps.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day20_02Feb2026/HandsOn2(PhoneNumberExtraction)/bin/Debug/net10.0/HandsOn2(PhoneNumberExtraction).runtimeconfig.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day20_02Feb2026/HandsOn2(PhoneNumberExtraction)/bin/Debug/net10.0/HandsOn2(PhoneNumberExtraction).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day20_02Feb2026/HandsOn2(PhoneNumberExtraction)/bin/Debug/net10.0/HandsOn2(PhoneNumberExtraction).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day20_02Feb2026/HandsOn2(PhoneNumberExtraction)/obj/Debug/net10.0/HandsOn2(PhoneNumberExtraction).GeneratedMSBuildEditorConfig.editorconfig
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day20_02Feb2026/HandsOn2(PhoneNumberExtraction)/obj/Debug/net10.0/HandsOn2(PhoneNumberExtraction).AssemblyInfoInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day20_02Feb2026/HandsOn2(PhoneNumberExtraction)/obj/Debug/net10.0/HandsOn2(PhoneNumberExtraction).AssemblyInfo.cs
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day20_02Feb2026/HandsOn2(PhoneNumberExtraction)/obj/Debug/net10.0/HandsOn2(PhoneNumberExtraction).csproj.CoreCompileInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day20_02Feb2026/HandsOn2(PhoneNumberExtraction)/obj/Debug/net10.0/HandsOn2(PhoneNumberExtraction).sourcelink.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day20_02Feb2026/HandsOn2(PhoneNumberExtraction)/obj/Debug/net10.0/HandsOn2(PhoneNumberExtraction).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day20_02Feb2026/HandsOn2(PhoneNumberExtraction)/obj/Debug/net10.0/refint/HandsOn2(PhoneNumberExtraction).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day20_02Feb2026/HandsOn2(PhoneNumberExtraction)/obj/Debug/net10.0/HandsOn2(PhoneNumberExtraction).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day20_02Feb2026/HandsOn2(PhoneNumberExtraction)/obj/Debug/net10.0/HandsOn2(PhoneNumberExtraction).genruntimeconfig.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day20_02Feb2026/HandsOn2(PhoneNumberExtraction)/obj/Debug/net10.0/ref/HandsOn2(PhoneNumberExtraction).dll

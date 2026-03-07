@@ -1,0 +1,15 @@
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day11_19Jan2026/CaseStudy5(HospitalManagement)/bin/Debug/net10.0/CaseStudy5(HospitalManagement)
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day11_19Jan2026/CaseStudy5(HospitalManagement)/bin/Debug/net10.0/CaseStudy5(HospitalManagement).deps.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day11_19Jan2026/CaseStudy5(HospitalManagement)/bin/Debug/net10.0/CaseStudy5(HospitalManagement).runtimeconfig.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day11_19Jan2026/CaseStudy5(HospitalManagement)/bin/Debug/net10.0/CaseStudy5(HospitalManagement).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day11_19Jan2026/CaseStudy5(HospitalManagement)/bin/Debug/net10.0/CaseStudy5(HospitalManagement).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day11_19Jan2026/CaseStudy5(HospitalManagement)/obj/Debug/net10.0/CaseStudy5(HospitalManagement).GeneratedMSBuildEditorConfig.editorconfig
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day11_19Jan2026/CaseStudy5(HospitalManagement)/obj/Debug/net10.0/CaseStudy5(HospitalManagement).AssemblyInfoInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day11_19Jan2026/CaseStudy5(HospitalManagement)/obj/Debug/net10.0/CaseStudy5(HospitalManagement).AssemblyInfo.cs
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day11_19Jan2026/CaseStudy5(HospitalManagement)/obj/Debug/net10.0/CaseStudy5(HospitalManagement).csproj.CoreCompileInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day11_19Jan2026/CaseStudy5(HospitalManagement)/obj/Debug/net10.0/CaseStudy5(HospitalManagement).sourcelink.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day11_19Jan2026/CaseStudy5(HospitalManagement)/obj/Debug/net10.0/CaseStudy5(HospitalManagement).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day11_19Jan2026/CaseStudy5(HospitalManagement)/obj/Debug/net10.0/refint/CaseStudy5(HospitalManagement).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day11_19Jan2026/CaseStudy5(HospitalManagement)/obj/Debug/net10.0/CaseStudy5(HospitalManagement).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day11_19Jan2026/CaseStudy5(HospitalManagement)/obj/Debug/net10.0/CaseStudy5(HospitalManagement).genruntimeconfig.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day11_19Jan2026/CaseStudy5(HospitalManagement)/obj/Debug/net10.0/ref/CaseStudy5(HospitalManagement).dll

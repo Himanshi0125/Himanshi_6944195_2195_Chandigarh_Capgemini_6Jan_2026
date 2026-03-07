@@ -1,0 +1,15 @@
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day20_02Feb2026/HandsOn1(EmailValidation)/bin/Debug/net10.0/HandsOn1(EmailValidation)
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day20_02Feb2026/HandsOn1(EmailValidation)/bin/Debug/net10.0/HandsOn1(EmailValidation).deps.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day20_02Feb2026/HandsOn1(EmailValidation)/bin/Debug/net10.0/HandsOn1(EmailValidation).runtimeconfig.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day20_02Feb2026/HandsOn1(EmailValidation)/bin/Debug/net10.0/HandsOn1(EmailValidation).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day20_02Feb2026/HandsOn1(EmailValidation)/bin/Debug/net10.0/HandsOn1(EmailValidation).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day20_02Feb2026/HandsOn1(EmailValidation)/obj/Debug/net10.0/HandsOn1(EmailValidation).GeneratedMSBuildEditorConfig.editorconfig
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day20_02Feb2026/HandsOn1(EmailValidation)/obj/Debug/net10.0/HandsOn1(EmailValidation).AssemblyInfoInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day20_02Feb2026/HandsOn1(EmailValidation)/obj/Debug/net10.0/HandsOn1(EmailValidation).AssemblyInfo.cs
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day20_02Feb2026/HandsOn1(EmailValidation)/obj/Debug/net10.0/HandsOn1(EmailValidation).csproj.CoreCompileInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day20_02Feb2026/HandsOn1(EmailValidation)/obj/Debug/net10.0/HandsOn1(EmailValidation).sourcelink.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day20_02Feb2026/HandsOn1(EmailValidation)/obj/Debug/net10.0/HandsOn1(EmailValidation).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day20_02Feb2026/HandsOn1(EmailValidation)/obj/Debug/net10.0/refint/HandsOn1(EmailValidation).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day20_02Feb2026/HandsOn1(EmailValidation)/obj/Debug/net10.0/HandsOn1(EmailValidation).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day20_02Feb2026/HandsOn1(EmailValidation)/obj/Debug/net10.0/HandsOn1(EmailValidation).genruntimeconfig.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day20_02Feb2026/HandsOn1(EmailValidation)/obj/Debug/net10.0/ref/HandsOn1(EmailValidation).dll

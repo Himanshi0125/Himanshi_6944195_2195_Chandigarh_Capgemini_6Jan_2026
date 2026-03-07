@@ -1,0 +1,15 @@
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day3_08Jan2026/PassingParameters/bin/Debug/net10.0/PassingParameters
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day3_08Jan2026/PassingParameters/bin/Debug/net10.0/PassingParameters.deps.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day3_08Jan2026/PassingParameters/bin/Debug/net10.0/PassingParameters.runtimeconfig.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day3_08Jan2026/PassingParameters/bin/Debug/net10.0/PassingParameters.dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day3_08Jan2026/PassingParameters/bin/Debug/net10.0/PassingParameters.pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day3_08Jan2026/PassingParameters/obj/Debug/net10.0/PassingParameters.GeneratedMSBuildEditorConfig.editorconfig
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day3_08Jan2026/PassingParameters/obj/Debug/net10.0/PassingParameters.AssemblyInfoInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day3_08Jan2026/PassingParameters/obj/Debug/net10.0/PassingParameters.AssemblyInfo.cs
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day3_08Jan2026/PassingParameters/obj/Debug/net10.0/PassingParameters.csproj.CoreCompileInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day3_08Jan2026/PassingParameters/obj/Debug/net10.0/PassingParameters.sourcelink.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day3_08Jan2026/PassingParameters/obj/Debug/net10.0/PassingParameters.dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day3_08Jan2026/PassingParameters/obj/Debug/net10.0/refint/PassingParameters.dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day3_08Jan2026/PassingParameters/obj/Debug/net10.0/PassingParameters.pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day3_08Jan2026/PassingParameters/obj/Debug/net10.0/PassingParameters.genruntimeconfig.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day3_08Jan2026/PassingParameters/obj/Debug/net10.0/ref/PassingParameters.dll

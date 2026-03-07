@@ -1,0 +1,15 @@
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day18_29Jan2026/HandsOn3(CountOfElements)/bin/Debug/net10.0/HandsOn3(CountOfElements)
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day18_29Jan2026/HandsOn3(CountOfElements)/bin/Debug/net10.0/HandsOn3(CountOfElements).deps.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day18_29Jan2026/HandsOn3(CountOfElements)/bin/Debug/net10.0/HandsOn3(CountOfElements).runtimeconfig.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day18_29Jan2026/HandsOn3(CountOfElements)/bin/Debug/net10.0/HandsOn3(CountOfElements).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day18_29Jan2026/HandsOn3(CountOfElements)/bin/Debug/net10.0/HandsOn3(CountOfElements).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day18_29Jan2026/HandsOn3(CountOfElements)/obj/Debug/net10.0/HandsOn3(CountOfElements).GeneratedMSBuildEditorConfig.editorconfig
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day18_29Jan2026/HandsOn3(CountOfElements)/obj/Debug/net10.0/HandsOn3(CountOfElements).AssemblyInfoInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day18_29Jan2026/HandsOn3(CountOfElements)/obj/Debug/net10.0/HandsOn3(CountOfElements).AssemblyInfo.cs
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day18_29Jan2026/HandsOn3(CountOfElements)/obj/Debug/net10.0/HandsOn3(CountOfElements).csproj.CoreCompileInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day18_29Jan2026/HandsOn3(CountOfElements)/obj/Debug/net10.0/HandsOn3(CountOfElements).sourcelink.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day18_29Jan2026/HandsOn3(CountOfElements)/obj/Debug/net10.0/HandsOn3(CountOfElements).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day18_29Jan2026/HandsOn3(CountOfElements)/obj/Debug/net10.0/refint/HandsOn3(CountOfElements).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day18_29Jan2026/HandsOn3(CountOfElements)/obj/Debug/net10.0/HandsOn3(CountOfElements).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day18_29Jan2026/HandsOn3(CountOfElements)/obj/Debug/net10.0/HandsOn3(CountOfElements).genruntimeconfig.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day18_29Jan2026/HandsOn3(CountOfElements)/obj/Debug/net10.0/ref/HandsOn3(CountOfElements).dll

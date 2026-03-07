@@ -1,0 +1,15 @@
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/CaseStudy1(LargestSum)/bin/Debug/net10.0/CaseStudy1(LargestSum)
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/CaseStudy1(LargestSum)/bin/Debug/net10.0/CaseStudy1(LargestSum).deps.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/CaseStudy1(LargestSum)/bin/Debug/net10.0/CaseStudy1(LargestSum).runtimeconfig.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/CaseStudy1(LargestSum)/bin/Debug/net10.0/CaseStudy1(LargestSum).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/CaseStudy1(LargestSum)/bin/Debug/net10.0/CaseStudy1(LargestSum).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/CaseStudy1(LargestSum)/obj/Debug/net10.0/CaseStudy1(LargestSum).GeneratedMSBuildEditorConfig.editorconfig
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/CaseStudy1(LargestSum)/obj/Debug/net10.0/CaseStudy1(LargestSum).AssemblyInfoInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/CaseStudy1(LargestSum)/obj/Debug/net10.0/CaseStudy1(LargestSum).AssemblyInfo.cs
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/CaseStudy1(LargestSum)/obj/Debug/net10.0/CaseStudy1(LargestSum).csproj.CoreCompileInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/CaseStudy1(LargestSum)/obj/Debug/net10.0/CaseStudy1(LargestSum).sourcelink.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/CaseStudy1(LargestSum)/obj/Debug/net10.0/CaseStudy1(LargestSum).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/CaseStudy1(LargestSum)/obj/Debug/net10.0/refint/CaseStudy1(LargestSum).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/CaseStudy1(LargestSum)/obj/Debug/net10.0/CaseStudy1(LargestSum).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/CaseStudy1(LargestSum)/obj/Debug/net10.0/CaseStudy1(LargestSum).genruntimeconfig.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/CaseStudy1(LargestSum)/obj/Debug/net10.0/ref/CaseStudy1(LargestSum).dll

@@ -1,0 +1,15 @@
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/HandsOn3(PalindromeCheck)/bin/Debug/net10.0/HandsOn3(PalindromeCheck)
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/HandsOn3(PalindromeCheck)/bin/Debug/net10.0/HandsOn3(PalindromeCheck).deps.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/HandsOn3(PalindromeCheck)/bin/Debug/net10.0/HandsOn3(PalindromeCheck).runtimeconfig.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/HandsOn3(PalindromeCheck)/bin/Debug/net10.0/HandsOn3(PalindromeCheck).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/HandsOn3(PalindromeCheck)/bin/Debug/net10.0/HandsOn3(PalindromeCheck).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/HandsOn3(PalindromeCheck)/obj/Debug/net10.0/HandsOn3(PalindromeCheck).GeneratedMSBuildEditorConfig.editorconfig
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/HandsOn3(PalindromeCheck)/obj/Debug/net10.0/HandsOn3(PalindromeCheck).AssemblyInfoInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/HandsOn3(PalindromeCheck)/obj/Debug/net10.0/HandsOn3(PalindromeCheck).AssemblyInfo.cs
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/HandsOn3(PalindromeCheck)/obj/Debug/net10.0/HandsOn3(PalindromeCheck).csproj.CoreCompileInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/HandsOn3(PalindromeCheck)/obj/Debug/net10.0/HandsOn3(PalindromeCheck).sourcelink.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/HandsOn3(PalindromeCheck)/obj/Debug/net10.0/HandsOn3(PalindromeCheck).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/HandsOn3(PalindromeCheck)/obj/Debug/net10.0/refint/HandsOn3(PalindromeCheck).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/HandsOn3(PalindromeCheck)/obj/Debug/net10.0/HandsOn3(PalindromeCheck).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/HandsOn3(PalindromeCheck)/obj/Debug/net10.0/HandsOn3(PalindromeCheck).genruntimeconfig.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/HandsOn3(PalindromeCheck)/obj/Debug/net10.0/ref/HandsOn3(PalindromeCheck).dll

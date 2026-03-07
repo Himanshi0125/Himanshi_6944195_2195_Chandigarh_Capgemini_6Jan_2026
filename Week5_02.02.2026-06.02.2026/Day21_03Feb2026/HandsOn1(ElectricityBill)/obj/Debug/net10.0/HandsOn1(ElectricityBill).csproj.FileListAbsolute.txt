@@ -1,0 +1,15 @@
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day21_03Feb2026/HandsOn1(ElectricityBill)/obj/Debug/net10.0/HandsOn1(ElectricityBill).GeneratedMSBuildEditorConfig.editorconfig
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day21_03Feb2026/HandsOn1(ElectricityBill)/obj/Debug/net10.0/HandsOn1(ElectricityBill).AssemblyInfoInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day21_03Feb2026/HandsOn1(ElectricityBill)/obj/Debug/net10.0/HandsOn1(ElectricityBill).AssemblyInfo.cs
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day21_03Feb2026/HandsOn1(ElectricityBill)/obj/Debug/net10.0/HandsOn1(ElectricityBill).csproj.CoreCompileInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day21_03Feb2026/HandsOn1(ElectricityBill)/obj/Debug/net10.0/HandsOn1(ElectricityBill).sourcelink.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day21_03Feb2026/HandsOn1(ElectricityBill)/bin/Debug/net10.0/HandsOn1(ElectricityBill)
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day21_03Feb2026/HandsOn1(ElectricityBill)/bin/Debug/net10.0/HandsOn1(ElectricityBill).deps.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day21_03Feb2026/HandsOn1(ElectricityBill)/bin/Debug/net10.0/HandsOn1(ElectricityBill).runtimeconfig.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day21_03Feb2026/HandsOn1(ElectricityBill)/bin/Debug/net10.0/HandsOn1(ElectricityBill).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day21_03Feb2026/HandsOn1(ElectricityBill)/bin/Debug/net10.0/HandsOn1(ElectricityBill).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day21_03Feb2026/HandsOn1(ElectricityBill)/obj/Debug/net10.0/HandsOn1(ElectricityBill).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day21_03Feb2026/HandsOn1(ElectricityBill)/obj/Debug/net10.0/refint/HandsOn1(ElectricityBill).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day21_03Feb2026/HandsOn1(ElectricityBill)/obj/Debug/net10.0/HandsOn1(ElectricityBill).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day21_03Feb2026/HandsOn1(ElectricityBill)/obj/Debug/net10.0/HandsOn1(ElectricityBill).genruntimeconfig.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day21_03Feb2026/HandsOn1(ElectricityBill)/obj/Debug/net10.0/ref/HandsOn1(ElectricityBill).dll

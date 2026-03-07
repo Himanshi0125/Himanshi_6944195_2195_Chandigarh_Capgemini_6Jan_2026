@@ -1,0 +1,15 @@
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day14_22Jan2026/ObjectBaseClass&Equals/bin/Debug/net10.0/ObjectBaseClass&Equals
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day14_22Jan2026/ObjectBaseClass&Equals/bin/Debug/net10.0/ObjectBaseClass&Equals.deps.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day14_22Jan2026/ObjectBaseClass&Equals/bin/Debug/net10.0/ObjectBaseClass&Equals.runtimeconfig.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day14_22Jan2026/ObjectBaseClass&Equals/bin/Debug/net10.0/ObjectBaseClass&Equals.dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day14_22Jan2026/ObjectBaseClass&Equals/bin/Debug/net10.0/ObjectBaseClass&Equals.pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day14_22Jan2026/ObjectBaseClass&Equals/obj/Debug/net10.0/ObjectBaseClass&Equals.GeneratedMSBuildEditorConfig.editorconfig
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day14_22Jan2026/ObjectBaseClass&Equals/obj/Debug/net10.0/ObjectBaseClass&Equals.AssemblyInfoInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day14_22Jan2026/ObjectBaseClass&Equals/obj/Debug/net10.0/ObjectBaseClass&Equals.AssemblyInfo.cs
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day14_22Jan2026/ObjectBaseClass&Equals/obj/Debug/net10.0/ObjectBaseClass&Equals.csproj.CoreCompileInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day14_22Jan2026/ObjectBaseClass&Equals/obj/Debug/net10.0/ObjectBaseClass&Equals.sourcelink.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day14_22Jan2026/ObjectBaseClass&Equals/obj/Debug/net10.0/ObjectBaseClass&Equals.dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day14_22Jan2026/ObjectBaseClass&Equals/obj/Debug/net10.0/refint/ObjectBaseClass&Equals.dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day14_22Jan2026/ObjectBaseClass&Equals/obj/Debug/net10.0/ObjectBaseClass&Equals.pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day14_22Jan2026/ObjectBaseClass&Equals/obj/Debug/net10.0/ObjectBaseClass&Equals.genruntimeconfig.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day14_22Jan2026/ObjectBaseClass&Equals/obj/Debug/net10.0/ref/ObjectBaseClass&Equals.dll

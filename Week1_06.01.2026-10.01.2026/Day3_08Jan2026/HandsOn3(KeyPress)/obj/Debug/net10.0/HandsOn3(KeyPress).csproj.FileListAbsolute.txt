@@ -1,0 +1,15 @@
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day3_08Jan2026/HandsOn3(KeyPress)/obj/Debug/net10.0/HandsOn3(KeyPress).GeneratedMSBuildEditorConfig.editorconfig
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day3_08Jan2026/HandsOn3(KeyPress)/obj/Debug/net10.0/HandsOn3(KeyPress).AssemblyInfoInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day3_08Jan2026/HandsOn3(KeyPress)/obj/Debug/net10.0/HandsOn3(KeyPress).AssemblyInfo.cs
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day3_08Jan2026/HandsOn3(KeyPress)/obj/Debug/net10.0/HandsOn3(KeyPress).csproj.CoreCompileInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day3_08Jan2026/HandsOn3(KeyPress)/obj/Debug/net10.0/HandsOn3(KeyPress).sourcelink.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day3_08Jan2026/HandsOn3(KeyPress)/bin/Debug/net10.0/HandsOn3(KeyPress)
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day3_08Jan2026/HandsOn3(KeyPress)/bin/Debug/net10.0/HandsOn3(KeyPress).deps.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day3_08Jan2026/HandsOn3(KeyPress)/bin/Debug/net10.0/HandsOn3(KeyPress).runtimeconfig.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day3_08Jan2026/HandsOn3(KeyPress)/bin/Debug/net10.0/HandsOn3(KeyPress).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day3_08Jan2026/HandsOn3(KeyPress)/bin/Debug/net10.0/HandsOn3(KeyPress).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day3_08Jan2026/HandsOn3(KeyPress)/obj/Debug/net10.0/HandsOn3(KeyPress).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day3_08Jan2026/HandsOn3(KeyPress)/obj/Debug/net10.0/refint/HandsOn3(KeyPress).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day3_08Jan2026/HandsOn3(KeyPress)/obj/Debug/net10.0/HandsOn3(KeyPress).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day3_08Jan2026/HandsOn3(KeyPress)/obj/Debug/net10.0/HandsOn3(KeyPress).genruntimeconfig.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day3_08Jan2026/HandsOn3(KeyPress)/obj/Debug/net10.0/ref/HandsOn3(KeyPress).dll

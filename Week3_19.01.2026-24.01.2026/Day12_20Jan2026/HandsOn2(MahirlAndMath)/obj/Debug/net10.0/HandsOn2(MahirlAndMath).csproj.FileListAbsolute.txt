@@ -1,0 +1,15 @@
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day12_20Jan2026/HandsOn2(MahirlAndMath)/bin/Debug/net10.0/HandsOn2(MahirlAndMath)
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day12_20Jan2026/HandsOn2(MahirlAndMath)/bin/Debug/net10.0/HandsOn2(MahirlAndMath).deps.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day12_20Jan2026/HandsOn2(MahirlAndMath)/bin/Debug/net10.0/HandsOn2(MahirlAndMath).runtimeconfig.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day12_20Jan2026/HandsOn2(MahirlAndMath)/bin/Debug/net10.0/HandsOn2(MahirlAndMath).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day12_20Jan2026/HandsOn2(MahirlAndMath)/bin/Debug/net10.0/HandsOn2(MahirlAndMath).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day12_20Jan2026/HandsOn2(MahirlAndMath)/obj/Debug/net10.0/HandsOn2(MahirlAndMath).GeneratedMSBuildEditorConfig.editorconfig
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day12_20Jan2026/HandsOn2(MahirlAndMath)/obj/Debug/net10.0/HandsOn2(MahirlAndMath).AssemblyInfoInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day12_20Jan2026/HandsOn2(MahirlAndMath)/obj/Debug/net10.0/HandsOn2(MahirlAndMath).AssemblyInfo.cs
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day12_20Jan2026/HandsOn2(MahirlAndMath)/obj/Debug/net10.0/HandsOn2(MahirlAndMath).csproj.CoreCompileInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day12_20Jan2026/HandsOn2(MahirlAndMath)/obj/Debug/net10.0/HandsOn2(MahirlAndMath).sourcelink.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day12_20Jan2026/HandsOn2(MahirlAndMath)/obj/Debug/net10.0/HandsOn2(MahirlAndMath).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day12_20Jan2026/HandsOn2(MahirlAndMath)/obj/Debug/net10.0/refint/HandsOn2(MahirlAndMath).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day12_20Jan2026/HandsOn2(MahirlAndMath)/obj/Debug/net10.0/HandsOn2(MahirlAndMath).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day12_20Jan2026/HandsOn2(MahirlAndMath)/obj/Debug/net10.0/HandsOn2(MahirlAndMath).genruntimeconfig.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week3_19.01.2026-24.01.2026/Day12_20Jan2026/HandsOn2(MahirlAndMath)/obj/Debug/net10.0/ref/HandsOn2(MahirlAndMath).dll

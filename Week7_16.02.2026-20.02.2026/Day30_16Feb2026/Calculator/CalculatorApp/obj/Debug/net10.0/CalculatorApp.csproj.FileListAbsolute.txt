@@ -1,0 +1,15 @@
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week7_16.02.2026-20.02.2026/Day30_16Feb2026/Calculator/CalculatorApp/bin/Debug/net10.0/CalculatorApp
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week7_16.02.2026-20.02.2026/Day30_16Feb2026/Calculator/CalculatorApp/bin/Debug/net10.0/CalculatorApp.deps.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week7_16.02.2026-20.02.2026/Day30_16Feb2026/Calculator/CalculatorApp/bin/Debug/net10.0/CalculatorApp.runtimeconfig.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week7_16.02.2026-20.02.2026/Day30_16Feb2026/Calculator/CalculatorApp/bin/Debug/net10.0/CalculatorApp.dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week7_16.02.2026-20.02.2026/Day30_16Feb2026/Calculator/CalculatorApp/bin/Debug/net10.0/CalculatorApp.pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week7_16.02.2026-20.02.2026/Day30_16Feb2026/Calculator/CalculatorApp/obj/Debug/net10.0/CalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week7_16.02.2026-20.02.2026/Day30_16Feb2026/Calculator/CalculatorApp/obj/Debug/net10.0/CalculatorApp.AssemblyInfoInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week7_16.02.2026-20.02.2026/Day30_16Feb2026/Calculator/CalculatorApp/obj/Debug/net10.0/CalculatorApp.AssemblyInfo.cs
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week7_16.02.2026-20.02.2026/Day30_16Feb2026/Calculator/CalculatorApp/obj/Debug/net10.0/CalculatorApp.csproj.CoreCompileInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week7_16.02.2026-20.02.2026/Day30_16Feb2026/Calculator/CalculatorApp/obj/Debug/net10.0/CalculatorApp.sourcelink.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week7_16.02.2026-20.02.2026/Day30_16Feb2026/Calculator/CalculatorApp/obj/Debug/net10.0/CalculatorApp.dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week7_16.02.2026-20.02.2026/Day30_16Feb2026/Calculator/CalculatorApp/obj/Debug/net10.0/refint/CalculatorApp.dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week7_16.02.2026-20.02.2026/Day30_16Feb2026/Calculator/CalculatorApp/obj/Debug/net10.0/CalculatorApp.pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week7_16.02.2026-20.02.2026/Day30_16Feb2026/Calculator/CalculatorApp/obj/Debug/net10.0/CalculatorApp.genruntimeconfig.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week7_16.02.2026-20.02.2026/Day30_16Feb2026/Calculator/CalculatorApp/obj/Debug/net10.0/ref/CalculatorApp.dll

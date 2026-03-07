@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "HandsOn8(InsertSubstring)/1.0.0": {
+        "runtime": {
+          "HandsOn8(InsertSubstring).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HandsOn8(InsertSubstring)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

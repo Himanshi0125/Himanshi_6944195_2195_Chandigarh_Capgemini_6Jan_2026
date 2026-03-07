@@ -1,0 +1,15 @@
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day3_08Jan2026/HandsOn4(CorrectAnswer)/bin/Debug/net10.0/HandsOn4(CorrectAnswer)
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day3_08Jan2026/HandsOn4(CorrectAnswer)/bin/Debug/net10.0/HandsOn4(CorrectAnswer).deps.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day3_08Jan2026/HandsOn4(CorrectAnswer)/bin/Debug/net10.0/HandsOn4(CorrectAnswer).runtimeconfig.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day3_08Jan2026/HandsOn4(CorrectAnswer)/bin/Debug/net10.0/HandsOn4(CorrectAnswer).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day3_08Jan2026/HandsOn4(CorrectAnswer)/bin/Debug/net10.0/HandsOn4(CorrectAnswer).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day3_08Jan2026/HandsOn4(CorrectAnswer)/obj/Debug/net10.0/HandsOn4(CorrectAnswer).GeneratedMSBuildEditorConfig.editorconfig
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day3_08Jan2026/HandsOn4(CorrectAnswer)/obj/Debug/net10.0/HandsOn4(CorrectAnswer).AssemblyInfoInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day3_08Jan2026/HandsOn4(CorrectAnswer)/obj/Debug/net10.0/HandsOn4(CorrectAnswer).AssemblyInfo.cs
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day3_08Jan2026/HandsOn4(CorrectAnswer)/obj/Debug/net10.0/HandsOn4(CorrectAnswer).csproj.CoreCompileInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day3_08Jan2026/HandsOn4(CorrectAnswer)/obj/Debug/net10.0/HandsOn4(CorrectAnswer).sourcelink.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day3_08Jan2026/HandsOn4(CorrectAnswer)/obj/Debug/net10.0/HandsOn4(CorrectAnswer).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day3_08Jan2026/HandsOn4(CorrectAnswer)/obj/Debug/net10.0/refint/HandsOn4(CorrectAnswer).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day3_08Jan2026/HandsOn4(CorrectAnswer)/obj/Debug/net10.0/HandsOn4(CorrectAnswer).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day3_08Jan2026/HandsOn4(CorrectAnswer)/obj/Debug/net10.0/HandsOn4(CorrectAnswer).genruntimeconfig.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day3_08Jan2026/HandsOn4(CorrectAnswer)/obj/Debug/net10.0/ref/HandsOn4(CorrectAnswer).dll

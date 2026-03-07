@@ -1,0 +1,15 @@
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day23_05Feb2026/HandsOn1(MaxDeletion)/bin/Debug/net10.0/HandsOn1(MaxDeletion)
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day23_05Feb2026/HandsOn1(MaxDeletion)/bin/Debug/net10.0/HandsOn1(MaxDeletion).deps.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day23_05Feb2026/HandsOn1(MaxDeletion)/bin/Debug/net10.0/HandsOn1(MaxDeletion).runtimeconfig.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day23_05Feb2026/HandsOn1(MaxDeletion)/bin/Debug/net10.0/HandsOn1(MaxDeletion).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day23_05Feb2026/HandsOn1(MaxDeletion)/bin/Debug/net10.0/HandsOn1(MaxDeletion).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day23_05Feb2026/HandsOn1(MaxDeletion)/obj/Debug/net10.0/HandsOn1(MaxDeletion).GeneratedMSBuildEditorConfig.editorconfig
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day23_05Feb2026/HandsOn1(MaxDeletion)/obj/Debug/net10.0/HandsOn1(MaxDeletion).AssemblyInfoInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day23_05Feb2026/HandsOn1(MaxDeletion)/obj/Debug/net10.0/HandsOn1(MaxDeletion).AssemblyInfo.cs
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day23_05Feb2026/HandsOn1(MaxDeletion)/obj/Debug/net10.0/HandsOn1(MaxDeletion).csproj.CoreCompileInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day23_05Feb2026/HandsOn1(MaxDeletion)/obj/Debug/net10.0/HandsOn1(MaxDeletion).sourcelink.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day23_05Feb2026/HandsOn1(MaxDeletion)/obj/Debug/net10.0/HandsOn1(MaxDeletion).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day23_05Feb2026/HandsOn1(MaxDeletion)/obj/Debug/net10.0/refint/HandsOn1(MaxDeletion).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day23_05Feb2026/HandsOn1(MaxDeletion)/obj/Debug/net10.0/HandsOn1(MaxDeletion).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day23_05Feb2026/HandsOn1(MaxDeletion)/obj/Debug/net10.0/HandsOn1(MaxDeletion).genruntimeconfig.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day23_05Feb2026/HandsOn1(MaxDeletion)/obj/Debug/net10.0/ref/HandsOn1(MaxDeletion).dll

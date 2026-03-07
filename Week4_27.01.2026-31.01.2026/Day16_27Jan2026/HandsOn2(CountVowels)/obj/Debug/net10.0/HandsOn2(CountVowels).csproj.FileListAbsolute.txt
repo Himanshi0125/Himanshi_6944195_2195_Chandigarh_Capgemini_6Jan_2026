@@ -1,0 +1,15 @@
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/HandsOn2(CountVowels)/obj/Debug/net10.0/HandsOn2(CountVowels).GeneratedMSBuildEditorConfig.editorconfig
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/HandsOn2(CountVowels)/obj/Debug/net10.0/HandsOn2(CountVowels).AssemblyInfoInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/HandsOn2(CountVowels)/obj/Debug/net10.0/HandsOn2(CountVowels).AssemblyInfo.cs
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/HandsOn2(CountVowels)/obj/Debug/net10.0/HandsOn2(CountVowels).csproj.CoreCompileInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/HandsOn2(CountVowels)/obj/Debug/net10.0/HandsOn2(CountVowels).sourcelink.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/HandsOn2(CountVowels)/bin/Debug/net10.0/HandsOn2(CountVowels)
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/HandsOn2(CountVowels)/bin/Debug/net10.0/HandsOn2(CountVowels).deps.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/HandsOn2(CountVowels)/bin/Debug/net10.0/HandsOn2(CountVowels).runtimeconfig.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/HandsOn2(CountVowels)/bin/Debug/net10.0/HandsOn2(CountVowels).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/HandsOn2(CountVowels)/bin/Debug/net10.0/HandsOn2(CountVowels).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/HandsOn2(CountVowels)/obj/Debug/net10.0/HandsOn2(CountVowels).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/HandsOn2(CountVowels)/obj/Debug/net10.0/refint/HandsOn2(CountVowels).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/HandsOn2(CountVowels)/obj/Debug/net10.0/HandsOn2(CountVowels).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/HandsOn2(CountVowels)/obj/Debug/net10.0/HandsOn2(CountVowels).genruntimeconfig.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/HandsOn2(CountVowels)/obj/Debug/net10.0/ref/HandsOn2(CountVowels).dll

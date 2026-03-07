@@ -1,0 +1,59 @@
+TABLE SALESPEOPLE
+ 
+SNUM ​​SNAME              ​CITY                  ​COMM
+1001 ​​Peel                 ​​London            ​12
+1002 ​​Serres               ​San Jose              ​13
+   ​1004 ​​Motika               ​London             ​11
+   ​1007 ​​Rafkin               ​Barcelona           ​15
+1003 ​​Axelrod              ​New york           ​1
+ 
+ 
+TABLE CUST
+ 
+​CNUM ​CNAME      ​CITY          ​RATING      ​SNUM 
+2001 ​​Hoffman    ​London           ​100      ​​1001
+2002 ​​Giovanne   ​Rome             ​200      ​​1003
+2003 ​​Liu        ​San Jose         ​300      ​​1002
+2004 ​​Grass      ​Brelin           ​100      ​​1002
+2006​ ​Clemens    ​London           ​300      ​​1007
+2007 ​​Pereira    ​Rome             ​100      ​​1004
+ 
+ 
+ORDERS
+ 
+ONUM​    AMT​ODATE          ​CNUM      ​SNUM
+3001     ​    18.69 ​03-OCT-94      ​2008      ​1007
+3003    ​  767.19 ​03-OCT-94      ​2001      ​1001
+3002    ​1900.10 ​03-OCT-94      ​2007      ​1004
+3005   ​​5160.45 ​03-OCT-94      ​2003      ​1002
+3006   ​​1098.16 ​04-OCT-94      ​2008      ​1007
+3009   ​​1713.23 ​04-OCT-94      ​2002      ​1003
+3007     ​    75.75 ​05-OCT-94      ​2004      ​1002
+3008       ​4723.00​05-OCT-94      ​2006      ​1001
+3010   ​​1309.95 ​06-OCT-94      ​2004      ​1002
+3011   ​​9891.88 ​06-OCT-94      ​2006      ​1001
+ 
+ 
+ 
+ 
+1.  Display snum,sname,city and comm of all salespeople.
+2.  Display all snum without duplicates from all orders.
+3.  Display names and commissions of all salespeople in london.
+4.  All customers with rating of 100.
+5.  Produce orderno, amount and date form all rows in the order table.
+6.  All customers in San Jose, who have rating more than 200.
+7.  All customers who were either located in San Jose or had a rating above 200.
+8.  All orders for more than $1000.
+9.  Names and citires of all salespeople in london with commission above 0.10.
+10.  All customers excluding those with rating <= 100 unless they are located in Rome.
+11.  All salespeople either in Barcelona or in london.
+12.  All salespeople with commission between 0.10 and 0.12. (Boundary values should be excluded)
+13.  All customers with NULL values in city column.
+14.  All orders taken on Oct 3Rd   and Oct 4th  1994.
+15.  All customers serviced by peel or Motika.
+16.  All customers whose names begin with a letter from A to B.
+17.  All orders except those with 0 or NULL value in amt field.
+18.  Count the number of salespeople currently listing orders in the order table.
+19.  Largest order taken by each salesperson, datewise.
+20.  Largest order taken by each salesperson with order value more than $3000.
+ 

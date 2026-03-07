@@ -1,0 +1,39 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day30_16Feb2026", "Day30_16Feb2026", "{2AB75E16-DB29-0C70-A182-96B7E4011781}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Calculator", "Calculator", "{569AC0F9-0B7E-C40D-66F2-F724D32C94C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorApp", "Day30_16Feb2026\Calculator\CalculatorApp\CalculatorApp.csproj", "{20A1F70B-BE83-A913-130D-D9BD0986B339}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorApp.Tests", "Day30_16Feb2026\Calculator\CalculatorApp.Tests\CalculatorApp.Tests.csproj", "{1AB71FCE-821E-C4B6-EA7D-5661E5BBE2A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20A1F70B-BE83-A913-130D-D9BD0986B339}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20A1F70B-BE83-A913-130D-D9BD0986B339}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20A1F70B-BE83-A913-130D-D9BD0986B339}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20A1F70B-BE83-A913-130D-D9BD0986B339}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AB71FCE-821E-C4B6-EA7D-5661E5BBE2A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AB71FCE-821E-C4B6-EA7D-5661E5BBE2A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AB71FCE-821E-C4B6-EA7D-5661E5BBE2A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AB71FCE-821E-C4B6-EA7D-5661E5BBE2A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{569AC0F9-0B7E-C40D-66F2-F724D32C94C3} = {2AB75E16-DB29-0C70-A182-96B7E4011781}
+		{20A1F70B-BE83-A913-130D-D9BD0986B339} = {569AC0F9-0B7E-C40D-66F2-F724D32C94C3}
+		{1AB71FCE-821E-C4B6-EA7D-5661E5BBE2A8} = {569AC0F9-0B7E-C40D-66F2-F724D32C94C3}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AA53B1E-AB1D-4436-9869-F0207070DDA8}
+	EndGlobalSection
+EndGlobal

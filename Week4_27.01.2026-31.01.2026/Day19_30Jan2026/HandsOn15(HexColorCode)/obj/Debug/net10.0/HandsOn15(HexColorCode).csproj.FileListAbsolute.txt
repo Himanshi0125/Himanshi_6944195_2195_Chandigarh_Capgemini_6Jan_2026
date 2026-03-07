@@ -1,0 +1,15 @@
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day19_30Jan2026/HandsOn15(HexColorCode)/bin/Debug/net10.0/HandsOn15(HexColorCode)
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day19_30Jan2026/HandsOn15(HexColorCode)/bin/Debug/net10.0/HandsOn15(HexColorCode).deps.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day19_30Jan2026/HandsOn15(HexColorCode)/bin/Debug/net10.0/HandsOn15(HexColorCode).runtimeconfig.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day19_30Jan2026/HandsOn15(HexColorCode)/bin/Debug/net10.0/HandsOn15(HexColorCode).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day19_30Jan2026/HandsOn15(HexColorCode)/bin/Debug/net10.0/HandsOn15(HexColorCode).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day19_30Jan2026/HandsOn15(HexColorCode)/obj/Debug/net10.0/HandsOn15(HexColorCode).GeneratedMSBuildEditorConfig.editorconfig
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day19_30Jan2026/HandsOn15(HexColorCode)/obj/Debug/net10.0/HandsOn15(HexColorCode).AssemblyInfoInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day19_30Jan2026/HandsOn15(HexColorCode)/obj/Debug/net10.0/HandsOn15(HexColorCode).AssemblyInfo.cs
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day19_30Jan2026/HandsOn15(HexColorCode)/obj/Debug/net10.0/HandsOn15(HexColorCode).csproj.CoreCompileInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day19_30Jan2026/HandsOn15(HexColorCode)/obj/Debug/net10.0/HandsOn15(HexColorCode).sourcelink.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day19_30Jan2026/HandsOn15(HexColorCode)/obj/Debug/net10.0/HandsOn15(HexColorCode).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day19_30Jan2026/HandsOn15(HexColorCode)/obj/Debug/net10.0/refint/HandsOn15(HexColorCode).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day19_30Jan2026/HandsOn15(HexColorCode)/obj/Debug/net10.0/HandsOn15(HexColorCode).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day19_30Jan2026/HandsOn15(HexColorCode)/obj/Debug/net10.0/HandsOn15(HexColorCode).genruntimeconfig.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day19_30Jan2026/HandsOn15(HexColorCode)/obj/Debug/net10.0/ref/HandsOn15(HexColorCode).dll

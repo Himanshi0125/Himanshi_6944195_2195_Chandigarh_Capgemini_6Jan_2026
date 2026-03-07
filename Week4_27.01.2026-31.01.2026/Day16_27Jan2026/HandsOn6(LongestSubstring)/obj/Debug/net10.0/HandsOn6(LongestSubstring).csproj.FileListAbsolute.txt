@@ -1,0 +1,15 @@
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/HandsOn6(LongestSubstring)/bin/Debug/net10.0/HandsOn6(LongestSubstring)
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/HandsOn6(LongestSubstring)/bin/Debug/net10.0/HandsOn6(LongestSubstring).deps.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/HandsOn6(LongestSubstring)/bin/Debug/net10.0/HandsOn6(LongestSubstring).runtimeconfig.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/HandsOn6(LongestSubstring)/bin/Debug/net10.0/HandsOn6(LongestSubstring).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/HandsOn6(LongestSubstring)/bin/Debug/net10.0/HandsOn6(LongestSubstring).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/HandsOn6(LongestSubstring)/obj/Debug/net10.0/HandsOn6(LongestSubstring).GeneratedMSBuildEditorConfig.editorconfig
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/HandsOn6(LongestSubstring)/obj/Debug/net10.0/HandsOn6(LongestSubstring).AssemblyInfoInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/HandsOn6(LongestSubstring)/obj/Debug/net10.0/HandsOn6(LongestSubstring).AssemblyInfo.cs
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/HandsOn6(LongestSubstring)/obj/Debug/net10.0/HandsOn6(LongestSubstring).csproj.CoreCompileInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/HandsOn6(LongestSubstring)/obj/Debug/net10.0/HandsOn6(LongestSubstring).sourcelink.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/HandsOn6(LongestSubstring)/obj/Debug/net10.0/HandsOn6(LongestSubstring).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/HandsOn6(LongestSubstring)/obj/Debug/net10.0/refint/HandsOn6(LongestSubstring).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/HandsOn6(LongestSubstring)/obj/Debug/net10.0/HandsOn6(LongestSubstring).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/HandsOn6(LongestSubstring)/obj/Debug/net10.0/HandsOn6(LongestSubstring).genruntimeconfig.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/HandsOn6(LongestSubstring)/obj/Debug/net10.0/ref/HandsOn6(LongestSubstring).dll

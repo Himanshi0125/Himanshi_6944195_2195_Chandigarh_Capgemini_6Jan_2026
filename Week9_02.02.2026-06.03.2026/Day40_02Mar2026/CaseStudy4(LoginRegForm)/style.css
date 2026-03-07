@@ -1,0 +1,75 @@
+/* PAGE BACKGROUND */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(135deg, #ebcf74, #acb6e5);
+}
+
+/* CONTAINER */
+.container {
+    display: flex;
+    gap: 40px;
+    flex-wrap: wrap;
+}
+
+/* FORM CARD */
+.form-card {
+    background: white;
+    padding: 30px;
+    width: 280px;
+    border-radius: 15px;
+    box-shadow: 0 8px 25px rgba(0,0,0,0.2);
+    text-align: center;
+}
+
+/* HEADINGS */
+h2 {
+    margin-bottom: 20px;
+}
+
+/* LABEL */
+label {
+    display: block;
+    text-align: left;
+    margin-top: 10px;
+    font-size: 14px;
+}
+
+/* INPUT */
+input {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    outline: none;
+    transition: 0.3s;
+}
+
+/* FOCUS EFFECT */
+input:focus {
+    border-color: #ebeb74;
+    box-shadow: 0 0 5px rgba(116,235,213,0.8);
+}
+
+/* BUTTON */
+button {
+    width: 100%;
+    padding: 10px;
+    margin-top: 15px;
+    background: #3cb4e8;
+    border: none;
+    color: white;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+/* HOVER EFFECT */
+button:hover {
+    background: #4facfe;
+}

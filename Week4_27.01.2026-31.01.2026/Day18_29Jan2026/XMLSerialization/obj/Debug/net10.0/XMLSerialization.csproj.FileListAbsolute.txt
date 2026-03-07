@@ -1,0 +1,15 @@
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day18_29Jan2026/XMLSerialization/bin/Debug/net10.0/XMLSerialization
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day18_29Jan2026/XMLSerialization/bin/Debug/net10.0/XMLSerialization.deps.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day18_29Jan2026/XMLSerialization/bin/Debug/net10.0/XMLSerialization.runtimeconfig.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day18_29Jan2026/XMLSerialization/bin/Debug/net10.0/XMLSerialization.dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day18_29Jan2026/XMLSerialization/bin/Debug/net10.0/XMLSerialization.pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day18_29Jan2026/XMLSerialization/obj/Debug/net10.0/XMLSerialization.GeneratedMSBuildEditorConfig.editorconfig
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day18_29Jan2026/XMLSerialization/obj/Debug/net10.0/XMLSerialization.AssemblyInfoInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day18_29Jan2026/XMLSerialization/obj/Debug/net10.0/XMLSerialization.AssemblyInfo.cs
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day18_29Jan2026/XMLSerialization/obj/Debug/net10.0/XMLSerialization.csproj.CoreCompileInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day18_29Jan2026/XMLSerialization/obj/Debug/net10.0/XMLSerialization.sourcelink.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day18_29Jan2026/XMLSerialization/obj/Debug/net10.0/XMLSerialization.dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day18_29Jan2026/XMLSerialization/obj/Debug/net10.0/refint/XMLSerialization.dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day18_29Jan2026/XMLSerialization/obj/Debug/net10.0/XMLSerialization.pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day18_29Jan2026/XMLSerialization/obj/Debug/net10.0/XMLSerialization.genruntimeconfig.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day18_29Jan2026/XMLSerialization/obj/Debug/net10.0/ref/XMLSerialization.dll

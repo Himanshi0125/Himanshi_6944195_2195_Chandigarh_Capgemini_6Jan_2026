@@ -1,0 +1,15 @@
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day3_14Jan2026/Interface (Practice)/obj/Debug/net10.0/Interface (Practice).GeneratedMSBuildEditorConfig.editorconfig
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day3_14Jan2026/Interface (Practice)/obj/Debug/net10.0/Interface (Practice).AssemblyInfoInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day3_14Jan2026/Interface (Practice)/obj/Debug/net10.0/Interface (Practice).AssemblyInfo.cs
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day3_14Jan2026/Interface (Practice)/obj/Debug/net10.0/Interface (Practice).csproj.CoreCompileInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day3_14Jan2026/Interface (Practice)/obj/Debug/net10.0/Interface (Practice).sourcelink.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day3_14Jan2026/Interface (Practice)/bin/Debug/net10.0/Interface (Practice)
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day3_14Jan2026/Interface (Practice)/bin/Debug/net10.0/Interface (Practice).deps.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day3_14Jan2026/Interface (Practice)/bin/Debug/net10.0/Interface (Practice).runtimeconfig.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day3_14Jan2026/Interface (Practice)/bin/Debug/net10.0/Interface (Practice).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day3_14Jan2026/Interface (Practice)/bin/Debug/net10.0/Interface (Practice).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day3_14Jan2026/Interface (Practice)/obj/Debug/net10.0/Interface (Practice).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day3_14Jan2026/Interface (Practice)/obj/Debug/net10.0/refint/Interface (Practice).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day3_14Jan2026/Interface (Practice)/obj/Debug/net10.0/Interface (Practice).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day3_14Jan2026/Interface (Practice)/obj/Debug/net10.0/Interface (Practice).genruntimeconfig.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day3_14Jan2026/Interface (Practice)/obj/Debug/net10.0/ref/Interface (Practice).dll

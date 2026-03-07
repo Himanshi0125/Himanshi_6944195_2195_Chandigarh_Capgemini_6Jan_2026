@@ -1,0 +1,13 @@
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/DotNetWorkshop/WebApp/bin/Release/net10.0/publish/WebApp
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/DotNetWorkshop/WebApp/bin/Release/net10.0/publish/publish/web.config
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/DotNetWorkshop/WebApp/bin/Release/net10.0/publish/appsettings.Development.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/DotNetWorkshop/WebApp/bin/Release/net10.0/publish/appsettings.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/DotNetWorkshop/WebApp/bin/Release/net10.0/publish/publish/appsettings.Development.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/DotNetWorkshop/WebApp/bin/Release/net10.0/publish/publish/appsettings.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/DotNetWorkshop/WebApp/bin/Release/net10.0/publish/publish/WebApp.deps.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/DotNetWorkshop/WebApp/bin/Release/net10.0/publish/publish/WebApp.runtimeconfig.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/DotNetWorkshop/WebApp/bin/Release/net10.0/publish/publish/WebApp.staticwebassets.endpoints.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/DotNetWorkshop/WebApp/bin/Release/net10.0/publish/WebApp.dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/DotNetWorkshop/WebApp/bin/Release/net10.0/publish/WebApp.deps.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/DotNetWorkshop/WebApp/bin/Release/net10.0/publish/WebApp.runtimeconfig.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/DotNetWorkshop/WebApp/bin/Release/net10.0/publish/WebApp.pdb

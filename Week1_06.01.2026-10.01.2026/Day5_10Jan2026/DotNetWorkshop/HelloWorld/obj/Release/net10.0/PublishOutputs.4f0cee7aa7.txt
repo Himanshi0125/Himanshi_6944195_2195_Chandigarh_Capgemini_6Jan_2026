@@ -1,0 +1,5 @@
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/DotNetWorkshop/HelloWorld/bin/Release/net10.0/publish/HelloWorld
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/DotNetWorkshop/HelloWorld/bin/Release/net10.0/publish/HelloWorld.dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/DotNetWorkshop/HelloWorld/bin/Release/net10.0/publish/HelloWorld.deps.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/DotNetWorkshop/HelloWorld/bin/Release/net10.0/publish/HelloWorld.runtimeconfig.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/DotNetWorkshop/HelloWorld/bin/Release/net10.0/publish/HelloWorld.pdb

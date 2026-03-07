@@ -1,0 +1,15 @@
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/HandsOn7(ValidParentheses)/bin/Debug/net10.0/HandsOn7(ValidParentheses)
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/HandsOn7(ValidParentheses)/bin/Debug/net10.0/HandsOn7(ValidParentheses).deps.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/HandsOn7(ValidParentheses)/bin/Debug/net10.0/HandsOn7(ValidParentheses).runtimeconfig.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/HandsOn7(ValidParentheses)/bin/Debug/net10.0/HandsOn7(ValidParentheses).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/HandsOn7(ValidParentheses)/bin/Debug/net10.0/HandsOn7(ValidParentheses).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/HandsOn7(ValidParentheses)/obj/Debug/net10.0/HandsOn7(ValidParentheses).GeneratedMSBuildEditorConfig.editorconfig
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/HandsOn7(ValidParentheses)/obj/Debug/net10.0/HandsOn7(ValidParentheses).AssemblyInfoInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/HandsOn7(ValidParentheses)/obj/Debug/net10.0/HandsOn7(ValidParentheses).AssemblyInfo.cs
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/HandsOn7(ValidParentheses)/obj/Debug/net10.0/HandsOn7(ValidParentheses).csproj.CoreCompileInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/HandsOn7(ValidParentheses)/obj/Debug/net10.0/HandsOn7(ValidParentheses).sourcelink.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/HandsOn7(ValidParentheses)/obj/Debug/net10.0/HandsOn7(ValidParentheses).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/HandsOn7(ValidParentheses)/obj/Debug/net10.0/refint/HandsOn7(ValidParentheses).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/HandsOn7(ValidParentheses)/obj/Debug/net10.0/HandsOn7(ValidParentheses).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/HandsOn7(ValidParentheses)/obj/Debug/net10.0/HandsOn7(ValidParentheses).genruntimeconfig.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day16_27Jan2026/HandsOn7(ValidParentheses)/obj/Debug/net10.0/ref/HandsOn7(ValidParentheses).dll

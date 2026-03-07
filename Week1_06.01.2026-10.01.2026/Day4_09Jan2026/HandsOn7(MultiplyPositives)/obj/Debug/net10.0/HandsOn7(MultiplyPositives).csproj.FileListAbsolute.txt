@@ -1,0 +1,15 @@
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day4_09Jan2026/HandsOn7(MultiplyPositives)/obj/Debug/net10.0/HandsOn7(MultiplyPositives).GeneratedMSBuildEditorConfig.editorconfig
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day4_09Jan2026/HandsOn7(MultiplyPositives)/obj/Debug/net10.0/HandsOn7(MultiplyPositives).AssemblyInfoInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day4_09Jan2026/HandsOn7(MultiplyPositives)/obj/Debug/net10.0/HandsOn7(MultiplyPositives).AssemblyInfo.cs
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day4_09Jan2026/HandsOn7(MultiplyPositives)/obj/Debug/net10.0/HandsOn7(MultiplyPositives).csproj.CoreCompileInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day4_09Jan2026/HandsOn7(MultiplyPositives)/obj/Debug/net10.0/HandsOn7(MultiplyPositives).sourcelink.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day4_09Jan2026/HandsOn7(MultiplyPositives)/bin/Debug/net10.0/HandsOn7(MultiplyPositives)
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day4_09Jan2026/HandsOn7(MultiplyPositives)/bin/Debug/net10.0/HandsOn7(MultiplyPositives).deps.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day4_09Jan2026/HandsOn7(MultiplyPositives)/bin/Debug/net10.0/HandsOn7(MultiplyPositives).runtimeconfig.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day4_09Jan2026/HandsOn7(MultiplyPositives)/bin/Debug/net10.0/HandsOn7(MultiplyPositives).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day4_09Jan2026/HandsOn7(MultiplyPositives)/bin/Debug/net10.0/HandsOn7(MultiplyPositives).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day4_09Jan2026/HandsOn7(MultiplyPositives)/obj/Debug/net10.0/HandsOn7(MultiplyPositives).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day4_09Jan2026/HandsOn7(MultiplyPositives)/obj/Debug/net10.0/refint/HandsOn7(MultiplyPositives).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day4_09Jan2026/HandsOn7(MultiplyPositives)/obj/Debug/net10.0/HandsOn7(MultiplyPositives).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day4_09Jan2026/HandsOn7(MultiplyPositives)/obj/Debug/net10.0/HandsOn7(MultiplyPositives).genruntimeconfig.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day4_09Jan2026/HandsOn7(MultiplyPositives)/obj/Debug/net10.0/ref/HandsOn7(MultiplyPositives).dll

@@ -1,0 +1,15 @@
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day19_30Jan2026/HandsOn10(VotingEligibility)/bin/Debug/net10.0/HandsOn10(VotingEligibility)
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day19_30Jan2026/HandsOn10(VotingEligibility)/bin/Debug/net10.0/HandsOn10(VotingEligibility).deps.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day19_30Jan2026/HandsOn10(VotingEligibility)/bin/Debug/net10.0/HandsOn10(VotingEligibility).runtimeconfig.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day19_30Jan2026/HandsOn10(VotingEligibility)/bin/Debug/net10.0/HandsOn10(VotingEligibility).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day19_30Jan2026/HandsOn10(VotingEligibility)/bin/Debug/net10.0/HandsOn10(VotingEligibility).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day19_30Jan2026/HandsOn10(VotingEligibility)/obj/Debug/net10.0/HandsOn10(VotingEligibility).GeneratedMSBuildEditorConfig.editorconfig
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day19_30Jan2026/HandsOn10(VotingEligibility)/obj/Debug/net10.0/HandsOn10(VotingEligibility).AssemblyInfoInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day19_30Jan2026/HandsOn10(VotingEligibility)/obj/Debug/net10.0/HandsOn10(VotingEligibility).AssemblyInfo.cs
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day19_30Jan2026/HandsOn10(VotingEligibility)/obj/Debug/net10.0/HandsOn10(VotingEligibility).csproj.CoreCompileInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day19_30Jan2026/HandsOn10(VotingEligibility)/obj/Debug/net10.0/HandsOn10(VotingEligibility).sourcelink.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day19_30Jan2026/HandsOn10(VotingEligibility)/obj/Debug/net10.0/HandsOn10(VotingEligibility).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day19_30Jan2026/HandsOn10(VotingEligibility)/obj/Debug/net10.0/refint/HandsOn10(VotingEligibility).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day19_30Jan2026/HandsOn10(VotingEligibility)/obj/Debug/net10.0/HandsOn10(VotingEligibility).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day19_30Jan2026/HandsOn10(VotingEligibility)/obj/Debug/net10.0/HandsOn10(VotingEligibility).genruntimeconfig.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day19_30Jan2026/HandsOn10(VotingEligibility)/obj/Debug/net10.0/ref/HandsOn10(VotingEligibility).dll

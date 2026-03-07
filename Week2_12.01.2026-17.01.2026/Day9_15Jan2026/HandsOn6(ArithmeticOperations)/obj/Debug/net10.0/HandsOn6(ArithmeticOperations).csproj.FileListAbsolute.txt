@@ -1,0 +1,15 @@
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day9_15Jan2026/HandsOn6(ArithmeticOperations)/bin/Debug/net10.0/HandsOn6(ArithmeticOperations)
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day9_15Jan2026/HandsOn6(ArithmeticOperations)/bin/Debug/net10.0/HandsOn6(ArithmeticOperations).deps.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day9_15Jan2026/HandsOn6(ArithmeticOperations)/bin/Debug/net10.0/HandsOn6(ArithmeticOperations).runtimeconfig.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day9_15Jan2026/HandsOn6(ArithmeticOperations)/bin/Debug/net10.0/HandsOn6(ArithmeticOperations).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day9_15Jan2026/HandsOn6(ArithmeticOperations)/bin/Debug/net10.0/HandsOn6(ArithmeticOperations).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day9_15Jan2026/HandsOn6(ArithmeticOperations)/obj/Debug/net10.0/HandsOn6(ArithmeticOperations).GeneratedMSBuildEditorConfig.editorconfig
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day9_15Jan2026/HandsOn6(ArithmeticOperations)/obj/Debug/net10.0/HandsOn6(ArithmeticOperations).AssemblyInfoInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day9_15Jan2026/HandsOn6(ArithmeticOperations)/obj/Debug/net10.0/HandsOn6(ArithmeticOperations).AssemblyInfo.cs
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day9_15Jan2026/HandsOn6(ArithmeticOperations)/obj/Debug/net10.0/HandsOn6(ArithmeticOperations).csproj.CoreCompileInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day9_15Jan2026/HandsOn6(ArithmeticOperations)/obj/Debug/net10.0/HandsOn6(ArithmeticOperations).sourcelink.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day9_15Jan2026/HandsOn6(ArithmeticOperations)/obj/Debug/net10.0/HandsOn6(ArithmeticOperations).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day9_15Jan2026/HandsOn6(ArithmeticOperations)/obj/Debug/net10.0/refint/HandsOn6(ArithmeticOperations).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day9_15Jan2026/HandsOn6(ArithmeticOperations)/obj/Debug/net10.0/HandsOn6(ArithmeticOperations).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day9_15Jan2026/HandsOn6(ArithmeticOperations)/obj/Debug/net10.0/HandsOn6(ArithmeticOperations).genruntimeconfig.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day9_15Jan2026/HandsOn6(ArithmeticOperations)/obj/Debug/net10.0/ref/HandsOn6(ArithmeticOperations).dll

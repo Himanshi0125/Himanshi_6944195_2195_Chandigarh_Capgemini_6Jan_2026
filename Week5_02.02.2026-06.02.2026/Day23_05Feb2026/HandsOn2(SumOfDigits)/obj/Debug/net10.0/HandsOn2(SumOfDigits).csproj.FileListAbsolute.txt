@@ -1,0 +1,15 @@
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day23_05Feb2026/HandsOn2(SumOfDigits)/bin/Debug/net10.0/HandsOn2(SumOfDigits)
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day23_05Feb2026/HandsOn2(SumOfDigits)/bin/Debug/net10.0/HandsOn2(SumOfDigits).deps.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day23_05Feb2026/HandsOn2(SumOfDigits)/bin/Debug/net10.0/HandsOn2(SumOfDigits).runtimeconfig.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day23_05Feb2026/HandsOn2(SumOfDigits)/bin/Debug/net10.0/HandsOn2(SumOfDigits).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day23_05Feb2026/HandsOn2(SumOfDigits)/bin/Debug/net10.0/HandsOn2(SumOfDigits).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day23_05Feb2026/HandsOn2(SumOfDigits)/obj/Debug/net10.0/HandsOn2(SumOfDigits).GeneratedMSBuildEditorConfig.editorconfig
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day23_05Feb2026/HandsOn2(SumOfDigits)/obj/Debug/net10.0/HandsOn2(SumOfDigits).AssemblyInfoInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day23_05Feb2026/HandsOn2(SumOfDigits)/obj/Debug/net10.0/HandsOn2(SumOfDigits).AssemblyInfo.cs
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day23_05Feb2026/HandsOn2(SumOfDigits)/obj/Debug/net10.0/HandsOn2(SumOfDigits).csproj.CoreCompileInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day23_05Feb2026/HandsOn2(SumOfDigits)/obj/Debug/net10.0/HandsOn2(SumOfDigits).sourcelink.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day23_05Feb2026/HandsOn2(SumOfDigits)/obj/Debug/net10.0/HandsOn2(SumOfDigits).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day23_05Feb2026/HandsOn2(SumOfDigits)/obj/Debug/net10.0/refint/HandsOn2(SumOfDigits).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day23_05Feb2026/HandsOn2(SumOfDigits)/obj/Debug/net10.0/HandsOn2(SumOfDigits).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day23_05Feb2026/HandsOn2(SumOfDigits)/obj/Debug/net10.0/HandsOn2(SumOfDigits).genruntimeconfig.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day23_05Feb2026/HandsOn2(SumOfDigits)/obj/Debug/net10.0/ref/HandsOn2(SumOfDigits).dll

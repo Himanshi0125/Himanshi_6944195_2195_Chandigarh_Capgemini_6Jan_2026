@@ -1,0 +1,15 @@
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day18_29Jan2026/HandsOn2(RomanToDecimal)/bin/Debug/net10.0/HandsOn2(RomanToDecimal)
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day18_29Jan2026/HandsOn2(RomanToDecimal)/bin/Debug/net10.0/HandsOn2(RomanToDecimal).deps.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day18_29Jan2026/HandsOn2(RomanToDecimal)/bin/Debug/net10.0/HandsOn2(RomanToDecimal).runtimeconfig.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day18_29Jan2026/HandsOn2(RomanToDecimal)/bin/Debug/net10.0/HandsOn2(RomanToDecimal).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day18_29Jan2026/HandsOn2(RomanToDecimal)/bin/Debug/net10.0/HandsOn2(RomanToDecimal).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day18_29Jan2026/HandsOn2(RomanToDecimal)/obj/Debug/net10.0/HandsOn2(RomanToDecimal).GeneratedMSBuildEditorConfig.editorconfig
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day18_29Jan2026/HandsOn2(RomanToDecimal)/obj/Debug/net10.0/HandsOn2(RomanToDecimal).AssemblyInfoInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day18_29Jan2026/HandsOn2(RomanToDecimal)/obj/Debug/net10.0/HandsOn2(RomanToDecimal).AssemblyInfo.cs
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day18_29Jan2026/HandsOn2(RomanToDecimal)/obj/Debug/net10.0/HandsOn2(RomanToDecimal).csproj.CoreCompileInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day18_29Jan2026/HandsOn2(RomanToDecimal)/obj/Debug/net10.0/HandsOn2(RomanToDecimal).sourcelink.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day18_29Jan2026/HandsOn2(RomanToDecimal)/obj/Debug/net10.0/HandsOn2(RomanToDecimal).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day18_29Jan2026/HandsOn2(RomanToDecimal)/obj/Debug/net10.0/refint/HandsOn2(RomanToDecimal).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day18_29Jan2026/HandsOn2(RomanToDecimal)/obj/Debug/net10.0/HandsOn2(RomanToDecimal).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day18_29Jan2026/HandsOn2(RomanToDecimal)/obj/Debug/net10.0/HandsOn2(RomanToDecimal).genruntimeconfig.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day18_29Jan2026/HandsOn2(RomanToDecimal)/obj/Debug/net10.0/ref/HandsOn2(RomanToDecimal).dll

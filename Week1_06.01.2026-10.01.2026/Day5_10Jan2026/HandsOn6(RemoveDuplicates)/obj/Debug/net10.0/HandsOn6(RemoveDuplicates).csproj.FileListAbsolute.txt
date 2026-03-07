@@ -1,0 +1,15 @@
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/HandsOn6(RemoveDuplicates)/bin/Debug/net10.0/HandsOn6(RemoveDuplicates)
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/HandsOn6(RemoveDuplicates)/bin/Debug/net10.0/HandsOn6(RemoveDuplicates).deps.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/HandsOn6(RemoveDuplicates)/bin/Debug/net10.0/HandsOn6(RemoveDuplicates).runtimeconfig.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/HandsOn6(RemoveDuplicates)/bin/Debug/net10.0/HandsOn6(RemoveDuplicates).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/HandsOn6(RemoveDuplicates)/bin/Debug/net10.0/HandsOn6(RemoveDuplicates).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/HandsOn6(RemoveDuplicates)/obj/Debug/net10.0/HandsOn6(RemoveDuplicates).GeneratedMSBuildEditorConfig.editorconfig
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/HandsOn6(RemoveDuplicates)/obj/Debug/net10.0/HandsOn6(RemoveDuplicates).AssemblyInfoInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/HandsOn6(RemoveDuplicates)/obj/Debug/net10.0/HandsOn6(RemoveDuplicates).AssemblyInfo.cs
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/HandsOn6(RemoveDuplicates)/obj/Debug/net10.0/HandsOn6(RemoveDuplicates).csproj.CoreCompileInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/HandsOn6(RemoveDuplicates)/obj/Debug/net10.0/HandsOn6(RemoveDuplicates).sourcelink.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/HandsOn6(RemoveDuplicates)/obj/Debug/net10.0/HandsOn6(RemoveDuplicates).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/HandsOn6(RemoveDuplicates)/obj/Debug/net10.0/refint/HandsOn6(RemoveDuplicates).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/HandsOn6(RemoveDuplicates)/obj/Debug/net10.0/HandsOn6(RemoveDuplicates).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/HandsOn6(RemoveDuplicates)/obj/Debug/net10.0/HandsOn6(RemoveDuplicates).genruntimeconfig.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/HandsOn6(RemoveDuplicates)/obj/Debug/net10.0/ref/HandsOn6(RemoveDuplicates).dll

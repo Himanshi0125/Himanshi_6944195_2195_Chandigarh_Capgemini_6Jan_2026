@@ -1,0 +1,15 @@
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week9_02.02.2026-06.03.2026/Day41_03Mar2026/HandsOn1(MovieLibrary)/bin/Debug/net10.0/HandsOn1(MovieLibrary)
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week9_02.02.2026-06.03.2026/Day41_03Mar2026/HandsOn1(MovieLibrary)/bin/Debug/net10.0/HandsOn1(MovieLibrary).deps.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week9_02.02.2026-06.03.2026/Day41_03Mar2026/HandsOn1(MovieLibrary)/bin/Debug/net10.0/HandsOn1(MovieLibrary).runtimeconfig.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week9_02.02.2026-06.03.2026/Day41_03Mar2026/HandsOn1(MovieLibrary)/bin/Debug/net10.0/HandsOn1(MovieLibrary).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week9_02.02.2026-06.03.2026/Day41_03Mar2026/HandsOn1(MovieLibrary)/bin/Debug/net10.0/HandsOn1(MovieLibrary).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week9_02.02.2026-06.03.2026/Day41_03Mar2026/HandsOn1(MovieLibrary)/obj/Debug/net10.0/HandsOn1(MovieLibrary).GeneratedMSBuildEditorConfig.editorconfig
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week9_02.02.2026-06.03.2026/Day41_03Mar2026/HandsOn1(MovieLibrary)/obj/Debug/net10.0/HandsOn1(MovieLibrary).AssemblyInfoInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week9_02.02.2026-06.03.2026/Day41_03Mar2026/HandsOn1(MovieLibrary)/obj/Debug/net10.0/HandsOn1(MovieLibrary).AssemblyInfo.cs
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week9_02.02.2026-06.03.2026/Day41_03Mar2026/HandsOn1(MovieLibrary)/obj/Debug/net10.0/HandsOn1(MovieLibrary).csproj.CoreCompileInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week9_02.02.2026-06.03.2026/Day41_03Mar2026/HandsOn1(MovieLibrary)/obj/Debug/net10.0/HandsOn1(MovieLibrary).sourcelink.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week9_02.02.2026-06.03.2026/Day41_03Mar2026/HandsOn1(MovieLibrary)/obj/Debug/net10.0/HandsOn1(MovieLibrary).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week9_02.02.2026-06.03.2026/Day41_03Mar2026/HandsOn1(MovieLibrary)/obj/Debug/net10.0/refint/HandsOn1(MovieLibrary).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week9_02.02.2026-06.03.2026/Day41_03Mar2026/HandsOn1(MovieLibrary)/obj/Debug/net10.0/HandsOn1(MovieLibrary).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week9_02.02.2026-06.03.2026/Day41_03Mar2026/HandsOn1(MovieLibrary)/obj/Debug/net10.0/HandsOn1(MovieLibrary).genruntimeconfig.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week9_02.02.2026-06.03.2026/Day41_03Mar2026/HandsOn1(MovieLibrary)/obj/Debug/net10.0/ref/HandsOn1(MovieLibrary).dll

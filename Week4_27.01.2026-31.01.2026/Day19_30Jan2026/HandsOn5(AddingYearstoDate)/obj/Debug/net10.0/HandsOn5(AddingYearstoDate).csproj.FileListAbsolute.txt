@@ -1,0 +1,15 @@
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day19_30Jan2026/HandsOn5(AddingYearstoDate)/bin/Debug/net10.0/HandsOn5(AddingYearstoDate)
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day19_30Jan2026/HandsOn5(AddingYearstoDate)/bin/Debug/net10.0/HandsOn5(AddingYearstoDate).deps.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day19_30Jan2026/HandsOn5(AddingYearstoDate)/bin/Debug/net10.0/HandsOn5(AddingYearstoDate).runtimeconfig.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day19_30Jan2026/HandsOn5(AddingYearstoDate)/bin/Debug/net10.0/HandsOn5(AddingYearstoDate).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day19_30Jan2026/HandsOn5(AddingYearstoDate)/bin/Debug/net10.0/HandsOn5(AddingYearstoDate).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day19_30Jan2026/HandsOn5(AddingYearstoDate)/obj/Debug/net10.0/HandsOn5(AddingYearstoDate).GeneratedMSBuildEditorConfig.editorconfig
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day19_30Jan2026/HandsOn5(AddingYearstoDate)/obj/Debug/net10.0/HandsOn5(AddingYearstoDate).AssemblyInfoInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day19_30Jan2026/HandsOn5(AddingYearstoDate)/obj/Debug/net10.0/HandsOn5(AddingYearstoDate).AssemblyInfo.cs
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day19_30Jan2026/HandsOn5(AddingYearstoDate)/obj/Debug/net10.0/HandsOn5(AddingYearstoDate).csproj.CoreCompileInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day19_30Jan2026/HandsOn5(AddingYearstoDate)/obj/Debug/net10.0/HandsOn5(AddingYearstoDate).sourcelink.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day19_30Jan2026/HandsOn5(AddingYearstoDate)/obj/Debug/net10.0/HandsOn5(AddingYearstoDate).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day19_30Jan2026/HandsOn5(AddingYearstoDate)/obj/Debug/net10.0/refint/HandsOn5(AddingYearstoDate).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day19_30Jan2026/HandsOn5(AddingYearstoDate)/obj/Debug/net10.0/HandsOn5(AddingYearstoDate).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day19_30Jan2026/HandsOn5(AddingYearstoDate)/obj/Debug/net10.0/HandsOn5(AddingYearstoDate).genruntimeconfig.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week4_27.01.2026-31.01.2026/Day19_30Jan2026/HandsOn5(AddingYearstoDate)/obj/Debug/net10.0/ref/HandsOn5(AddingYearstoDate).dll

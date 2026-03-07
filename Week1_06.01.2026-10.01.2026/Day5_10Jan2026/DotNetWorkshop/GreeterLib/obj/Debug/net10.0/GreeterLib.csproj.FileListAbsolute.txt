@@ -1,0 +1,12 @@
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/DotNetWorkshop/GreeterLib/bin/Debug/net10.0/GreeterLib.deps.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/DotNetWorkshop/GreeterLib/bin/Debug/net10.0/GreeterLib.dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/DotNetWorkshop/GreeterLib/bin/Debug/net10.0/GreeterLib.pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/DotNetWorkshop/GreeterLib/obj/Debug/net10.0/GreeterLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/DotNetWorkshop/GreeterLib/obj/Debug/net10.0/GreeterLib.AssemblyInfoInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/DotNetWorkshop/GreeterLib/obj/Debug/net10.0/GreeterLib.AssemblyInfo.cs
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/DotNetWorkshop/GreeterLib/obj/Debug/net10.0/GreeterLib.csproj.CoreCompileInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/DotNetWorkshop/GreeterLib/obj/Debug/net10.0/GreeterLib.sourcelink.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/DotNetWorkshop/GreeterLib/obj/Debug/net10.0/GreeterLib.dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/DotNetWorkshop/GreeterLib/obj/Debug/net10.0/refint/GreeterLib.dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/DotNetWorkshop/GreeterLib/obj/Debug/net10.0/GreeterLib.pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week1_06.01.2026-10.01.2026/Day5_10Jan2026/DotNetWorkshop/GreeterLib/obj/Debug/net10.0/ref/GreeterLib.dll

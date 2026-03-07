@@ -1,0 +1,5 @@
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week7_16.02.2026-20.02.2026/Day33_19Feb2026/M1_7/obj/Debug/net10.0/M1_7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week7_16.02.2026-20.02.2026/Day33_19Feb2026/M1_7/obj/Debug/net10.0/M1_7.AssemblyInfoInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week7_16.02.2026-20.02.2026/Day33_19Feb2026/M1_7/obj/Debug/net10.0/M1_7.AssemblyInfo.cs
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week7_16.02.2026-20.02.2026/Day33_19Feb2026/M1_7/obj/Debug/net10.0/M1_7.csproj.CoreCompileInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week7_16.02.2026-20.02.2026/Day33_19Feb2026/M1_7/obj/Debug/net10.0/M1_7.sourcelink.json

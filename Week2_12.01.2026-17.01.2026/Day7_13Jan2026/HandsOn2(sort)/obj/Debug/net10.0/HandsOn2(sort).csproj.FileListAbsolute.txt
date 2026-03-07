@@ -1,0 +1,15 @@
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day2_13Jan2026/HandsOn2(sort)/bin/Debug/net10.0/HandsOn2(sort)
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day2_13Jan2026/HandsOn2(sort)/bin/Debug/net10.0/HandsOn2(sort).deps.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day2_13Jan2026/HandsOn2(sort)/bin/Debug/net10.0/HandsOn2(sort).runtimeconfig.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day2_13Jan2026/HandsOn2(sort)/bin/Debug/net10.0/HandsOn2(sort).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day2_13Jan2026/HandsOn2(sort)/bin/Debug/net10.0/HandsOn2(sort).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day2_13Jan2026/HandsOn2(sort)/obj/Debug/net10.0/HandsOn2(sort).GeneratedMSBuildEditorConfig.editorconfig
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day2_13Jan2026/HandsOn2(sort)/obj/Debug/net10.0/HandsOn2(sort).AssemblyInfoInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day2_13Jan2026/HandsOn2(sort)/obj/Debug/net10.0/HandsOn2(sort).AssemblyInfo.cs
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day2_13Jan2026/HandsOn2(sort)/obj/Debug/net10.0/HandsOn2(sort).csproj.CoreCompileInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day2_13Jan2026/HandsOn2(sort)/obj/Debug/net10.0/HandsOn2(sort).sourcelink.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day2_13Jan2026/HandsOn2(sort)/obj/Debug/net10.0/HandsOn2(sort).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day2_13Jan2026/HandsOn2(sort)/obj/Debug/net10.0/refint/HandsOn2(sort).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day2_13Jan2026/HandsOn2(sort)/obj/Debug/net10.0/HandsOn2(sort).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day2_13Jan2026/HandsOn2(sort)/obj/Debug/net10.0/HandsOn2(sort).genruntimeconfig.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day2_13Jan2026/HandsOn2(sort)/obj/Debug/net10.0/ref/HandsOn2(sort).dll

@@ -1,0 +1,68 @@
+Summary of Actions for LMS Database Setup and Query Execution
+===============================================================
+
+This document summarizes the steps taken to set up the Library Management System (LMS) database in a Docker SQL Server container and execute the provided DDL, DML, and query files. All original files were in Oracle SQL syntax, which was converted to SQL Server compatible syntax where necessary.
+
+1. LMS_DDL.sql (Original Oracle DDL File)
+   - This file contained CREATE TABLE statements for 5 LMS tables: LMS_MEMBERS, LMS_SUPPLIERS_DETAILS, LMS_FINE_DETAILS, LMS_BOOK_DETAILS, LMS_BOOK_ISSUE.
+   - Oracle-specific syntax: Varchar2, Number types, Date, Constraints.
+   - Action: Converted to SQL Server syntax (VARCHAR, INT/DECIMAL, DATETIME, CONSTRAINT) and created LMS_DDL_SQLServer.sql.
+   - Executed in SQL Server container to create tables with primary and foreign keys.
+
+2. LMS_DML.sql (Original Oracle DML File)
+   - This file contained INSERT statements for sample data into all 5 LMS tables, plus some unrelated queries at the end.
+   - Oracle-specific syntax: to_date() functions for dates.
+   - Action: Converted dates to 'YYYY-MM-DD' format and created LMS_DML_SQLServer.sql.
+   - Due to data type issues (CONTACT as BIGINT), altered table schema and inserted data in parts using separate files (suppliers.sql, books.sql, issues.sql).
+   - Successfully populated database with 6 members, 6 suppliers, 6 fine ranges, 8 books, and 5 book issues.
+
+3. LMS_DDL_SQLServer.sql (Converted DDL File)
+   - Created from LMS_DDL.sql with syntax conversions.
+   - Changes: Varchar2 -> VARCHAR, Number(10) -> INT, Number(10,2) -> DECIMAL(10,2), Number(2) -> INT, Date -> DATETIME, Constraints -> CONSTRAINT.
+   - Executed successfully to create all tables.
+
+4. LMS_DML_SQLServer.sql (Converted DML File)
+   - Created from LMS_DML.sql with date conversions (e.g., to_date('12-02-2012','dd-mm-yyyy') -> '2012-02-12').
+   - Initial execution failed due to CONTACT overflow (values too large for INT).
+   - Fixed by altering CONTACT column to BIGINT, then inserted data.
+
+5. suppliers.sql (Partial DML for Suppliers)
+   - Extracted INSERT statements for LMS_SUPPLIERS_DETAILS from LMS_DML_SQLServer.sql.
+   - Used after altering CONTACT to BIGINT.
+   - Successfully inserted 6 supplier records.
+
+6. books.sql (Partial DML for Books)
+   - Extracted INSERT statements for LMS_BOOK_DETAILS from LMS_DML_SQLServer.sql.
+   - Successfully inserted 8 book records.
+
+7. issues.sql (Partial DML for Book Issues)
+   - Extracted INSERT statements for LMS_BOOK_ISSUE from LMS_DML_SQLServer.sql.
+   - Successfully inserted 5 book issue records.
+
+8. Oracle_QB_Library_Mgmt_Practise_Lab_Questions.txt (Query Problems File)
+   - Contained 33 SQL query problems (16 Simple, 14 Average, 3 Complex) for the LMS database.
+   - Oracle syntax with functions like NVL2, date formats.
+   - Action: Converted all queries to SQL Server syntax (IIF instead of NVL2, 'YYYY-MM-DD' dates, TOP instead of ROWNUM, etc.).
+   - Created LMS_Queries_SQLServer.sql with all solutions.
+
+9. LMS_Queries_SQLServer.sql (Converted Queries File)
+   - Contains 33 SQL Server compatible queries solving all problems from the questions file.
+   - Fixed a syntax error in Problem #9 (Average) by using CTE instead of subquery in HAVING.
+   - Executed successfully, producing results for all queries.
+
+10. steps.txt (Docker SQL Server Setup Instructions)
+    - Provided instructions for running SQL Server in Docker and executing SQL files.
+    - Used this to set up the container (already running) and execute files via docker cp and docker exec with sqlcmd.
+
+Overall Process:
+- Verified Docker and SQL Server container status.
+- Converted Oracle SQL files to SQL Server syntax.
+- Created and executed DDL to set up schema.
+- Inserted sample data, fixing data type issues.
+- Solved and executed all 33 query problems.
+- All operations performed in the SQL Server 2022 container using sqlcmd.
+
+Database Status:
+- Tables: LMS_MEMBERS (6 rows), LMS_SUPPLIERS_DETAILS (6 rows), LMS_FINE_DETAILS (6 rows), LMS_BOOK_DETAILS (8 rows), LMS_BOOK_ISSUE (5 rows)
+- All constraints (primary and foreign keys) enforced.
+- Ready for further queries or application development.

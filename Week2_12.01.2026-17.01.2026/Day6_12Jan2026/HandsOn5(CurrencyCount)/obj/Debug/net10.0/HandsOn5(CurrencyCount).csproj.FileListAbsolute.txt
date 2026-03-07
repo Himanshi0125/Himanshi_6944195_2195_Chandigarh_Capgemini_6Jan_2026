@@ -1,0 +1,15 @@
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day6_12Jan2026/HandsOn5(CurrencyCount)/bin/Debug/net10.0/HandsOn5(CurrencyCount)
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day6_12Jan2026/HandsOn5(CurrencyCount)/bin/Debug/net10.0/HandsOn5(CurrencyCount).deps.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day6_12Jan2026/HandsOn5(CurrencyCount)/bin/Debug/net10.0/HandsOn5(CurrencyCount).runtimeconfig.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day6_12Jan2026/HandsOn5(CurrencyCount)/bin/Debug/net10.0/HandsOn5(CurrencyCount).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day6_12Jan2026/HandsOn5(CurrencyCount)/bin/Debug/net10.0/HandsOn5(CurrencyCount).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day6_12Jan2026/HandsOn5(CurrencyCount)/obj/Debug/net10.0/HandsOn5(CurrencyCount).GeneratedMSBuildEditorConfig.editorconfig
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day6_12Jan2026/HandsOn5(CurrencyCount)/obj/Debug/net10.0/HandsOn5(CurrencyCount).AssemblyInfoInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day6_12Jan2026/HandsOn5(CurrencyCount)/obj/Debug/net10.0/HandsOn5(CurrencyCount).AssemblyInfo.cs
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day6_12Jan2026/HandsOn5(CurrencyCount)/obj/Debug/net10.0/HandsOn5(CurrencyCount).csproj.CoreCompileInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day6_12Jan2026/HandsOn5(CurrencyCount)/obj/Debug/net10.0/HandsOn5(CurrencyCount).sourcelink.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day6_12Jan2026/HandsOn5(CurrencyCount)/obj/Debug/net10.0/HandsOn5(CurrencyCount).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day6_12Jan2026/HandsOn5(CurrencyCount)/obj/Debug/net10.0/refint/HandsOn5(CurrencyCount).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day6_12Jan2026/HandsOn5(CurrencyCount)/obj/Debug/net10.0/HandsOn5(CurrencyCount).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day6_12Jan2026/HandsOn5(CurrencyCount)/obj/Debug/net10.0/HandsOn5(CurrencyCount).genruntimeconfig.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day6_12Jan2026/HandsOn5(CurrencyCount)/obj/Debug/net10.0/ref/HandsOn5(CurrencyCount).dll

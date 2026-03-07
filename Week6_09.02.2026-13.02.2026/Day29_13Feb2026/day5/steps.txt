@@ -1,0 +1,26 @@
+Steps to Implement and Run SQL Queries in Docker SQL Server:
+
+1. Ensure Docker Desktop is installed and running on your Mac.
+
+2. Verify the SQL Server container is running:
+   - Run: docker ps
+   - Look for container named 'sqlserver' with image mcr.microsoft.com/mssql/server:2022-latest.
+
+3. If not running, start it (replace 'YourPassword' with a strong password):
+   - docker run -e "ACCEPT_EULA=Y" -e "SA_PASSWORD=YourPassword" -p 1433:1433 --name sqlserver -d mcr.microsoft.com/mssql/server:2022-latest
+
+4. Create the implementation.sql file with:
+   - Database creation
+   - Table creation (SALESPEOPLE, CUST, ORDERS)
+   - Data insertion
+   - The 12 SELECT queries
+
+5. Copy the SQL file to the container:
+   - docker cp implementation.sql sqlserver:/tmp/
+
+6. Execute the SQL script:
+   - docker exec sqlserver /opt/mssql-tools18/bin/sqlcmd -S localhost -U SA -P YourPassword -C -i /tmp/implementation.sql
+
+7. Review the output for query results.
+
+Note: The SA password was retrieved as 'StrongPassword@123' from the container's environment variables.

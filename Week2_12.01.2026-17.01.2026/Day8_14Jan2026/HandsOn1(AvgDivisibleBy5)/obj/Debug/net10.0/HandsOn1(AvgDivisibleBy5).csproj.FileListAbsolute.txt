@@ -1,0 +1,15 @@
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day3_14Jan2026/HandsOn1(AvgDivisibleBy5)/bin/Debug/net10.0/HandsOn1(AvgDivisibleBy5)
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day3_14Jan2026/HandsOn1(AvgDivisibleBy5)/bin/Debug/net10.0/HandsOn1(AvgDivisibleBy5).deps.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day3_14Jan2026/HandsOn1(AvgDivisibleBy5)/bin/Debug/net10.0/HandsOn1(AvgDivisibleBy5).runtimeconfig.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day3_14Jan2026/HandsOn1(AvgDivisibleBy5)/bin/Debug/net10.0/HandsOn1(AvgDivisibleBy5).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day3_14Jan2026/HandsOn1(AvgDivisibleBy5)/bin/Debug/net10.0/HandsOn1(AvgDivisibleBy5).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day3_14Jan2026/HandsOn1(AvgDivisibleBy5)/obj/Debug/net10.0/HandsOn1(AvgDivisibleBy5).GeneratedMSBuildEditorConfig.editorconfig
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day3_14Jan2026/HandsOn1(AvgDivisibleBy5)/obj/Debug/net10.0/HandsOn1(AvgDivisibleBy5).AssemblyInfoInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day3_14Jan2026/HandsOn1(AvgDivisibleBy5)/obj/Debug/net10.0/HandsOn1(AvgDivisibleBy5).AssemblyInfo.cs
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day3_14Jan2026/HandsOn1(AvgDivisibleBy5)/obj/Debug/net10.0/HandsOn1(AvgDivisibleBy5).csproj.CoreCompileInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day3_14Jan2026/HandsOn1(AvgDivisibleBy5)/obj/Debug/net10.0/HandsOn1(AvgDivisibleBy5).sourcelink.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day3_14Jan2026/HandsOn1(AvgDivisibleBy5)/obj/Debug/net10.0/HandsOn1(AvgDivisibleBy5).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day3_14Jan2026/HandsOn1(AvgDivisibleBy5)/obj/Debug/net10.0/refint/HandsOn1(AvgDivisibleBy5).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day3_14Jan2026/HandsOn1(AvgDivisibleBy5)/obj/Debug/net10.0/HandsOn1(AvgDivisibleBy5).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day3_14Jan2026/HandsOn1(AvgDivisibleBy5)/obj/Debug/net10.0/HandsOn1(AvgDivisibleBy5).genruntimeconfig.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day3_14Jan2026/HandsOn1(AvgDivisibleBy5)/obj/Debug/net10.0/ref/HandsOn1(AvgDivisibleBy5).dll

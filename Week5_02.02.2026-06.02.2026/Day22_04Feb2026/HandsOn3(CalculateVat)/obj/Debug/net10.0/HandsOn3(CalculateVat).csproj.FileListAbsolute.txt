@@ -1,0 +1,15 @@
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day22_04Feb2026/HandsOn3(CalculateVat)/bin/Debug/net10.0/HandsOn3(CalculateVat)
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day22_04Feb2026/HandsOn3(CalculateVat)/bin/Debug/net10.0/HandsOn3(CalculateVat).deps.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day22_04Feb2026/HandsOn3(CalculateVat)/bin/Debug/net10.0/HandsOn3(CalculateVat).runtimeconfig.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day22_04Feb2026/HandsOn3(CalculateVat)/bin/Debug/net10.0/HandsOn3(CalculateVat).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day22_04Feb2026/HandsOn3(CalculateVat)/bin/Debug/net10.0/HandsOn3(CalculateVat).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day22_04Feb2026/HandsOn3(CalculateVat)/obj/Debug/net10.0/HandsOn3(CalculateVat).GeneratedMSBuildEditorConfig.editorconfig
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day22_04Feb2026/HandsOn3(CalculateVat)/obj/Debug/net10.0/HandsOn3(CalculateVat).AssemblyInfoInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day22_04Feb2026/HandsOn3(CalculateVat)/obj/Debug/net10.0/HandsOn3(CalculateVat).AssemblyInfo.cs
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day22_04Feb2026/HandsOn3(CalculateVat)/obj/Debug/net10.0/HandsOn3(CalculateVat).csproj.CoreCompileInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day22_04Feb2026/HandsOn3(CalculateVat)/obj/Debug/net10.0/HandsOn3(CalculateVat).sourcelink.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day22_04Feb2026/HandsOn3(CalculateVat)/obj/Debug/net10.0/HandsOn3(CalculateVat).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day22_04Feb2026/HandsOn3(CalculateVat)/obj/Debug/net10.0/refint/HandsOn3(CalculateVat).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day22_04Feb2026/HandsOn3(CalculateVat)/obj/Debug/net10.0/HandsOn3(CalculateVat).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day22_04Feb2026/HandsOn3(CalculateVat)/obj/Debug/net10.0/HandsOn3(CalculateVat).genruntimeconfig.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week5_02.02.2026-06.02.2026/Day22_04Feb2026/HandsOn3(CalculateVat)/obj/Debug/net10.0/ref/HandsOn3(CalculateVat).dll

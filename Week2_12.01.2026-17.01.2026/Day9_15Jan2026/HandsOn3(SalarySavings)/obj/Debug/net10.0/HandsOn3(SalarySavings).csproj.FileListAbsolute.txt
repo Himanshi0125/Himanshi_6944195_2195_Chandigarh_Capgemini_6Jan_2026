@@ -1,0 +1,15 @@
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day9_15Jan2026/HandsOn3(SalarySavings)/bin/Debug/net10.0/HandsOn3(SalarySavings)
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day9_15Jan2026/HandsOn3(SalarySavings)/bin/Debug/net10.0/HandsOn3(SalarySavings).deps.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day9_15Jan2026/HandsOn3(SalarySavings)/bin/Debug/net10.0/HandsOn3(SalarySavings).runtimeconfig.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day9_15Jan2026/HandsOn3(SalarySavings)/bin/Debug/net10.0/HandsOn3(SalarySavings).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day9_15Jan2026/HandsOn3(SalarySavings)/bin/Debug/net10.0/HandsOn3(SalarySavings).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day9_15Jan2026/HandsOn3(SalarySavings)/obj/Debug/net10.0/HandsOn3(SalarySavings).GeneratedMSBuildEditorConfig.editorconfig
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day9_15Jan2026/HandsOn3(SalarySavings)/obj/Debug/net10.0/HandsOn3(SalarySavings).AssemblyInfoInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day9_15Jan2026/HandsOn3(SalarySavings)/obj/Debug/net10.0/HandsOn3(SalarySavings).AssemblyInfo.cs
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day9_15Jan2026/HandsOn3(SalarySavings)/obj/Debug/net10.0/HandsOn3(SalarySavings).csproj.CoreCompileInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day9_15Jan2026/HandsOn3(SalarySavings)/obj/Debug/net10.0/HandsOn3(SalarySavings).sourcelink.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day9_15Jan2026/HandsOn3(SalarySavings)/obj/Debug/net10.0/HandsOn3(SalarySavings).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day9_15Jan2026/HandsOn3(SalarySavings)/obj/Debug/net10.0/refint/HandsOn3(SalarySavings).dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day9_15Jan2026/HandsOn3(SalarySavings)/obj/Debug/net10.0/HandsOn3(SalarySavings).pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day9_15Jan2026/HandsOn3(SalarySavings)/obj/Debug/net10.0/HandsOn3(SalarySavings).genruntimeconfig.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week2_12.01.2026-17.01.2026/Day9_15Jan2026/HandsOn3(SalarySavings)/obj/Debug/net10.0/ref/HandsOn3(SalarySavings).dll
