@@ -1,0 +1,40 @@
+@model List<EmployeeProjectManagement.Models.Project>
+
+<h2 class="mb-4">Project Dashboard</h2>
+
+<div class="row">
+
+@foreach (var project in Model)
+{
+
+<div class="col-md-4 mb-4">
+
+<div class="card shadow-sm h-100">
+
+<div class="card-body">
+
+<h4 class="card-title">@project.Title</h4>
+
+<p><strong>Employees:</strong></p>
+
+<ul>
+
+@foreach (var ep in project.EmployeeProjects)
+{
+
+<li>
+@ep.Employee.Name
+( @ep.Employee.Department.DepartmentName )
+</li>
+}
+
+</ul>
+
+</div>
+
+</div>
+
+</div>
+}
+
+</div>

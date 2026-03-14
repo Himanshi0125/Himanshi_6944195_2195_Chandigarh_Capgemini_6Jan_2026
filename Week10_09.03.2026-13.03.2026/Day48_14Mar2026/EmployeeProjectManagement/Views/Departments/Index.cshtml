@@ -1,0 +1,42 @@
+@model List<EmployeeProjectManagement.Models.Department>
+
+<h2>Departments</h2>
+
+<a asp-action="Create" class="btn btn-primary mb-3">Add Department</a>
+
+<table class="table table-bordered">
+
+<tr>
+<th>ID</th>
+<th>Name</th>
+<th>Tech Required</th>
+<th>Actions</th>
+</tr>
+
+@foreach(var d in Model)
+{
+
+<tr>
+
+<td>@d.DepartmentId</td>
+<td>@d.DepartmentName</td>
+<td>@d.TechRequired</td>
+
+<td>
+
+<a asp-action="Edit"
+asp-route-id="@d.DepartmentId"
+class="btn btn-warning btn-sm">
+Edit </a>
+
+<a asp-action="Delete"
+asp-route-id="@d.DepartmentId"
+class="btn btn-danger btn-sm">
+Delete </a>
+
+</td>
+
+</tr>
+}
+
+</table>

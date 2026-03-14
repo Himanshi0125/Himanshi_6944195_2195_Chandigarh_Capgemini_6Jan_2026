@@ -1,0 +1,27 @@
+@model IEnumerable<EmployeeModel>
+
+<h2>Employees</h2>
+<a href="/EmployeeModels/Create">Create New Employee</a>
+<br><br>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Job</th>
+            <th>Salary</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.EmployeeModelId</td>
+                <td>@item.EName</td>
+                <td>@item.Job</td>
+                <td>@item.Salary</td>
+            </tr>
+        }
+    </tbody>
+</table>

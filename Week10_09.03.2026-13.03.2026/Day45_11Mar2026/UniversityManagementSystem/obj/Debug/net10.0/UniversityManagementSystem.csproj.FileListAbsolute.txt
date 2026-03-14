@@ -1,0 +1,10 @@
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week10_09.03.2026-13.03.2026/Day45_11Mar2026/UniversityManagementSystem/obj/Debug/net10.0/UniversityManagementSystem.csproj.AssemblyReference.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week10_09.03.2026-13.03.2026/Day45_11Mar2026/UniversityManagementSystem/obj/Debug/net10.0/rpswa.dswa.cache.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week10_09.03.2026-13.03.2026/Day45_11Mar2026/UniversityManagementSystem/obj/Debug/net10.0/UniversityManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week10_09.03.2026-13.03.2026/Day45_11Mar2026/UniversityManagementSystem/obj/Debug/net10.0/UniversityManagementSystem.AssemblyInfoInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week10_09.03.2026-13.03.2026/Day45_11Mar2026/UniversityManagementSystem/obj/Debug/net10.0/UniversityManagementSystem.AssemblyInfo.cs
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week10_09.03.2026-13.03.2026/Day45_11Mar2026/UniversityManagementSystem/obj/Debug/net10.0/UniversityManagementSystem.csproj.CoreCompileInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week10_09.03.2026-13.03.2026/Day45_11Mar2026/UniversityManagementSystem/obj/Debug/net10.0/UniversityManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week10_09.03.2026-13.03.2026/Day45_11Mar2026/UniversityManagementSystem/obj/Debug/net10.0/UniversityManagementSystem.RazorAssemblyInfo.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week10_09.03.2026-13.03.2026/Day45_11Mar2026/UniversityManagementSystem/obj/Debug/net10.0/UniversityManagementSystem.RazorAssemblyInfo.cs
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week10_09.03.2026-13.03.2026/Day45_11Mar2026/UniversityManagementSystem/obj/Debug/net10.0/UniversityManagementSystem.sourcelink.json

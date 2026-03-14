@@ -1,0 +1,33 @@
+using System.Diagnostics;
+using StudentPortal.Models;
+using StudentPortal.Services;
+
+namespace StudentPortal.Middleware
+{
+    public class RequestTrackingMiddleware
+    {
+        private readonly RequestDelegate _next;
+
+        public RequestTrackingMiddleware(RequestDelegate next)
+        {
+            _next = next;
+        }
+
+        public async Task Invoke(HttpContext context, IRequestLogService logService)
+        {
+            var stopwatch = Stopwatch.StartNew();
+
+            await _next(context);
+
+            stopwatch.Stop();
+
+            var log = new RequestLog
+            {
+                Url = context.Request.Path,
+                ExecutionTime = stopwatch.ElapsedMilliseconds
+            };
+
+            logService.AddLog(log);
+        }
+    }
+}

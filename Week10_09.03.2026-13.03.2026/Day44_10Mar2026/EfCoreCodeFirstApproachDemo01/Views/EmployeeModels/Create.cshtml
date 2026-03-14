@@ -1,0 +1,30 @@
+@model EmployeeModel
+
+<h2>Create Employee</h2>
+
+<form asp-action="Create">
+
+    <div>
+        <label>Name</label>
+        <input asp-for="EName" />
+    </div>
+
+    <div>
+        <label>Job</label>
+        <input asp-for="Job" />
+    </div>
+
+    <div>
+        <label>Salary</label>
+        <input asp-for="Salary" />
+    </div>
+
+    <br>
+
+    <button type="submit">Create</button>
+
+</form>
+
+<br>
+
+<a href="/EmployeeModels">Back to List</a>

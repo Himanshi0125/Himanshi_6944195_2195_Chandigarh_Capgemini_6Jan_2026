@@ -1,0 +1,15 @@
+using System.Collections.Generic;
+
+namespace EmployeeProjectManagement.Models
+{
+    public class Department
+    {
+        public int DepartmentId { get; set; }
+
+        public string DepartmentName { get; set; }
+
+        public string TechRequired { get; set; }
+
+        public ICollection<Employee> Employees { get; set; }
+    }
+}
