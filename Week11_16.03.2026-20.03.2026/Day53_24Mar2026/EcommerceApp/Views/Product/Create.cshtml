@@ -1,0 +1,26 @@
+@model Product
+
+<div class="container mt-4">
+    <h2>Add Product</h2>
+
+    <form asp-controller="Product" asp-action="Create" method="post">
+        @Html.AntiForgeryToken()
+
+        <div class="text-danger" asp-validation-summary="All"></div>
+
+        <input asp-for="Name" class="form-control mb-2" placeholder="Name" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+
+        <input asp-for="Price" class="form-control mb-2" placeholder="Price" />
+        <span asp-validation-for="Price" class="text-danger"></span>
+
+        <select asp-for="CategoryId" class="form-control mb-3">
+            @foreach (var c in ViewBag.Categories)
+            {
+                <option value="@c.Id">@c.Name</option>
+            }
+        </select>
+
+        <button type="submit" class="btn btn-success">Save</button>
+    </form>
+</div>

@@ -1,0 +1,32 @@
+@model StudentManagementSystemApp.Models.Student
+
+<div class="container mt-5">
+
+@if(TempData["Success"] != null)
+{
+<div class="alert alert-success">@TempData["Success"]</div>
+}
+
+<div class="card p-4 col-md-4">
+<h4>Student Details</h4>
+
+<p><b>ID:</b> @Model.Id</p>
+<p><b>Name:</b> @Model.Name</p>
+<p><b>Age:</b> @Model.Age</p>
+<p><b>Email:</b> @Model.Email</p>
+
+<div class="mt-3">
+
+    <a asp-action="Register" class="btn btn-primary">
+    Register Another Student
+    </a>
+
+    <a asp-action="Index" class="btn btn-secondary ms-2">
+    View All Students
+    </a>
+
+</div>
+
+</div>
+
+</div>

@@ -1,0 +1,38 @@
+@model List<LibraryMVC.ViewModels.BookViewModel>
+
+<h2 class="mb-3">Book List</h2>
+
+<div class="alert alert-info">
+    <strong>@ViewBag.Message</strong><br />
+    Total Books: <b>@ViewData["TotalBooks"]</b>
+</div>
+
+<table class="table table-bordered table-striped">
+    <thead class="table-dark">
+        <tr>
+            <th>Title</th>
+            <th>Author</th>
+            <th>Year</th>
+            <th>Genre</th>
+            <th>Status</th>
+            <th>Borrower</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Book.Title</td>
+                <td>@item.Book.Author</td>
+                <td>@item.Book.PublishedYear</td>
+                <td>@item.Book.Genre</td>
+                <td>
+                    @(item.IsAvailable ? "✅ Available" : "❌ Borrowed")
+                </td>
+                <td>
+                    @(item.BorrowerName ?? "—")
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,152 @@
+@page
+@model IndexModel
+
+<script>
+if(!localStorage.getItem("token")){
+    window.location.href = "/Login";
+}
+</script>
+
+<div class="container">
+
+    <!-- 🔷 HEADER -->
+    <div class="mb-4">
+        <h2 class="fw-bold">🎉 Upcoming Events</h2>
+        <p class="text-muted">Explore and book your favorite events</p>
+    </div>
+
+    <!-- 🔷 EVENTS -->
+    <div class="row" id="eventsList"></div>
+
+    <hr class="my-4"/>
+
+    <!-- 🔷 BOOKINGS -->
+    <h4 class="fw-bold mb-3">📄 Your Bookings</h4>
+    <div id="bookingList"></div>
+
+</div>
+
+<script>
+@* let token = localStorage.getItem("token"); *@
+function getToken(){
+    return localStorage.getItem("token");
+}
+
+function loadEvents() {
+    fetch("http://localhost:5003/api/events")
+    .then(res => res.json())
+    .then(data => {
+        let html = "";
+
+        data.forEach(e => {
+            html += `
+            <div class="col-md-4">
+                <div class="card shadow-sm border-0 mb-4">
+                    <div class="card-body">
+                        <h5 class="fw-bold">${e.title}</h5>
+                        <p class="text-muted mb-1">📍 ${e.location}</p>
+                        <p class="text-muted mb-1">📅 ${new Date(e.date).toLocaleDateString()}</p>
+                        <p class="text-muted">🎟 Seats: ${e.availableSeats}</p>
+
+                        <button class="btn btn-dark w-100" onclick="book(${e.id})">
+                            Book Now
+                        </button>
+                    </div>
+                </div>
+            </div>`;
+        });
+
+        document.getElementById("eventsList").innerHTML = html;
+    })
+    .catch(err => {
+        console.error("Events error:", err);
+    });
+}
+
+function book(eventId){
+    let name = prompt("Enter your name:");
+    let seats = prompt("Enter number of seats:");
+
+    fetch("http://localhost:5003/api/bookings", {
+        method: "POST",
+        headers: {
+            "Content-Type": "application/json",
+            "Authorization": "Bearer " + getToken()
+        },
+        body: JSON.stringify({
+            eventId: eventId,
+            userId: name,
+            seatsBooked: parseInt(seats)
+        })
+    })
+    .then(res => res.text())
+    .then(msg => {
+        alert(msg);
+        loadBookings();
+        loadEvents();
+    });
+}
+
+function loadBookings(){
+    let token = getToken();
+
+    if(!token){
+        document.getElementById("bookingList").innerHTML =
+            `<p class="text-muted">Login to see your bookings</p>`;
+        return;
+    }
+
+    fetch("http://localhost:5003/api/bookings", {
+        headers: {
+            "Authorization": "Bearer " + token
+        }
+    })
+    .then(res => res.json())
+    .then(data => {
+        console.log("BOOKINGS:", data);
+
+        let html = "";
+
+        if(data.length === 0){
+            html = `<p class="text-muted">No bookings yet</p>`;
+        }
+
+        data.forEach(b => {
+            html += `
+            <div class="card shadow-sm border-0 p-3 mb-3">
+                <div class="d-flex justify-content-between">
+                    <div>
+                        <p class="mb-1"><b>User:</b> ${b.userId}</p>
+                        <p class="mb-1"><b>Event ID:</b> ${b.eventId}</p>
+                        <p class="mb-0"><b>Seats:</b> ${b.seatsBooked}</p>
+                    </div>
+                    <button onclick="cancelBooking(${b.id})" class="btn btn-danger btn-sm">
+                        Cancel
+                    </button>
+                </div>
+            </div>`;
+        });
+
+        document.getElementById("bookingList").innerHTML = html;
+    });
+}
+
+function cancelBooking(id){
+    fetch(`http://localhost:5003/api/bookings/cancel/${id}`, {
+        method: "DELETE",
+        headers: {
+            "Authorization": "Bearer " + getToken()
+        }
+    })
+    .then(res => res.text())
+    .then(msg => {
+        alert(msg);
+        loadBookings();
+        loadEvents();
+    })
+    .catch(err => console.log("Cancel error:", err));
+}
+
+loadEvents();
+loadBookings();
+</script>

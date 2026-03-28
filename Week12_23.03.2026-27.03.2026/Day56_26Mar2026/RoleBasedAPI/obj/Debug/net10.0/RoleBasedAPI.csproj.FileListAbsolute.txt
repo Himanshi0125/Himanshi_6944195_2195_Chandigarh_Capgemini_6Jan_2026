@@ -1,0 +1,136 @@
+E:/Capegemini_CU_Sec3_NetCoreAzure_Atul_Attri/week 12_23 To 29 march 2026/26 march 2026/RoleBasedAPI/obj/Debug/net10.0/RoleBasedAPI.csproj.AssemblyReference.cache
+E:/Capegemini_CU_Sec3_NetCoreAzure_Atul_Attri/week 12_23 To 29 march 2026/26 march 2026/RoleBasedAPI/obj/Debug/net10.0/rpswa.dswa.cache.json
+E:/Capegemini_CU_Sec3_NetCoreAzure_Atul_Attri/week 12_23 To 29 march 2026/26 march 2026/RoleBasedAPI/obj/Debug/net10.0/RoleBasedAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:/Capegemini_CU_Sec3_NetCoreAzure_Atul_Attri/week 12_23 To 29 march 2026/26 march 2026/RoleBasedAPI/obj/Debug/net10.0/RoleBasedAPI.AssemblyInfoInputs.cache
+E:/Capegemini_CU_Sec3_NetCoreAzure_Atul_Attri/week 12_23 To 29 march 2026/26 march 2026/RoleBasedAPI/obj/Debug/net10.0/RoleBasedAPI.AssemblyInfo.cs
+E:/Capegemini_CU_Sec3_NetCoreAzure_Atul_Attri/week 12_23 To 29 march 2026/26 march 2026/RoleBasedAPI/obj/Debug/net10.0/RoleBasedAPI.csproj.CoreCompileInputs.cache
+E:/Capegemini_CU_Sec3_NetCoreAzure_Atul_Attri/week 12_23 To 29 march 2026/26 march 2026/RoleBasedAPI/obj/Debug/net10.0/RoleBasedAPI.MvcApplicationPartsAssemblyInfo.cs
+E:/Capegemini_CU_Sec3_NetCoreAzure_Atul_Attri/week 12_23 To 29 march 2026/26 march 2026/RoleBasedAPI/obj/Debug/net10.0/RoleBasedAPI.MvcApplicationPartsAssemblyInfo.cache
+E:/Capegemini_CU_Sec3_NetCoreAzure_Atul_Attri/week 12_23 To 29 march 2026/26 march 2026/RoleBasedAPI/obj/Debug/net10.0/RoleBasedAPI.sourcelink.json
+E:/Capegemini_CU_Sec3_NetCoreAzure_Atul_Attri/week 12_23 To 29 march 2026/26 march 2026/RoleBasedAPI/bin/Debug/net10.0/appsettings.Development.json
+E:/Capegemini_CU_Sec3_NetCoreAzure_Atul_Attri/week 12_23 To 29 march 2026/26 march 2026/RoleBasedAPI/bin/Debug/net10.0/appsettings.json
+E:/Capegemini_CU_Sec3_NetCoreAzure_Atul_Attri/week 12_23 To 29 march 2026/26 march 2026/RoleBasedAPI/bin/Debug/net10.0/RoleBasedAPI.staticwebassets.endpoints.json
+E:/Capegemini_CU_Sec3_NetCoreAzure_Atul_Attri/week 12_23 To 29 march 2026/26 march 2026/RoleBasedAPI/bin/Debug/net10.0/RoleBasedAPI.exe
+E:/Capegemini_CU_Sec3_NetCoreAzure_Atul_Attri/week 12_23 To 29 march 2026/26 march 2026/RoleBasedAPI/bin/Debug/net10.0/RoleBasedAPI.deps.json
+E:/Capegemini_CU_Sec3_NetCoreAzure_Atul_Attri/week 12_23 To 29 march 2026/26 march 2026/RoleBasedAPI/bin/Debug/net10.0/RoleBasedAPI.runtimeconfig.json
+E:/Capegemini_CU_Sec3_NetCoreAzure_Atul_Attri/week 12_23 To 29 march 2026/26 march 2026/RoleBasedAPI/bin/Debug/net10.0/RoleBasedAPI.dll
+E:/Capegemini_CU_Sec3_NetCoreAzure_Atul_Attri/week 12_23 To 29 march 2026/26 march 2026/RoleBasedAPI/bin/Debug/net10.0/RoleBasedAPI.pdb
+E:/Capegemini_CU_Sec3_NetCoreAzure_Atul_Attri/week 12_23 To 29 march 2026/26 march 2026/RoleBasedAPI/bin/Debug/net10.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:/Capegemini_CU_Sec3_NetCoreAzure_Atul_Attri/week 12_23 To 29 march 2026/26 march 2026/RoleBasedAPI/bin/Debug/net10.0/Microsoft.AspNetCore.OpenApi.dll
+E:/Capegemini_CU_Sec3_NetCoreAzure_Atul_Attri/week 12_23 To 29 march 2026/26 march 2026/RoleBasedAPI/bin/Debug/net10.0/Microsoft.IdentityModel.Abstractions.dll
+E:/Capegemini_CU_Sec3_NetCoreAzure_Atul_Attri/week 12_23 To 29 march 2026/26 march 2026/RoleBasedAPI/bin/Debug/net10.0/Microsoft.IdentityModel.JsonWebTokens.dll
+E:/Capegemini_CU_Sec3_NetCoreAzure_Atul_Attri/week 12_23 To 29 march 2026/26 march 2026/RoleBasedAPI/bin/Debug/net10.0/Microsoft.IdentityModel.Logging.dll
+E:/Capegemini_CU_Sec3_NetCoreAzure_Atul_Attri/week 12_23 To 29 march 2026/26 march 2026/RoleBasedAPI/bin/Debug/net10.0/Microsoft.IdentityModel.Protocols.dll
+E:/Capegemini_CU_Sec3_NetCoreAzure_Atul_Attri/week 12_23 To 29 march 2026/26 march 2026/RoleBasedAPI/bin/Debug/net10.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:/Capegemini_CU_Sec3_NetCoreAzure_Atul_Attri/week 12_23 To 29 march 2026/26 march 2026/RoleBasedAPI/bin/Debug/net10.0/Microsoft.IdentityModel.Tokens.dll
+E:/Capegemini_CU_Sec3_NetCoreAzure_Atul_Attri/week 12_23 To 29 march 2026/26 march 2026/RoleBasedAPI/bin/Debug/net10.0/Microsoft.OpenApi.dll
+E:/Capegemini_CU_Sec3_NetCoreAzure_Atul_Attri/week 12_23 To 29 march 2026/26 march 2026/RoleBasedAPI/bin/Debug/net10.0/Swashbuckle.AspNetCore.Swagger.dll
+E:/Capegemini_CU_Sec3_NetCoreAzure_Atul_Attri/week 12_23 To 29 march 2026/26 march 2026/RoleBasedAPI/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+E:/Capegemini_CU_Sec3_NetCoreAzure_Atul_Attri/week 12_23 To 29 march 2026/26 march 2026/RoleBasedAPI/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+E:/Capegemini_CU_Sec3_NetCoreAzure_Atul_Attri/week 12_23 To 29 march 2026/26 march 2026/RoleBasedAPI/bin/Debug/net10.0/System.IdentityModel.Tokens.Jwt.dll
+E:/Capegemini_CU_Sec3_NetCoreAzure_Atul_Attri/week 12_23 To 29 march 2026/26 march 2026/RoleBasedAPI/obj/Debug/net10.0/rjimswa.dswa.cache.json
+E:/Capegemini_CU_Sec3_NetCoreAzure_Atul_Attri/week 12_23 To 29 march 2026/26 march 2026/RoleBasedAPI/obj/Debug/net10.0/rjsmrazor.dswa.cache.json
+E:/Capegemini_CU_Sec3_NetCoreAzure_Atul_Attri/week 12_23 To 29 march 2026/26 march 2026/RoleBasedAPI/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json
+E:/Capegemini_CU_Sec3_NetCoreAzure_Atul_Attri/week 12_23 To 29 march 2026/26 march 2026/RoleBasedAPI/obj/Debug/net10.0/scopedcss/bundle/RoleBasedAPI.styles.css
+E:/Capegemini_CU_Sec3_NetCoreAzure_Atul_Attri/week 12_23 To 29 march 2026/26 march 2026/RoleBasedAPI/obj/Debug/net10.0/staticwebassets.build.json
+E:/Capegemini_CU_Sec3_NetCoreAzure_Atul_Attri/week 12_23 To 29 march 2026/26 march 2026/RoleBasedAPI/obj/Debug/net10.0/staticwebassets.build.json.cache
+E:/Capegemini_CU_Sec3_NetCoreAzure_Atul_Attri/week 12_23 To 29 march 2026/26 march 2026/RoleBasedAPI/obj/Debug/net10.0/staticwebassets.development.json
+E:/Capegemini_CU_Sec3_NetCoreAzure_Atul_Attri/week 12_23 To 29 march 2026/26 march 2026/RoleBasedAPI/obj/Debug/net10.0/staticwebassets.build.endpoints.json
+E:/Capegemini_CU_Sec3_NetCoreAzure_Atul_Attri/week 12_23 To 29 march 2026/26 march 2026/RoleBasedAPI/obj/Debug/net10.0/swae.build.ex.cache
+E:/Capegemini_CU_Sec3_NetCoreAzure_Atul_Attri/week 12_23 To 29 march 2026/26 march 2026/RoleBasedAPI/obj/Debug/net10.0/staticwebassets.upToDateCheck.txt
+E:/Capegemini_CU_Sec3_NetCoreAzure_Atul_Attri/week 12_23 To 29 march 2026/26 march 2026/RoleBasedAPI/obj/Debug/net10.0/RoleBase.4FF7A4F5.Up2Date
+E:/Capegemini_CU_Sec3_NetCoreAzure_Atul_Attri/week 12_23 To 29 march 2026/26 march 2026/RoleBasedAPI/obj/Debug/net10.0/RoleBasedAPI.dll
+E:/Capegemini_CU_Sec3_NetCoreAzure_Atul_Attri/week 12_23 To 29 march 2026/26 march 2026/RoleBasedAPI/obj/Debug/net10.0/refint/RoleBasedAPI.dll
+E:/Capegemini_CU_Sec3_NetCoreAzure_Atul_Attri/week 12_23 To 29 march 2026/26 march 2026/RoleBasedAPI/obj/Debug/net10.0/RoleBasedAPI.pdb
+E:/Capegemini_CU_Sec3_NetCoreAzure_Atul_Attri/week 12_23 To 29 march 2026/26 march 2026/RoleBasedAPI/obj/Debug/net10.0/RoleBasedAPI.genruntimeconfig.cache
+E:/Capegemini_CU_Sec3_NetCoreAzure_Atul_Attri/week 12_23 To 29 march 2026/26 march 2026/RoleBasedAPI/obj/Debug/net10.0/ref/RoleBasedAPI.dll
+/Users/himanshi/Downloads/RoleBasedAPI/bin/Debug/net10.0/appsettings.Development.json
+/Users/himanshi/Downloads/RoleBasedAPI/bin/Debug/net10.0/appsettings.json
+/Users/himanshi/Downloads/RoleBasedAPI/bin/Debug/net10.0/RoleBasedAPI.staticwebassets.endpoints.json
+/Users/himanshi/Downloads/RoleBasedAPI/bin/Debug/net10.0/RoleBasedAPI
+/Users/himanshi/Downloads/RoleBasedAPI/bin/Debug/net10.0/RoleBasedAPI.deps.json
+/Users/himanshi/Downloads/RoleBasedAPI/bin/Debug/net10.0/RoleBasedAPI.runtimeconfig.json
+/Users/himanshi/Downloads/RoleBasedAPI/bin/Debug/net10.0/RoleBasedAPI.dll
+/Users/himanshi/Downloads/RoleBasedAPI/bin/Debug/net10.0/RoleBasedAPI.pdb
+/Users/himanshi/Downloads/RoleBasedAPI/bin/Debug/net10.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/himanshi/Downloads/RoleBasedAPI/bin/Debug/net10.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/himanshi/Downloads/RoleBasedAPI/bin/Debug/net10.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/himanshi/Downloads/RoleBasedAPI/bin/Debug/net10.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/himanshi/Downloads/RoleBasedAPI/bin/Debug/net10.0/Microsoft.IdentityModel.Logging.dll
+/Users/himanshi/Downloads/RoleBasedAPI/bin/Debug/net10.0/Microsoft.IdentityModel.Protocols.dll
+/Users/himanshi/Downloads/RoleBasedAPI/bin/Debug/net10.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/himanshi/Downloads/RoleBasedAPI/bin/Debug/net10.0/Microsoft.IdentityModel.Tokens.dll
+/Users/himanshi/Downloads/RoleBasedAPI/bin/Debug/net10.0/Microsoft.OpenApi.dll
+/Users/himanshi/Downloads/RoleBasedAPI/bin/Debug/net10.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/himanshi/Downloads/RoleBasedAPI/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/himanshi/Downloads/RoleBasedAPI/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/himanshi/Downloads/RoleBasedAPI/bin/Debug/net10.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/himanshi/Downloads/RoleBasedAPI/obj/Debug/net10.0/RoleBasedAPI.csproj.AssemblyReference.cache
+/Users/himanshi/Downloads/RoleBasedAPI/obj/Debug/net10.0/rpswa.dswa.cache.json
+/Users/himanshi/Downloads/RoleBasedAPI/obj/Debug/net10.0/RoleBasedAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/himanshi/Downloads/RoleBasedAPI/obj/Debug/net10.0/RoleBasedAPI.AssemblyInfoInputs.cache
+/Users/himanshi/Downloads/RoleBasedAPI/obj/Debug/net10.0/RoleBasedAPI.AssemblyInfo.cs
+/Users/himanshi/Downloads/RoleBasedAPI/obj/Debug/net10.0/RoleBasedAPI.csproj.CoreCompileInputs.cache
+/Users/himanshi/Downloads/RoleBasedAPI/obj/Debug/net10.0/RoleBasedAPI.MvcApplicationPartsAssemblyInfo.cs
+/Users/himanshi/Downloads/RoleBasedAPI/obj/Debug/net10.0/RoleBasedAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/himanshi/Downloads/RoleBasedAPI/obj/Debug/net10.0/RoleBasedAPI.sourcelink.json
+/Users/himanshi/Downloads/RoleBasedAPI/obj/Debug/net10.0/rjimswa.dswa.cache.json
+/Users/himanshi/Downloads/RoleBasedAPI/obj/Debug/net10.0/rjsmrazor.dswa.cache.json
+/Users/himanshi/Downloads/RoleBasedAPI/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json
+/Users/himanshi/Downloads/RoleBasedAPI/obj/Debug/net10.0/scopedcss/bundle/RoleBasedAPI.styles.css
+/Users/himanshi/Downloads/RoleBasedAPI/obj/Debug/net10.0/staticwebassets.build.json
+/Users/himanshi/Downloads/RoleBasedAPI/obj/Debug/net10.0/staticwebassets.build.json.cache
+/Users/himanshi/Downloads/RoleBasedAPI/obj/Debug/net10.0/staticwebassets.development.json
+/Users/himanshi/Downloads/RoleBasedAPI/obj/Debug/net10.0/staticwebassets.build.endpoints.json
+/Users/himanshi/Downloads/RoleBasedAPI/obj/Debug/net10.0/swae.build.ex.cache
+/Users/himanshi/Downloads/RoleBasedAPI/obj/Debug/net10.0/RoleBase.4FF7A4F5.Up2Date
+/Users/himanshi/Downloads/RoleBasedAPI/obj/Debug/net10.0/RoleBasedAPI.dll
+/Users/himanshi/Downloads/RoleBasedAPI/obj/Debug/net10.0/refint/RoleBasedAPI.dll
+/Users/himanshi/Downloads/RoleBasedAPI/obj/Debug/net10.0/RoleBasedAPI.pdb
+/Users/himanshi/Downloads/RoleBasedAPI/obj/Debug/net10.0/RoleBasedAPI.genruntimeconfig.cache
+/Users/himanshi/Downloads/RoleBasedAPI/obj/Debug/net10.0/ref/RoleBasedAPI.dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week12_23.03.2026-27.03.2026/Day56_26Mar2026/RoleBasedAPI/bin/Debug/net10.0/appsettings.Development.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week12_23.03.2026-27.03.2026/Day56_26Mar2026/RoleBasedAPI/bin/Debug/net10.0/appsettings.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week12_23.03.2026-27.03.2026/Day56_26Mar2026/RoleBasedAPI/bin/Debug/net10.0/RoleBasedAPI.staticwebassets.endpoints.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week12_23.03.2026-27.03.2026/Day56_26Mar2026/RoleBasedAPI/bin/Debug/net10.0/RoleBasedAPI
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week12_23.03.2026-27.03.2026/Day56_26Mar2026/RoleBasedAPI/bin/Debug/net10.0/RoleBasedAPI.deps.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week12_23.03.2026-27.03.2026/Day56_26Mar2026/RoleBasedAPI/bin/Debug/net10.0/RoleBasedAPI.runtimeconfig.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week12_23.03.2026-27.03.2026/Day56_26Mar2026/RoleBasedAPI/bin/Debug/net10.0/RoleBasedAPI.dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week12_23.03.2026-27.03.2026/Day56_26Mar2026/RoleBasedAPI/bin/Debug/net10.0/RoleBasedAPI.pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week12_23.03.2026-27.03.2026/Day56_26Mar2026/RoleBasedAPI/bin/Debug/net10.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week12_23.03.2026-27.03.2026/Day56_26Mar2026/RoleBasedAPI/bin/Debug/net10.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week12_23.03.2026-27.03.2026/Day56_26Mar2026/RoleBasedAPI/bin/Debug/net10.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week12_23.03.2026-27.03.2026/Day56_26Mar2026/RoleBasedAPI/bin/Debug/net10.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week12_23.03.2026-27.03.2026/Day56_26Mar2026/RoleBasedAPI/bin/Debug/net10.0/Microsoft.IdentityModel.Logging.dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week12_23.03.2026-27.03.2026/Day56_26Mar2026/RoleBasedAPI/bin/Debug/net10.0/Microsoft.IdentityModel.Protocols.dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week12_23.03.2026-27.03.2026/Day56_26Mar2026/RoleBasedAPI/bin/Debug/net10.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week12_23.03.2026-27.03.2026/Day56_26Mar2026/RoleBasedAPI/bin/Debug/net10.0/Microsoft.IdentityModel.Tokens.dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week12_23.03.2026-27.03.2026/Day56_26Mar2026/RoleBasedAPI/bin/Debug/net10.0/Microsoft.OpenApi.dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week12_23.03.2026-27.03.2026/Day56_26Mar2026/RoleBasedAPI/bin/Debug/net10.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week12_23.03.2026-27.03.2026/Day56_26Mar2026/RoleBasedAPI/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week12_23.03.2026-27.03.2026/Day56_26Mar2026/RoleBasedAPI/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week12_23.03.2026-27.03.2026/Day56_26Mar2026/RoleBasedAPI/bin/Debug/net10.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week12_23.03.2026-27.03.2026/Day56_26Mar2026/RoleBasedAPI/obj/Debug/net10.0/RoleBasedAPI.csproj.AssemblyReference.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week12_23.03.2026-27.03.2026/Day56_26Mar2026/RoleBasedAPI/obj/Debug/net10.0/rpswa.dswa.cache.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week12_23.03.2026-27.03.2026/Day56_26Mar2026/RoleBasedAPI/obj/Debug/net10.0/RoleBasedAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week12_23.03.2026-27.03.2026/Day56_26Mar2026/RoleBasedAPI/obj/Debug/net10.0/RoleBasedAPI.AssemblyInfoInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week12_23.03.2026-27.03.2026/Day56_26Mar2026/RoleBasedAPI/obj/Debug/net10.0/RoleBasedAPI.AssemblyInfo.cs
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week12_23.03.2026-27.03.2026/Day56_26Mar2026/RoleBasedAPI/obj/Debug/net10.0/RoleBasedAPI.csproj.CoreCompileInputs.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week12_23.03.2026-27.03.2026/Day56_26Mar2026/RoleBasedAPI/obj/Debug/net10.0/RoleBasedAPI.MvcApplicationPartsAssemblyInfo.cs
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week12_23.03.2026-27.03.2026/Day56_26Mar2026/RoleBasedAPI/obj/Debug/net10.0/RoleBasedAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week12_23.03.2026-27.03.2026/Day56_26Mar2026/RoleBasedAPI/obj/Debug/net10.0/RoleBasedAPI.sourcelink.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week12_23.03.2026-27.03.2026/Day56_26Mar2026/RoleBasedAPI/obj/Debug/net10.0/rjimswa.dswa.cache.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week12_23.03.2026-27.03.2026/Day56_26Mar2026/RoleBasedAPI/obj/Debug/net10.0/rjsmrazor.dswa.cache.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week12_23.03.2026-27.03.2026/Day56_26Mar2026/RoleBasedAPI/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week12_23.03.2026-27.03.2026/Day56_26Mar2026/RoleBasedAPI/obj/Debug/net10.0/scopedcss/bundle/RoleBasedAPI.styles.css
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week12_23.03.2026-27.03.2026/Day56_26Mar2026/RoleBasedAPI/obj/Debug/net10.0/staticwebassets.build.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week12_23.03.2026-27.03.2026/Day56_26Mar2026/RoleBasedAPI/obj/Debug/net10.0/staticwebassets.build.json.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week12_23.03.2026-27.03.2026/Day56_26Mar2026/RoleBasedAPI/obj/Debug/net10.0/staticwebassets.development.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week12_23.03.2026-27.03.2026/Day56_26Mar2026/RoleBasedAPI/obj/Debug/net10.0/staticwebassets.build.endpoints.json
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week12_23.03.2026-27.03.2026/Day56_26Mar2026/RoleBasedAPI/obj/Debug/net10.0/swae.build.ex.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week12_23.03.2026-27.03.2026/Day56_26Mar2026/RoleBasedAPI/obj/Debug/net10.0/RoleBase.4FF7A4F5.Up2Date
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week12_23.03.2026-27.03.2026/Day56_26Mar2026/RoleBasedAPI/obj/Debug/net10.0/RoleBasedAPI.dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week12_23.03.2026-27.03.2026/Day56_26Mar2026/RoleBasedAPI/obj/Debug/net10.0/refint/RoleBasedAPI.dll
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week12_23.03.2026-27.03.2026/Day56_26Mar2026/RoleBasedAPI/obj/Debug/net10.0/RoleBasedAPI.pdb
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week12_23.03.2026-27.03.2026/Day56_26Mar2026/RoleBasedAPI/obj/Debug/net10.0/RoleBasedAPI.genruntimeconfig.cache
+/Users/himanshi/Capegemini_CU_Sec3_dotnetWithAzure_Himanshi/Week12_23.03.2026-27.03.2026/Day56_26Mar2026/RoleBasedAPI/obj/Debug/net10.0/ref/RoleBasedAPI.dll

@@ -1,0 +1,31 @@
+@page
+@model EventApp.Pages.Events.RegisterModel
+
+<h2 class="mb-3">Register for Event</h2>
+
+<form method="post">
+
+    <div class="mb-3">
+        <label class="form-label fw-bold text-dark">Name</label>
+        <input asp-for="Registration.ParticipantName" class="form-control" />
+        <span asp-validation-for="Registration.ParticipantName" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label fw-bold text-dark">Email</label>
+        <input asp-for="Registration.Email" class="form-control" />
+        <span asp-validation-for="Registration.Email" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label fw-bold text-dark">Event</label>
+        <input asp-for="Registration.EventName" class="form-control" />
+        <span asp-validation-for="Registration.EventName" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Register</button>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

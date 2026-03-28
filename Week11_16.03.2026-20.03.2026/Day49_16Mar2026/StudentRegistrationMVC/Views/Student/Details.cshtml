@@ -1,0 +1,31 @@
+@model StudentRegistrationApp.Models.Student
+
+@{
+    ViewData["Title"] = "Student Details";
+}
+
+<div class="container mt-5">
+
+    @if (TempData["SuccessMessage"] != null)
+    {
+        <div class="alert alert-success">
+            @TempData["SuccessMessage"]
+        </div>
+    }
+
+    <h2 class="text-primary">Student Details</h2>
+
+    <div class="card mt-3" style="width:400px;">
+        <div class="card-body">
+
+            <p><strong>ID:</strong> @Model.Id</p>
+            <p><strong>Name:</strong> @Model.Name</p>
+            <p><strong>Age:</strong> @Model.Age</p>
+
+        </div>
+    </div>
+
+    <a asp-action="Register" class="btn btn-primary mt-3">Register Another Student</a>
+    <a asp-action="Index" class="btn btn-secondary mt-3">View All Students</a>
+
+</div>

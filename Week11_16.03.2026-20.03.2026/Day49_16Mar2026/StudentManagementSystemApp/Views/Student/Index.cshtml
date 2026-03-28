@@ -1,0 +1,54 @@
+@model List<StudentManagementSystemApp.Models.Student>
+
+<div class="container mt-5">
+
+<h2 class="text-primary">All Registered Students</h2>
+
+<div class="card shadow mt-3">
+
+<div class="card-body">
+<div class="d-flex justify-content-between align-items-center mb-3">
+<h2 class="text-primary">All Students</h2>
+<span class="badge bg-dark">@Model.Count Students</span>
+</div>
+<table class="table table-hover table-striped">
+
+<thead class="table-dark">
+<tr>
+<th>ID</th>
+<th>Name</th>
+<th>Age</th>
+<th>Email</th>
+<th>Action</th>
+</tr>
+</thead>
+
+<tbody>
+
+@foreach(var student in Model)
+{
+<tr>
+<td>@student.Id</td>
+<td>@student.Name</td>
+<td>@student.Age</td>
+<td>@student.Email</td>
+
+<td>
+<a asp-action="Details" asp-route-id="@student.Id" 
+   class="btn btn-info btn-sm">
+   View
+</a>
+</td>
+
+</tr>
+}
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+</div>

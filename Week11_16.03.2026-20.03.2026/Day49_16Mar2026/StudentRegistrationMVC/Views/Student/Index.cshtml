@@ -1,0 +1,44 @@
+@model List<StudentRegistrationApp.Models.Student>
+
+@{
+    ViewData["Title"] = "Students List";
+}
+
+<div class="container mt-5">
+
+<h2 class="text-primary">Registered Students</h2>
+
+<table class="table table-bordered table-striped mt-3">
+
+<thead class="table-dark">
+<tr>
+<th>ID</th>
+<th>Name</th>
+<th>Age</th>
+<th>Action</th>
+</tr>
+</thead>
+
+<tbody>
+
+@foreach(var student in Model)
+{
+<tr>
+<td>@student.Id</td>
+<td>@student.Name</td>
+<td>@student.Age</td>
+
+<td>
+<a asp-action="Details" asp-route-id="@student.Id" class="btn btn-info btn-sm">
+View
+</a>
+</td>
+
+</tr>
+}
+
+</tbody>
+
+</table>
+
+</div>

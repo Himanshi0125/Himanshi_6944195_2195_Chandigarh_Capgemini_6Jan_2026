@@ -1,0 +1,27 @@
+@model EmployeeManagementPortal.Models.Employee
+
+<div class="container mt-5">
+<div class="card shadow col-md-6 mx-auto p-4">
+
+<h3 class="text-center text-primary">Employee Registration</h3>
+
+<form method="post">
+
+<input asp-for="Name" class="form-control mb-2" placeholder="Name"/>
+<span asp-validation-for="Name" class="text-danger"></span>
+
+<input asp-for="Age" class="form-control mb-2" placeholder="Age"/>
+<span asp-validation-for="Age" class="text-danger"></span>
+
+<input asp-for="Email" class="form-control mb-2" placeholder="Email"/>
+<span asp-validation-for="Email" class="text-danger"></span>
+
+<input asp-for="Department" class="form-control mb-3" placeholder="Department"/>
+<span asp-validation-for="Department" class="text-danger"></span>
+
+<button class="btn btn-success w-100">Register</button>
+
+</form>
+
+</div>
+</div>

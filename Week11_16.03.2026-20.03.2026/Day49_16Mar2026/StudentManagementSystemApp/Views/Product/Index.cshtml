@@ -1,0 +1,32 @@
+@model List<StudentManagementSystemApp.Models.Product>
+
+<div class="container mt-5">
+
+<h2 class="text-primary">Products</h2>
+
+<a asp-action="Create" class="btn btn-success mb-3">Add Product</a>
+
+<table class="table table-striped">
+
+<tr>
+<th>ID</th>
+<th>Name</th>
+<th>Price</th>
+<th>Action</th>
+</tr>
+
+@foreach(var p in Model)
+{
+<tr>
+<td>@p.Id</td>
+<td>@p.Name</td>
+<td>₹@p.Price</td>
+<td>
+<a asp-action="Details" asp-route-id="@p.Id" class="btn btn-info btn-sm">View</a>
+</td>
+</tr>
+}
+
+</table>
+
+</div>

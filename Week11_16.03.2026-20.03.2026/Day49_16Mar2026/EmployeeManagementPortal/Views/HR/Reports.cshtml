@@ -1,0 +1,32 @@
+<div class="container mt-5">
+
+<h2 class="text-primary">HR Reports</h2>
+
+<div class="card p-4 mt-3">
+
+<h4>Total Employees: @ViewBag.TotalEmployees</h4>
+
+<hr />
+
+<h5>Department Wise Count</h5>
+
+<table class="table table-striped mt-3">
+
+<tr>
+<th>Department</th>
+<th>Employees</th>
+</tr>
+
+@foreach(var dept in ViewBag.DeptData)
+{
+<tr>
+<td>@dept.Department</td>
+<td>@dept.Count</td>
+</tr>
+}
+
+</table>
+
+</div>
+
+</div>

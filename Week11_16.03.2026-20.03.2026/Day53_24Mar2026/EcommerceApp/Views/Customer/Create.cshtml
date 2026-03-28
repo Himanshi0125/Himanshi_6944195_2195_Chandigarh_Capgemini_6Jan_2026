@@ -1,0 +1,14 @@
+@model Customer
+
+<div class="container mt-4">
+    <h2>Add Customer</h2>
+
+    <form asp-action="Create" method="post">
+        @Html.AntiForgeryToken()
+        <input asp-for="Name" class="form-control mb-2" placeholder="Name" />
+        <input asp-for="Email" class="form-control mb-3" placeholder="Email" />
+
+        <button class="btn btn-success">Save</button>
+        <a href="/Customer" class="btn btn-secondary">Back</a>
+    </form>
+</div>

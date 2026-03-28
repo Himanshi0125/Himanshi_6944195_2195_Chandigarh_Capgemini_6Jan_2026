@@ -1,0 +1,42 @@
+2026-03-27 14:33:06,191 INFO  PerformanceApi.Middleware.PerformanceMiddleware - API Started: /api/Product
+2026-03-27 14:33:06,246 INFO  PerformanceApi.Controllers.ProductController - API Started
+2026-03-27 14:33:11,253 INFO  PerformanceApi.Controllers.ProductController - API Completed in 5.0081083 sec
+2026-03-27 14:33:11,258 WARN  PerformanceApi.Controllers.ProductController - Slow API detected: 5.0081083 sec
+2026-03-27 14:33:11,275 INFO  PerformanceApi.Middleware.PerformanceMiddleware - API Completed in 5.108062 sec
+2026-03-27 14:33:11,275 WARN  PerformanceApi.Middleware.PerformanceMiddleware - Slow API detected: 5.108062 sec
+2026-03-27 15:25:55,680 INFO  PerformanceApi.Middleware.PerformanceMiddleware - API Started: /
+2026-03-27 15:25:55,690 INFO  PerformanceApi.Middleware.PerformanceMiddleware - API Completed in 0.022818 sec
+2026-03-27 15:37:50,509 INFO  PerformanceApi.Middleware.PerformanceMiddleware - API Started: /
+2026-03-27 15:37:50,518 INFO  PerformanceApi.Middleware.PerformanceMiddleware - API Completed in 0.023302 sec
+2026-03-27 15:38:01,780 INFO  PerformanceApi.Middleware.PerformanceMiddleware - API Started: /api/Product
+2026-03-27 15:38:01,791 INFO  PerformanceApi.Controllers.ProductController - API Started
+2026-03-27 15:38:06,793 INFO  PerformanceApi.Controllers.ProductController - API Completed in 5.001543 sec
+2026-03-27 15:38:06,794 WARN  PerformanceApi.Controllers.ProductController - Slow API detected: 5.001543 sec
+2026-03-27 15:38:06,800 INFO  PerformanceApi.Middleware.PerformanceMiddleware - API Completed in 5.019283 sec
+2026-03-27 15:38:06,800 WARN  PerformanceApi.Middleware.PerformanceMiddleware - Slow API detected: 5.019283 sec
+2026-03-27 15:38:38,523 INFO  PerformanceApi.Middleware.PerformanceMiddleware - API Started: /api/Product
+2026-03-27 15:38:38,524 INFO  PerformanceApi.Controllers.ProductController - API Started
+2026-03-27 15:38:43,525 INFO  PerformanceApi.Controllers.ProductController - API Completed in 5.000813 sec
+2026-03-27 15:38:43,525 WARN  PerformanceApi.Controllers.ProductController - Slow API detected: 5.000813 sec
+2026-03-27 15:38:43,538 INFO  PerformanceApi.Middleware.PerformanceMiddleware - API Completed in 5.015257 sec
+2026-03-27 15:38:43,538 WARN  PerformanceApi.Middleware.PerformanceMiddleware - Slow API detected: 5.015257 sec
+2026-03-27 15:38:43,589 INFO  PerformanceApi.Middleware.PerformanceMiddleware - API Started: /favicon.ico
+2026-03-27 15:38:43,589 INFO  PerformanceApi.Middleware.PerformanceMiddleware - API Completed in 0.000141 sec
+2026-03-27 16:03:32,266 INFO  PerformanceApi.Middleware.PerformanceMiddleware - API Started: /
+2026-03-27 16:03:32,275 INFO  PerformanceApi.Middleware.PerformanceMiddleware - API Completed in 0.022499 sec
+2026-03-27 16:03:41,670 INFO  PerformanceApi.Middleware.PerformanceMiddleware - API Started: /api/Product
+2026-03-27 16:03:41,681 INFO  PerformanceApi.Controllers.ProductController - API Started
+2026-03-27 16:03:46,682 INFO  PerformanceApi.Controllers.ProductController - API Completed in 5.001446 sec
+2026-03-27 16:03:46,683 WARN  PerformanceApi.Controllers.ProductController - Slow API detected: 5.001446 sec
+2026-03-27 16:03:46,689 INFO  PerformanceApi.Middleware.PerformanceMiddleware - API Completed in 5.018378 sec
+2026-03-27 16:03:46,689 WARN  PerformanceApi.Middleware.PerformanceMiddleware - Slow API detected: 5.018378 sec
+2026-03-27 16:04:18,619 INFO  PerformanceApi.Middleware.PerformanceMiddleware - API Started: /WeatherForecast
+2026-03-27 16:04:18,642 INFO  PerformanceApi.Middleware.PerformanceMiddleware - API Completed in 0.023231 sec
+2026-03-27 16:07:40,530 INFO  PerformanceApi.Middleware.PerformanceMiddleware - API Started: /api/Product
+2026-03-27 16:07:40,530 INFO  PerformanceApi.Controllers.ProductController - API Started
+2026-03-27 16:07:45,531 INFO  PerformanceApi.Controllers.ProductController - API Completed in 5.000787 sec
+2026-03-27 16:07:45,532 WARN  PerformanceApi.Controllers.ProductController - Slow API detected: 5.000787 sec
+2026-03-27 16:07:45,542 INFO  PerformanceApi.Middleware.PerformanceMiddleware - API Completed in 5.012476 sec
+2026-03-27 16:07:45,545 WARN  PerformanceApi.Middleware.PerformanceMiddleware - Slow API detected: 5.012476 sec
+2026-03-27 16:08:00,619 INFO  PerformanceApi.Middleware.PerformanceMiddleware - API Started: /WeatherForecast
+2026-03-27 16:08:00,621 INFO  PerformanceApi.Middleware.PerformanceMiddleware - API Completed in 0.002027 sec

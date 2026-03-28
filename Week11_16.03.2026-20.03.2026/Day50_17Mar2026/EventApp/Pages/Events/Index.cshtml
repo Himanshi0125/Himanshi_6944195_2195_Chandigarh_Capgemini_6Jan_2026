@@ -1,0 +1,55 @@
+@page
+@model EventApp.Pages.Events.IndexModel
+
+@* <h2 class="mb-3">Participants List</h2> *@
+
+<div class="d-flex justify-content-between align-items-center mb-3">
+    <h2>Participants List</h2>
+    <a asp-page="/Events/Register" class="btn btn-success shadow">
+    ➕ Add Participant
+</a>
+</div>
+
+<table class="table table-bordered table-striped">
+    <thead class="table-dark">
+        <tr>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Event</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Registrations)
+        {
+            <tr>
+                <td>@item.ParticipantName</td>
+                <td>@item.Email</td>
+                <td>@item.EventName</td>
+                <td>
+                    @if (User.IsInRole("Admin"))
+                    {
+                        <form method="post">
+                            <input type="hidden" name="id" value="@item.Id" />
+                            <button type="submit" asp-page-handler="Delete" class="btn btn-danger btn-sm">
+                                Delete
+                            </button>
+                        </form>
+                    }
+                    else
+                    {
+                        <span class="text-muted">No Access</span>
+                    }
+                </td>
+                <td>
+                    <form method="post">
+                        <input type="hidden" name="id" value="@item.Id" />
+                        <button type="submit" asp-page-handler="Delete" class="btn btn-danger btn-sm">
+                            Delete
+                        </button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

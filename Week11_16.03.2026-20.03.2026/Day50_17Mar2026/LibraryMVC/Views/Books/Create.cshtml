@@ -1,0 +1,45 @@
+@model LibraryMVC.ViewModels.BookViewModel
+
+<h2>Add New Book</h2>
+
+<form asp-action="Create" method="post">
+
+    <div class="mb-3">
+        <label>Title</label>
+        <input asp-for="Book.Title" class="form-control" />
+        <span asp-validation-for="Book.Title" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label>Author</label>
+        <input asp-for="Book.Author" class="form-control" />
+        <span asp-validation-for="Book.Author" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label>Published Year</label>
+        <input asp-for="Book.PublishedYear" class="form-control" />
+        <span asp-validation-for="Book.PublishedYear" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label>Genre</label>
+        <input asp-for="Book.Genre" class="form-control" />
+    </div>
+
+    <div class="form-check mb-3">
+        <input asp-for="IsAvailable" class="form-check-input" />
+        <label class="form-check-label">Available</label>
+    </div>
+
+    <div class="mb-3">
+        <label>Borrower Name</label>
+        <input asp-for="BorrowerName" class="form-control" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Add Book</button>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

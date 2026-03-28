@@ -1,0 +1,33 @@
+@model Order
+
+<div class="container mt-4">
+
+    <h2 class="mb-4">🧾 Order Details</h2>
+
+    <div class="card shadow p-3 mb-4">
+        <h5>Customer: @Model.Customer?.Name</h5>
+        <p>Date: @Model.OrderDate</p>
+        <p>Status: @Model.ShippingDetail?.Status</p>
+        <p><strong>Address:</strong> @Model.ShippingDetail?.Address</p>
+    </div>
+
+    <div class="card shadow p-3">
+        <h5>Products</h5>
+
+        <table class="table">
+            <tr>
+                <th>Product</th>
+                <th>Quantity</th>
+            </tr>
+
+            @foreach (var item in Model.OrderItems)
+            {
+                <tr>
+                    <td>@item.Product?.Name</td>
+                    <td>@item.Quantity</td>
+                </tr>
+            }
+        </table>
+    </div>
+
+</div>

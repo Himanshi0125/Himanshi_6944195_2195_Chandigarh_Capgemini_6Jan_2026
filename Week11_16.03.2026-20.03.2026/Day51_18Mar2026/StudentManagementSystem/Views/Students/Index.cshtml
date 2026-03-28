@@ -1,0 +1,120 @@
+@model List<StudentManagementSystem.Models.Student>
+
+@{
+    ViewData["Title"] = "Students";
+}
+
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" />
+
+<div class="container mt-4">
+
+    <h2 class="text-center mb-4">🎓 Student Management System</h2>
+
+    <!-- Add Button -->
+    <button class="btn btn-primary mb-3" data-bs-toggle="modal" data-bs-target="#studentModal">
+        + Add Student
+    </button>
+
+    <!-- Table -->
+    <div class="table-responsive">
+        <table class="table table-bordered table-hover text-center">
+            <thead class="table-dark">
+                <tr>
+                    <th>Name</th>
+                    <th>Email</th>
+                    <th>Course</th>
+                    <th>Joining Date</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var s in Model)
+                {
+                    <tr>
+                        <td>@s.Name</td>
+                        <td>@s.Email</td>
+                        <td>@s.Course</td>
+                        <td>@s.JoiningDate.ToShortDateString()</td>
+                        <td>
+                            <button class="btn btn-warning btn-sm"
+                                    onclick="editStudent(@s.Id,'@s.Name','@s.Email','@s.Course','@s.JoiningDate.ToString("yyyy-MM-dd")')">
+                                Edit
+                            </button>
+
+                            <a href="/Students/Delete/@s.Id" class="btn btn-danger btn-sm">
+                                Delete
+                            </a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="studentModal">
+    <div class="modal-dialog">
+        <div class="modal-content">
+
+            <form method="post" id="studentForm">
+
+                <div class="modal-header">
+                    <h5 class="modal-title">Student Form</h5>
+                    <button class="btn-close" data-bs-dismiss="modal"></button>
+                </div>
+
+                <div class="modal-body">
+
+                    <input type="hidden" name="Id" id="Id" />
+
+                    <div class="mb-2">
+                        <label>Name</label>
+                        <input class="form-control" name="Name" required />
+                    </div>
+
+                    <div class="mb-2">
+                        <label>Email</label>
+                        <input class="form-control" name="Email" type="email" required />
+                    </div>
+
+                    <div class="mb-2">
+                        <label>Course</label>
+                        <input class="form-control" name="Course" required />
+                    </div>
+
+                    <div class="mb-2">
+                        <label>Joining Date</label>
+                        <input class="form-control" name="JoiningDate" type="date" required />
+                    </div>
+
+                </div>
+
+                <div class="modal-footer">
+                    <button type="submit" class="btn btn-success">Save</button>
+                </div>
+
+            </form>
+
+        </div>
+    </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+
+<script>
+    function editStudent(id, name, email, course, date) {
+        document.getElementById("Id").value = id;
+        document.getElementsByName("Name")[0].value = name;
+        document.getElementsByName("Email")[0].value = email;
+        document.getElementsByName("Course")[0].value = course;
+        document.getElementsByName("JoiningDate")[0].value = date;
+
+        document.getElementById("studentForm").action = "/Students/Edit";
+
+        var modal = new bootstrap.Modal(document.getElementById('studentModal'));
+        modal.show();
+    }
+
+    document.getElementById("studentForm").action = "/Students/Create";
+</script>

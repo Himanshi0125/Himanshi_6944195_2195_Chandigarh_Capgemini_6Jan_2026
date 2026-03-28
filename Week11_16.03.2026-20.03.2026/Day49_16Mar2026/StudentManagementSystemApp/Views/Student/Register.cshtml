@@ -1,0 +1,38 @@
+@model StudentManagementSystemApp.Models.Student
+
+<div class="container mt-5">
+<div class="card shadow p-4 col-md-6 mx-auto">
+
+<h3 class="text-center text-primary">Student Registration</h3>
+
+<form method="post">
+
+<div class="mb-3">
+<label>Name</label>
+<input asp-for="Name" class="form-control"/>
+<span asp-validation-for="Name" class="text-danger"></span>
+</div>
+
+<div class="mb-3">
+<label>Age</label>
+<input asp-for="Age" class="form-control"/>
+<span asp-validation-for="Age" class="text-danger"></span>
+</div>
+
+<div class="mb-3">
+<label>Email</label>
+<input asp-for="Email" class="form-control"/>
+<span asp-validation-for="Email" class="text-danger"></span>
+</div>
+
+<div class="d-flex gap-2">
+<button class="btn btn-success w-50">Register</button>
+<a asp-action="Index" class="btn btn-outline-dark w-50">
+View All Students
+</a>
+</div>
+
+
+</form>
+</div>
+</div>

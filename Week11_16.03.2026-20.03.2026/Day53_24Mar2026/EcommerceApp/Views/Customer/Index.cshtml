@@ -1,0 +1,22 @@
+@model List<Customer>
+
+<div class="container mt-4">
+    <h2>Customers</h2>
+
+    <a href="/Customer/Create" class="btn btn-primary mb-2">Add Customer</a>
+
+    <table class="table table-bordered">
+        <tr>
+            <th>Name</th>
+            <th>Email</th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Name</td>
+                <td>@item.Email</td>
+            </tr>
+        }
+    </table>
+</div>
